@@ -1,4 +1,6 @@
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000000_7546ad79bf906b343951c31550354748ad6e1f91398d3c696914ac851fd7b540.png)
+**Description**: The image presents the logo for "Singapura Finance" set against a blurry sky-blue background. The word "Singapura" is written in a dark reddish-purple color, with a slight white glow around it, positioned above the words "Finance" in orange and some Chinese characters written in a similar orange color. To the right of the text is an abstract, stylized orange bird, appearing to be in flight, further emphasizing the brand identity.
+
 
 ## Connecting People Empowering Businesses
 
@@ -7,12 +9,18 @@ ANNUAL REPORT 2022
 ## OUR CORE VALUES
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000001_394422a15d227f2e4de007ea33a47c7db203439c5001277c05ae62ea036253cb.png)
+**Description**: The image is a circular icon with a dark purple background. Centered on the icon is a white outline drawing of a target with concentric circles, supported by a small stand. Two arrows, also outlined in white, are depicted. One arrow is piercing the center of the target, while the other is positioned to the upper-left of the target, missing the center but still within the target's circles. The overall impression is a symbol related to goals, accuracy, and hitting the mark.
+
+
 
 ## SHAREHOLDER VALUE
 
 We enhance our shareholder value by consistently delivering sustainable earnings in line with our prudent risk management framework.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000002_23b68e5f0c63a38bab35b94a934076c77a749db2987fc529526677769579c67d.png)
+**Description**: The image is a circular, maroon-colored icon featuring a white line drawing of four hands arranged in a square pattern. Each hand is depicted with fingers extended and positioned to suggest collaboration or support. The simplified, linear style of the hands gives the impression of a symbolic representation of teamwork and unity.
+
+
 
 ## PEOPLE DEVELOPMENT
 
@@ -23,20 +31,32 @@ At  Singapura  Finance,  we  believe  that  our  values  are  our 'guiding beaco
 Efficiency ( S.P.I.C.E )
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000003_63f649f84cce2904d9d853ec6282a703b236a0c59d543bec89f5907a13855030.png)
+**Description**: The image shows a white line drawing of a set of scales balanced, with a simplified human figure standing on each side. The drawing is set against a solid, dark reddish-purple circle. The figures are identical in appearance, suggesting a concept of equality or balance between individuals.
+
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000004_c34033671055900d109f93217630ebdf63aaa710d95fe4984880efbe4309c60a.png)
+**Description**: The image features a circular logo on a dark purple background. Inside the circle are two stylized figures with overlapping torsos, represented by white outlines, standing above two open, upward-facing hands, also represented by white outlines. The design suggests support, collaboration, or partnership.
+
+
 
 ## INTEGRITY
 
 We are open and fair in our dealings while maintaining highest integrity at all times. We strive for excellence and professionalism in what we do.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000005_a9cecdfb3ebf067276c82e40d6df3308c2636c3d21b80c47d328f04e238c7cf6.png)
+**Description**: The image is a promotional advertisement for "Singapura Finance" and portrays digital banking with a global reach, featuring a globe with glowing interconnected nodes hovering over a tablet displaying a user's hand and finance icons such as a bank building, mobile wallet, and online banking, all tied together by glowing lines and lights, giving it a futuristic and technological feel.
+
+
 
 ## CUSTOMER FOCUS
 
 We build trust and long-term relationships by being responsive and relevant to our customers' needs.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000006_45860b5f308833ae6af82a0e6d962565a0150b79415b27664c10663399347cd7.png)
+**Description**: The image depicts a white outline of a compass, featuring a circular frame with tick marks indicating directions and a central pointer, set against a solid, dark reddish-purple circular background.
+
+
 
 ## EFFICIENCY
 
@@ -99,6 +119,9 @@ Our Chinese name, , stands for prosperity and elegance. It links our roots to ou
 | CONSOLIDATED STATEMENT OF CHANGES IN EQUITY    |
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000007_de2d4da3990034f965ee0683a86f4d8f7111cb6e4d2807a7a9b8155e8298ba53.png)
+**Description**: The image displays the logo for Singapura Finance. The name "Singapura" is written in a dark purple, elegant font, situated above the words "FINANCE" in orange and its Chinese translation in a similar orange color. To the upper right of the name is an orange abstract image of a bird with stylized feathers appearing to take flight, seemingly rising upward. The overall design has a clean and modern aesthetic.
+
+
 
 ## THE SINGAPURA FINANCE BRAND
 
@@ -113,6 +136,8 @@ PROXY FORM
 /gid00021 /gid00006 /gid00016 /gid00001/gid00004 /gid00009/gid00010 /gid00002 /gid00015/gid00008 /gid00001/gid00013 /gid00016 /gid00015/gid00008 /gid00001 Executive Chairman
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000008_f69b55d624dfa90f8e9f120093bbde385267374fb17056d3a78772748ef459bf.png)
+**Description**: The image shows a portrait of an Asian man with short gray hair and glasses, dressed in a black suit, white shirt, and patterned orange tie. He has a gentle smile on his face. Behind him is a graphic background featuring a wireframe globe with glowing points of light and data charts, creating an impression of global connectivity and finance. The color palette is dominated by blues, reds, and whites, giving it a professional and technological feel.
+
 
 On  behalf  of  the  Board  of  Directors, I  am  pleased  to  present  the  Annual Report  and  Financial  Statements  of the  Group  and  the  Company  for  the financial  year  ended  31  December 2022 ('FY2022').
 
@@ -173,16 +198,25 @@ Singapore 24 February 2023
 ## BOARD OF DIRECTORS
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000009_df35557a70b6953903e7a40b2594922086c0b5188e38d780e545ea495b056b92.png)
+**Description**: The image is a portrait of an Asian man, likely in his 60s or 70s, wearing glasses, a white collared shirt, a dark suit jacket, and a reddish-brown patterned tie; he is smiling slightly and looking directly at the viewer, all set against a white circular background.
+
+
 
 /gid00021 /gid00006 /gid00016 /gid00001/gid00004 /gid00009/gid00010 /gid00002 /gid00015/gid00008 /gid00001/gid00013 /gid00016 /gid00015/gid00008 Executive Chairman
 
 /gid00011 /gid00002 /gid00014 /gid00010 /gid00006 /gid00001 /gid00021 /gid00006 /gid00016/gid00001/gid00014 /gid00010 /gid00002 /gid00015/gid00008 /gid00001/gid00026 /gid00006 /gid00016/gid00024 Chief Executive Officer and Executive Director
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000010_59e54f0d43a63ebbbc2e45159aca13781c3fc7ca57f3255a21021945cf33127b.png)
+**Description**: The image depicts a headshot of an Asian man with short, dark hair, wearing glasses, a light blue collared shirt, and a black blazer, set against a blurred white background.
+
+
 
 /gid00026 /gid00022/gid00317/gid00007 /gid00016 /gid00016 /gid00001/gid00026 /gid00006 /gid00006 /gid00001/gid00020 /gid00009/gid00016 /gid00016 /gid00015 Independent Non-Executive Director
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000011_159e2eefc27becd8804d047051d7157fa14e566b6924d39c56fed61bb1205076.png)
+**Description**: The image features a professionally-shot portrait of a smiling Asian woman with short, dark hair, wearing a navy blue blazer or jacket and a dark-colored blouse or shirt underneath. A green and silver decorative pin shaped like a stylized leaf or country outline is pinned to the lapel of her jacket. She has a warm complexion and is wearing red lipstick. The image is cropped into a circle and has a solid white background.
+
+
 
 Mr. Teo Chiang Long joined the Board on 10 March 1981 as a Director and was appointed  as  Managing  Director  and  Chief  Executive  Officer  of  the  Company on  1  March  1989.    He  was  appointed  as  Executive  Chairman  of  the  Board  on 8 November 2002.  Mr. Teo was last re-appointed as a Director pursuant to Article 97 of the Constitution of the Company at the Annual General Meeting ('AGM ') of the Company on 11 June 2020.
 
@@ -205,10 +239,16 @@ Her  present  directorships  include  ARA  Trust  Management  (Suntec)  Limited,
 /gid00021 /gid00006 /gid00016 /gid00009/gid00001/gid00006 /gid00015/gid00008 /gid00001/gid00009/gid00016 /gid00015/gid00008 Independent Non-Executive Director
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000012_4c1582d3eb62e47721041e4f851b84dd50b5ee75cb9ec181138404419bb5af43.png)
+**Description**: The image shows a headshot of an elderly Asian man with gray hair and glasses, smiling slightly and wearing a dark suit jacket and a red and white striped bow tie, all set against a white circular background.
+
+
 
 /gid00021 /gid00002 /gid00015/gid00001/gid00009/gid00022/gid00010 /gid00001 /gid00012 /gid00006 /gid00015/gid00008 /gid00164 /gid00001 /gid00014 /gid00002 /gid00019 /gid00021 /gid00009/gid00002 Independent Non-Executive Director
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000013_223a16efc3c9cbaa59bbccaf77cad49f2ffa1ccfb6a651971a75f4954702471e.png)
+**Description**: The image shows a head and shoulders portrait of an Asian woman with short, dark hair and glasses, wearing a gray blazer over a light pink collared shirt and a pearl necklace. A decorative brooch is pinned to the blazer's lapel. The background is plain white and the portrait appears to be within a circular frame.
+
+
 
 ## BOARD OF DIRECTORS
 
@@ -233,16 +273,25 @@ Mdm.  Tan  holds  a  Degree  (Honours)  in  Accountancy  from  the  University  
 ## BOARD OF DIRECTORS
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000014_24e3deab357a33cfea9a32dc4c8cefb479ff7bbae4c0f7632bff80e376d5443d.png)
+**Description**: The image shows a headshot of an Asian man, likely in his late 30s to early 40s, wearing a white collared shirt and a black suit jacket; he has short, neatly styled dark hair with some graying at the temples, and he is smiling slightly with a neutral, pleasant expression. The background is a solid white circle, isolating the subject.
+
+
 
 /gid00002 /gid00005/gid00002 /gid00014 /gid00001/gid00021 /gid00002 /gid00015/gid00001/gid00004 /gid00009/gid00010 /gid00015/gid00001/gid00009/gid00002 /gid00015 Independent Non-Executive Director
 
 /gid00001 /gid00024/gid00010 /gid00013 /gid00013 /gid00010 /gid00002 /gid00014 /gid00001/gid00009/gid00016/gid00001/gid00002 /gid00009/gid00001/gid00020 /gid00006 /gid00015/gid00008 Independent Non-Executive Director
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000015_3230b2fec35145e5b843736a927ff17afd61f69bd46a76e95fe2eed146d9509b.png)
+**Description**: The image is a portrait of an older gentleman with fair skin, wearing glasses, a dark suit, and a red and white patterned tie. He is smiling slightly and appears to be of Asian descent. The background is a plain white circle.
+
+
 
 /gid00001 /gid00021/gid00006/gid00019/gid00006/gid00015 /gid00004/gid00006/gid00001 /gid00012 /gid00009 /gid00016/gid00016/gid00001 /gid00004/gid00009 /gid00010 /gid00001 /gid00020/gid00010 /gid00002/gid00015 /gid00008 Independent Non-Executive Director
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000016_2defc49469664232f972f0ba04a7cd674d24bc6b9042db6a4ffa246f65071f90.png)
+**Description**: The image is a portrait of a middle-aged Asian man, likely in his 40s or 50s, smiling warmly at the camera. He has short, dark hair and is wearing a dark suit jacket, a crisp white dress shirt, and a patterned pink tie. The background is a white, oval shape, isolating the subject. His expression is friendly and professional.
+
+
 
 Mr. Adam Tan Chin Han joined the Board on 3 January 2017 as an Independent Non-Executive  Director.  Mr.  Tan  is  the  Chairman  of  the  Risk  Management Committee and is a member of the Audit, Nominating, Remuneration, Executive and Digitalization Committees. He was last re-elected as a Director pursuant to Article  97  of  the  Constitution  of  the  Company  at  the  Annual  General  Meeting ('AGM ') of the Company held on 22 April 2022.
 
@@ -293,12 +342,24 @@ Mr. Khoo holds a L.L.B Law from The University of Sheffield.
 The  Group  aims  to  maintain  a strong capital position to ensure market confidence, to support its on-going  business  and  to  meet the  expectations  of  depositors, customers  and  investors  alike. The Company is also required to comply with regulatory standards of  capital  requirements  through the  maintenance  of  a  minimum capital adequacy ratio at all times, and to transfer a requisite proportion of its annual net profit to the statutory reserve which is not  available  for  distribution  to shareholders. Our dividend policy aims to provide shareholders with sustainable dividend return over the long term by balancing growth with prudent capital management and subject to the profitability  of  the  Group.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000017_1dcd41510d9f07c9829ee8ad4f3c682f6a71da049c8361f2dcdb6cd589fe048a.png)
+**Description**: The image is a simple horizontal bar chart displaying loan amounts in Singapore dollars (S$ million) from 2018 to 2022. Each year is listed vertically on the left, and the corresponding loan amount is shown to the right, connected by a gradient orange bar with a circular indicator. The loans in 2021 were the highest (901.6), while the loans in 2018 were the lowest (688.8). The loan amount in 2022 is 851.4, and it has a darker shade of orange than the other years.
+
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000018_05ccef8149a105512b35822fa380a9b1794d0a65e2771a5f698b5778ee719be0.png)
+**Description**: The image is a bar chart displaying "Profit Before Tax" in Singapore Dollars (S$ million) for the years 2018 to 2022. Each year is represented by a horizontal bar, with the length of the bar corresponding to the profit amount, which is numerically listed to the right of each bar. The profit amounts are: 2018 - 9.0, 2019 - 9.0, 2020 - 5.6, 2021 - 11.5, and 2022 - 10.1. The bars are shaded in orange, with the shading fading from a darker orange to white as they approach the right side.
+
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000019_fa424e2286947ff8c22a676aeeca27432b8190680c12b9459c824a96d1b9042e.png)
+**Description**: The image presents a horizontal bar chart illustrating deposit amounts in S$ million from 2018 to 2022. The title "DEPOSITS" is at the top, followed by the scale indicator "S$ million". Each year is listed on the left, with a corresponding horizontal bar and numerical value on the right. The bars are gradient-filled, fading from a darker orange on the left to a lighter color towards the right, with the deposit amounts decreasing from 2021 (908.0) to 2022 (893.8), and with other previous years being; 2020 (907.5), 2019 (845.5), and 2018 (726.5).
+
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000020_0984cead0d20a57bcd400959791bea05ee3d98f1dca004e458193be0f87d586e.png)
+**Description**: The image presents a visualization of net dividend per share in cents for the years 2018 through 2022, utilizing horizontal bars of varying lengths to represent the value for each year, with the corresponding value printed to the right of each bar; specifically, the net dividend per share was 4.0 cents in 2018, 3.5 cents in 2019, 1.5 cents in 2020, 4.0 cents in 2021, and 3.3 cents in 2022.
+
+
 
 ## FINANCIAL REVIEW
 
@@ -522,6 +583,9 @@ $
 /gid00020 /gid00022 /gid00020 /gid00021 /gid00002 /gid00010 /gid00015 /gid00002 /gid00003 /gid00010 /gid00013 /gid00010 /gid00021 /gid00026 /gid00001 /gid00019 /gid00006 /gid00017 /gid00016 /gid00019 /gid00021 /gid00010 /gid00015 /gid00008 /gid00004 /gid00016 /gid00019 /gid00017 /gid00016 /gid00019 /gid00002 /gid00021 /gid00006
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000021_123fbf89f38d28768f576dfd6aef116290aa780a79cc92a7c69157ca9ddaaf14.png)
+**Description**: The image shows the logo for "Singapura Finance" against a green background. The word "Singapura" is written in white, below which "Finance" is also written in white, together with Chinese characters. To the upper right of the text is a stylized white image resembling a bird in flight.
+
+
 
 ## BOARD STATEMENT
 
@@ -563,6 +627,8 @@ The  Board  of  Directors  incorporates sustainability issues as part of the com
 SFL's SSC consists of senior management team members. The SSC manages and  monitors  the  overall  sustainability performance of SFL and is supported by the  Sustainability  Task  Force  ('STF')  to drive  sustainability  programme  across the organisation. SFL's STF includes representatives across functions  and divisions. Internal audit reviews the sustainability  framework and reporting process, including the internal controls over the data collated and reported in this Report.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000022_c8047e06ea7670c38ebe1db1b5ddde1c0180ad45f7b6ad44f9e78819879e5954.png)
+**Description**: The image shows a pyramid-shaped organizational chart outlining the responsibilities of different levels within a company regarding sustainability, with the "Board" at the top, responsible for incorporating sustainability into strategic formulation and managing ESG factors, followed by the "Sustainability Steering Committee (SSC)" which develops sustainability objectives and reports to the Board, then the "Sustainability Task Force (STF)" driving the sustainability program across the organization, and finally, "All Staff" at the base.
+
 
 Depicts  SFL's  sustainability  governance  structure.  The  Board  appoints  senior management  team  members  to  the  SSC  who  manage  sustainability.  The  STF comprises  of  representatives  across  functions  who  drive  the  sustainability programme in SFL.
 
@@ -595,12 +661,23 @@ This  Report  and  additional  corporate  information  are  available  on  our  
 In FY2022, we reviewed and re-validated the list of material factors identified to ensure their relevance to our business and stakeholders. The Company's material and additional ESG factors and references for the detailed information are summarised in Table 2.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000023_43492dc23bf89320e8d4b71b111395bedf74c339f66aa8aee25898a874c55bad.png)
+**Description**: The image shows a circular icon with a dark teal background, containing a bright yellow speech bubble with a white dollar sign ($) in its center; the bubble and dollar sign have a slight 3D appearance with subtle shading, and a long shadow extends from the bubble toward the lower right, suggesting a light source from the upper left.
+
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000024_e5ecb5f85216a03d6368a9d50449c5fb1caf9b98af37425875fcb3c5eebbe34a.png)
+**Description**: The image is a stylized globe icon set against a solid blue circle. The globe itself is rendered with shades of blue and light teal, representing landmasses and oceans. The depiction is simplified, focusing on recognizable continental outlines without detailed geographic features. A long shadow extends diagonally from the globe, adding a sense of depth and dimension.
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000025_5d82021e0797546cfa37716f0c981b154b088f8f19a4e0568343736dfb1bfa27.png)
+**Description**: The image is a circular icon, featuring a simplified, faceless avatar of a person in a suit and tie against a dark blue background; the avatar has a light beige skin tone, a dark grey suit, and a light blue tie, and it casts a long shadow diagonally to the right, giving the icon a slightly 3D effect.
+
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000026_89c886db26451b2d861615b3df430bd6f2267beffb5b0f14bba8099072e6b152.png)
+**Description**: The image is a circular icon with a blue background containing a stylized graphic representing justice or law. A balanced scale, depicted with empty white pans, is the central element, overlaid on top of an orange rectangle.  A white, stylized hand or legal document with a partially visible asterisk or symbol near its bottom edge is also present between the scale's pans.
+
+
 
 Table 2 . SFL's material factors categorised by sustainability category and page link to detailed information.
 
@@ -703,12 +780,16 @@ Electricity usage is our main source of energy consumption. In FY2022, SFL achie
 Going forward, SFL has plans to start the process of adopting the  Task  Force  on  Climate  Related  Financial  Disclosures (TCFD) recommendations in line with SGX requirements.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000027_bd9c554640d79da28c58e4a9875b0a74e585791b6fcbcb775666bb41a80d4ea9.png)
+**Description**: The bar graph depicts energy consumption in kWh from FY2017 to FY2022. The consumption decreased year-on-year, with small reductions in FY2018, FY2019 and FY2020 and a small increase in FY2021, and a significant decrease in FY2022. The bars are grey except for FY2022, which is orange, with a dotted line representing the descending trend. The energy consumption values and percentage changes are labeled above each bar.
+
 
 ## CORPORATE SUSTAINABILITY REPORTING
 
 Figure 1 .  Annual energy consumption of SFL from FY2017 FY2022. (A) Shows the annual energy consumption of all SFL premises. (B) Shows  the  annual  energy  consumption  per employee in all premises. Year-on-year percentage reduction shown in red font.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000028_16409914ebddab4e6d6756a1e465d2dfa910fc21c9066535020258040836d2e4.png)
+**Description**: The bar graph displays the energy intensity (kWh/employee) from FY2017 to FY2022, with gray bars representing the energy intensity for FY2017 to FY2021 and an orange bar representing FY2022; a dotted line indicates a general downward trend in energy intensity over the years, with percentage changes labeled above each bar relative to the previous year's energy intensity. The energy intensity values are as follows: 3,094 (FY2017), 2,768 (FY2018), 2,679 (FY2019), 2,762 (FY2020), 2,861 (FY2021), and 2,552 (FY2022).
+
 
 SFL's greenhouse gas (GHG) emissions are entirely Scope 2 and are generated due to acquired electricity. From FY2021 to FY2022, SFL's production of total annual GHG emissions decreased  by  12%  and  the  GHG  emission  intensity  per employee decreased by 11% (Table 4).
 
@@ -742,8 +823,14 @@ The following figures present SFL's annual water consumption (m³) and water con
 Figure 2 .  SFL's annual water consumption in all premises from FY2020 to FY2022. (A) Shows the annual water consumption and year-on-year percentage reduction of water consumption (m³). (B) Shows  annual  water  intensity  per  employee  and year-on-year percentage reduction of water intensity. Yearon-year percentage reduction shown in red font.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000029_a09a7b8abb1256cd63eef8061e228fa068285bed4ab7a987e4d6b80dc137a7ef.png)
+**Description**: The bar graph shows the water consumption in cubic meters (m³) over three fiscal years: FY2020, FY2021, and FY2022.  The water consumption decreased over time, starting at 1,205.2 m³ in FY2020, then dropping to 568.9 m³ in FY2021, and further decreasing to 443.2 m³ in FY2022; FY2022 bar is a different color to highlight the final year.  A dotted line connects the tops of the bars, illustrating the downward trend.
+
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000030_181ebc72c039e83289de08ddab39ed1c6905da5d5aeba69140f5815a43bf51d5.png)
+**Description**: The image is a bar graph illustrating the water consumption per employee in cubic meters for the fiscal years 2020, 2021, and 2022, with values of 11.5, 5.5, and 4.4 respectively, and a dotted line connecting the tops of the bars to show a downward trend; the graph indicates a 51.9% decrease in water consumption between FY2020 and FY2021 and a 21.0% decrease between FY2021 and FY2022, with the FY2022 bar colored in orange.
+
+
 
 We continue to encourage the reduction of water consumption for all employees by reminding employees in customer  centres  to  use  water  conservatively  at  all  times. Going  forward,  SFL  will  continue  to  assess  initiatives  to reduce  water  consumption  and  aim  to  maintain  current consumption levels as per previous years.
 
@@ -760,12 +847,16 @@ We continue to embrace the Tripartite Guidelines on Fair Employment  Practices  
 SFL recruits  potential  employees through a vast range of  channels  such  as  collaborating  with  professional recruitment consultants, leveraging on internet recruitment  platforms  and  encouraging  staff  referrals. In  FY2022,  we've  maintained  online  interviews  to  suit current hybrid working models. In FY2022, 25% of new employee  hires  were  male  and  75%  were  female (Figure  3).  Furthermore,  21%  of  new  hires  were  under the age of thirty, 54% were between thirty and fifty years old and 25% was over the age of fifty (Figure 3). Below charts represent the percentage of new employee hires by gender and age group.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000031_e1e09d0bc1576b97236f219a0dce049ed35c90eda43be4b90b832e8ce8e71cf6.png)
+**Description**: The image depicts a job interview scenario, showing a person in a blue suit, white shirt, and blue tie sitting across a wooden table from a person wearing a hijab; the person in the suit is holding a paper and gesturing, while a resume is on the table in front of the hijab-wearing person, who has their hands clasped together.
+
 
 ## CORPORATE SUSTAINABILITY REPORTING
 
 Figure  3 .  Differences  in  diversity  in  new  employee  hires in  FY2022. (A) New  employee  hires  by  gender. (B) New employee hires by age.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000032_ae4184e14ac3b0d7a4b21f0203db04f3790e5702aeff8be1dfd5eea93836295a.png)
+**Description**: The image consists of two donut charts, labeled (A) and (B), that display percentage distributions. Chart (A) illustrates gender distribution with 25% being male (orange) and 75% being female (gray). Chart (B) represents age distribution with 21% under 30 years old (orange), 54% between 30-50 years old (gray), and 25% over 50 years old (blue).
+
 
 ## (ii) Employment Practices
 
@@ -804,6 +895,8 @@ We collect ad-hoc feedback from our employees and conduct benchmarking analysis 
 Figure 4 . Total employee turnover in FY2022. (A) Turnover by gender. (B) Turnover by age category.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000033_201a07f8bd9c78ef4fb03d9cd6b60fbe84f291e712c02a596eec60c1bb7ed011.png)
+**Description**: The image consists of two doughnut charts, labeled (A) and (B). Chart (A) shows the gender distribution, with females representing 64% and males 36%. Chart (B) illustrates age distribution, with 11% under 30 years old, 57% between 30-50 years old, and 32% over 50 years old.
+
 
 For talent retention, the HODs engage our employees actively, and  conduct  annual  performance  appraisals.  There  is  a Performance Improvement Plan for staff  who  may  require corrective actions.  HODs are also responsible for assigning projects  to  high-potential  staff  to  assess  their  capability and  competencies.  Rewards  in  the  form  of  performance bonus  and  merit  increment/promotions  are  given  to  high performing employees to retain talents.
 
@@ -814,6 +907,8 @@ For talent retention, the HODs engage our employees actively, and  conduct  annu
 We believe in enforcing fair employment practices across all levels of the Company. Active promotion of diversity and equality at work can generate significant benefits for both SFL and our employees. In FY2022, 25% percent of the Board was female and 75% was male compared to 22% female and 78% male in FY2021 (Figure 5). The percentage of Board members between 30 to 50 years old decreased by 8% in FY2022 compared to FY2021 (Figure 6). The proportion of employees based on gender remained largely the same between FY2021 and FY2022 with a 2% decrease of males (Figure 7) out of a total of 102 full-time employees (Table 5).
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000034_b3421c8ac6715e339b9922910cea2c42eacde764b61338cb76a0563372de9507.png)
+**Description**: The image presents three sets of donut charts comparing data from FY2021 and FY2022. The first set of charts compares the percentage of Board of Directors members by gender, showing a slight decrease in male representation from 78% to 75% and a corresponding increase in female representation from 22% to 25%.  The second set of charts compares the age distribution of the Board of Directors, indicating that there were no members below the age of 30 and that the percentage of members over 50 years old increased from 67% to 75% while the percentage of members between 30-50 years old decreased from 33% to 25%.  The final set of charts compares the gender distribution of permanent employees, revealing a marginal decrease in male representation from 32% to 30% and a corresponding increase in female representation from 68% to 70%, with no temporary employees in either year.
+
 
 ## CORPORATE SUSTAINABILITY REPORTING
 
@@ -882,6 +977,9 @@ With cyberattacks on the rise, customers have a strong need for  organizations  
 In FY2022, we achieved our target on continuing to maintain zero  complaints  concerning  breaches  of  customer  privacy and losses of customer data. SFL aims to continue this target in FY2023. For more information on the Privacy Policy, please visit SFL's company website 15 .
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000035_e680d2d95868af0e302c26cfb57cf4345a9e53c197207f6d58a962b9d0b51680.png)
+**Description**: The image shows a woman wearing a headset, seated at a desk in front of a computer. The computer screen displays the word "PROTECTION" overlaid on a graphic of a circuit board or digital network. A mug, keyboard, and calculator are also visible on the desk, along with a stack of papers or documents to the woman's right. The scene suggests the woman is working in a call center or customer service role related to data or system protection.
+
+
 
 ## Marketing and Labelling
 
@@ -929,6 +1027,8 @@ Additionally, active performing loans ('APL') need to undergo bi-annual  indicat
 In  2022,  all  new  referral  agents  were  screened  for  their responsible practices before we engaged them. The Marketing  Department  screens  on  new  applicants  while the  Credit  Review  Department  screens  existing  applicants. All new customers were also screened for their profiles and repayment  ability.  We  have  achieved  our  targets  and  will continue the good practice, to maintain 100% screening for new customers and agents in the following year.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000036_5d3bdbc1e22c10c4695ca8fb1683929896b0823e5c960cf65dec5dc656a9b9df.png)
+**Description**: The image shows two people, presumably business colleagues, reviewing documents on a table; one person is pointing to something on a document with their index finger while the other person is pointing at the same document with a pen, suggesting they are discussing or analyzing financial data or business strategy represented by the charts and graphs visible on the papers.
+
 
 ## Customer Experience
 
@@ -949,6 +1049,8 @@ Moreover,  we  ensure  that  action  is  taken  after  receiving feedback, our F
 To  enhance  and  improve  on  the  quality  of  our  customer service, our Customer Centres receive on-the-job training by Branch Managers and case studies on customer service are shared timely among the Customer Centres.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000037_cbca907630044345487169e697482cdf74c4b7b77ad6e121930dbc4dac453bef.png)
+**Description**: The image depicts a person typing on a laptop, with a glowing, stylized gauge superimposed over the scene, representing customer satisfaction; the gauge ranges from sad face emojis to happy face emojis with stars for eyes, and the pointer is aimed at the happiest end, suggesting a very positive rating or review being provided.
+
 
 ## Local Communities
 
@@ -1100,16 +1202,33 @@ We  plan  to  maintain  the  100%  attendance  rate  in  anticorruption  related
 | GRI 205 (2016): Anti-corruption                | 205-3               | Confirmed incidents of corruption and actions taken                                          | Page 26                        |
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000038_e00cbdcc369308734a55709c52294441bd340503d18608c7115fd77721bb5d81.png)
+**Description**: The image features the text "OUR SERVICES" in large, white, serif font against an orange rectangular background. The orange rectangle is bordered by a light gray border, with decorative, angled corner pieces that frame the rectangle.
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000039_e0a73e20bd1742653aac49a9032638cc6d353b44b263fb13942c59507c135dba.png)
+**Description**: The image is a circular graphic promoting "PERSONAL SAVINGS*". In the blurred background, a hand appears to be dropping a coin into a piggy bank, suggesting the concept of saving money. The text "PERSONAL SAVINGS*" is prominently displayed in dark blue. The entire image has a soft, muted appearance, potentially giving off a calm and financial-focused impression.
+
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000040_01a619947e54f19c46e283acc34ec6b83f194cf122e6f80b52765e61b0222fc2.png)
+**Description**: The image is a circular graphic with a light gray background featuring the words "CORPORATE DEPOSIT*" in a dark blue sans-serif font. Behind the text, there is a blurred image of stacked coins and a plant sprout, suggesting financial growth or investment related to corporate deposits.
+
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000041_55b1e4ea9951b3c10233408b37f2d7dc055ecc6e8912aac7916ab9767900c1d9.png)
+**Description**: The image is a circular graphic with a soft, blurred background suggesting financial concepts. Stacks of coins and a small model house are visible in the background. Superimposed on top is the text "CONSUMER LOAN" in a bold, navy blue font. The overall tone of the image suggests lending or borrowing money for personal needs, potentially related to purchasing a home.
+
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000042_6b96b4229585ee4cda8ebab4336595822f4a3ad01d9c4b636f9cc70b6bed8dc8.png)
+**Description**: The image is a circular badge or icon with a light gray background, featuring the text "CORPORATE LOAN" in a dark blue, sans-serif font. The background of the circle shows a blurred image of a person at a desk, presumably working with papers or documents, suggesting a financial or business context.
+
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000043_38f69146f7937f951b6be2d73fee1f576e1eb8652e1f38e2c823ebf12757aa8e.png)
+**Description**: The image is a circular graphic with a light gray background. Inside the circle, the word "OTHERS" is written in a dark blue, bold font. Behind the text, there's a blurred image of a person holding a smartphone, their hands and a portion of their jacket visible. The overall impression is clean and minimalist, possibly representing a category or link related to unspecified or additional content.
+
+
 
 -  Vivid Savings Account
 -  Singapura Blue Sky Junior Savers Savings Account
@@ -1141,6 +1260,8 @@ We  plan  to  maintain  the  100%  attendance  rate  in  anticorruption  related
 *  Deposit Insurance Scheme: Singapore dollar deposits of non-bank depositors are insured by the Singapore Deposit Insurance Corporation, for up to S$75,000 in aggregate per depositor per Scheme member by law.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000044_f0e725683706695809427cbb52b4f50c5a1b57d410afd655a0e178da58972f28.png)
+**Description**: The image is a promotional graphic with a modern, tech-focused design featuring a hand interacting with a digital tablet displaying an array of vibrant app icons. The icons are interconnected by colored lines, creating a network visualization on top of a grid. Below the graphic, a blue bar chart sits above the text "OUR CUSTOMER CENTRES," presented in a classic serif font, suggesting a blend of digital connectivity and established customer service.
+
 
 ## City HQ
 
@@ -1171,6 +1292,8 @@ Blk 711 Ang Mo Kio Ave 8 #01-3501D Singapore 560711 Tel: 6458 4222
 302 Woodlands Street 31 #01-271 Singapore 730302 Tel: 6368 0113
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000045_c35ea71a314300f0d3a24b2c74a782b1e8663a6c2600deb099c9b3a6256baebd.png)
+**Description**: The image features the words "CORPORATE" stacked on top of "GOVERNANCE" in a classic serif font with a muted purple or mauve color.
+
 
 Singapura  Finance  Ltd  (the  'Company')  is  committed  to  achieving  and  maintaining  high  standards  of  corporate governance so as to ensure greater transparency, accountability, and maximisation of long-term shareholder value.
 
@@ -1208,6 +1331,8 @@ All  Directors  objectively  discharge  their  duties  and  responsibilities  at
 Each Director should as far as possible, avoid situations where there might reasonably appear to be conflicts of interest. When facing a potential conflict of interest, the affected Director should make prompt disclosure to the Board and recuse himself/herself from discussions and decisions involving the issues of conflict, unless the Board is of the opinion that his/her participation is necessary.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000046_d276845156b81cd2fff5b8e997c3c1ec4e01b1f84d6bfe70d947ddd80c426aa4.png)
+**Description**: The image displays the words "CORPORATE" on top of "GOVERNANCE," both rendered in a serif typeface and a muted purple color, suggesting a formal and professional theme related to business management or organizational principles.
+
 
 ## Delegation of Authority by the Board to its Board Committees (Provision 1.4)
 
@@ -1293,6 +1418,8 @@ The Company's Constitution provides that Board meetings may be held via teleconf
 ## CORPORATE GOVERNANCE
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000047_11ec0ce59b9fa591386f8c469df6e300656c5c6bade1e7bd934ea0c1aa6238ec.png)
+**Description**: The image contains the words "CORPORATE GOVERNANCE" stacked on two lines, rendered in a serif font and a muted purplish-brown color.
+
 
 The  number  of  Board  and  Board  Committees  meetings  as  well  as  general  meetings  held  during  FY2022,  and  the attendances of the Directors during these meetings are as follows:
 
@@ -1348,6 +1475,8 @@ The Directors have separate and independent access to the advice and services of
 Each  Director  has  the  right  to  seek  independent  legal  and  other  professional  advice,  at  the  Company's  expense, concerning any aspect of the Group's operations or undertakings in order to fulfil his duties and responsibilities as Director.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000048_11ec0ce59b9fa591386f8c469df6e300656c5c6bade1e7bd934ea0c1aa6238ec.png)
+**Description**: The image displays the words "CORPORATE" stacked above the word "GOVERNANCE," both rendered in a serif typeface of a muted purple color, set against a plain white background.
+
 
 ## Board Composition and Guidance
 
@@ -1435,6 +1564,8 @@ In addition, the Directors with ages ranging from mid-40s to more than 70 years 
 The Board, through the NC, has reviewed its composition, and is satisfied that the size of the Board is appropriate and adequate for effective decision-making having regard to its present scale of operations.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000049_a05e2bcfb24457347e5af6a818da4d2ba3c8eced2019cac6037b38450a97394c.png)
+**Description**: The image presents two charts: a doughnut chart illustrating the gender distribution, showing 75% male and 25% female, and a pie chart showing director independence, with 75% being independent directors and 25% being executive directors.
+
 
 ## Setting Targets, Plans and Timelines
 
@@ -1457,14 +1588,23 @@ Principle 3:  There is a clear division of responsibilities between the leadersh
 The offices of the Executive Chairman and the CEO are held by separate individuals. Mr Teo Chiang Long is the Executive Chairman of the Company, while his son, Mr Jamie Teo Miang Yeow is the CEO.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000050_c7d29e8c464c36baf6b26fa3beb18de119f0f8e47bb5bcb10da7143283a16c84.png)
+**Description**: The image displays the words "CORPORATE" and "GOVERNANCE" stacked on top of each other, both written in a serif font and a muted purple color. The word "CORPORATE" is positioned on the top line, while "GOVERNANCE" is aligned directly below it, filling the space below with equal visual weight.
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000051_e879819d6fad25c928b4bde7f684d8a202ae46c69125b8a5ab95e28a806187d3.png)
+**Description**: The image is a horizontal bar graph titled "AGE". The x-axis ranges from 0 to 4, representing a count. The y-axis categorizes age ranges: 41-50, 51-60, 61-70, 71-80, and 81-90. The bar graph indicates the following counts for each age range: 41-50 has a count of 2, 51-60 has a count of 1, 61-70 has a count of 1, 71-80 has a count of 3, and 81-90 has a count of 1.
+
+
 
 TENURE OF SERVICE
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000052_5f43a30f174afb945f173fea540e84741ffad6cba7b792238515c4e6a42a91f1.png)
+**Description**: The image shows a bar graph with age ranges on the x-axis and frequency on the y-axis. The age ranges are "Up to 10 years", "11 to 20 years", "21 to 30 years", "31 to 40 years", and "41 to 50 years". The corresponding frequencies for each age range are 2, 3, 1, 1, and 1, respectively.
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000053_c51eed9e0732d2e70b20f0c839e7e45dfe9113aa3ef02be79be6ba8a83e575db.png)
+**Description**: The image displays the words "CORPORATE" on the top line and "GOVERNANCE" on the bottom line, both in a serif typeface and a shade of muted purple.
+
 
 ## Lead Independent Director (Provision 3.3)
 
@@ -1599,6 +1739,8 @@ The  quantitative  criteria  used  to  evaluate  the  overall  Board  performanc
 The qualitative criteria are set out in a questionnaire covering areas relating to composition of the Board Committee, its roles and responsibilities, conduct of meetings and access to information.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000054_c51eed9e0732d2e70b20f0c839e7e45dfe9113aa3ef02be79be6ba8a83e575db.png)
+**Description**: The image contains two lines of text, with "CORPORATE" on top and "GOVERNANCE" below, both written in a serif font and a muted purple color.
+
 
 ## Individual Director Evaluation Criteria
 
@@ -1713,6 +1855,8 @@ Details  of  Directors'  remuneration  for  FY2022  is  set  out  below.  The  d
 (b) These  fees  comprise  Directors'  fees  for  FY2022  which  are  subject  to  approval  by  shareholders  as  a  lump  sum  at  the forthcoming AGM.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000055_ed6c49149770c0a35f76b6fea70d8429fb409abd0cd02349b805f963b9c7ceaf.png)
+**Description**: The image displays the words "CORPORATE GOVERNANCE" stacked on top of each other, rendered in a serif font and a muted purple or mauve color.
+
 
 The Code recommends that the Company should fully disclose the remuneration of each individual Director and the CEO on a named basis. The Board is of the view that such disclosure would not be in the best interests of the Company or its shareholders.
 
@@ -1903,6 +2047,8 @@ Based on its TOR approved by the Board, the principal functions and activities o
 - l reviewing  the  scope  and  results  of  the  external  audit  and  the  independence  and  objectivity  of  the  external auditors; and the nature and extent of the non-audit services provided by the external auditors;
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000056_13d52aa63a0f248edf6c57a06a31133f4517fa897b039e807ced4082a6753f7b.png)
+**Description**: The image shows the words "CORPORATE" stacked above the word "GOVERNANCE", both in a capitalized serif font of a muted purplish-brown color.
+
 
 - l reviewing with Management, the reports and findings of the review of the Group's internal controls by the internal and external auditors;
 - l making recommendations to the Board on the appointment, re-appointment and removal of the external auditors and approving the remuneration and terms of engagement of the external auditors;
@@ -1987,6 +2133,8 @@ The Company treats all shareholders fairly and equitably. All shareholders are e
 The  Board  regards  the  AGM  as  a  key  opportunity  to  communicate  directly  with  the  shareholders,  which  include institutional and retail investors, and encourages attendance and participation in dialogue. The notice of AGM or other general meetings and the Company's Annual Report, letters to shareholders, circulars and other related documents will be dispatched to shareholders within the prescribed time frame before the meeting.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000057_b581461f10c1a27a07cb0803a57568449f23e1d2210e69c929b14eed7f079c9e.png)
+**Description**: The image features the words "CORPORATE" stacked on top of "GOVERNANCE", both in a serif font with a purple or mauve color, suggesting a formal or professional context.
+
 
 ## Separate resolutions at general meetings on each substantially separate issue (Provision 11.2)
 
@@ -2045,8 +2193,12 @@ As a demonstration of the Company's commitment to transparency and fair disclosu
 Shareholders and investors may provide feedback or express their views via the enquiry or feedback platform at the Company's website.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000058_8cf299c66a57383fb8e9732bb84ee864fae8b60acdbb61bffc06bc154157c8a4.png)
+**Description**: The image displays the words "CORPORATE GOVERNANCE" in a serif typeface, arranged in two lines, with "CORPORATE" on the top line and "GOVERNANCE" on the bottom line, both rendered in a muted purple or mauve color.
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000059_29f7f9f3a357098d9c0dd801f6fd8d84125f8d3e052a02e3e455f2655074f092.png)
+**Description**: The image shows the words "CORPORATE GOVERNANCE" stacked on top of each other, rendered in a serif font with a muted purplish-brown color, set against a white background.
+
 
 ## MANAGING STAKEHOLDERS RELATIONSHIPS
 
@@ -2183,8 +2335,12 @@ The Audit Committee also reviewed the following:
 - l interested person transactions (as defined in Chapter 9 of the SGX Listing Manual).
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000060_1580d4e9d946d172390c914b9148f6f46d691f3153a0deeb8aa4c614d471f915.png)
+**Description**: The image shows the words "DIRECTORS'" stacked above "STATEMENT," both in a serif font with a mauve or lavender color.
+
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000061_669b932ca8d470df20e9f116a89ebbcb77ebaacf94670b8fb61e62e1f073ef8a.png)
+**Description**: The image shows the words "DIRECTORS'" on the top line and "STATEMENT" on the bottom line, with both lines written in a serif typeface and a muted, dusty-purple color.
+
 
 ## Audit Committee (Continued)
 
@@ -2550,6 +2706,8 @@ The accompanying notes form an integral part of these financial statements.
 The accompanying notes form an integral part of these financial statements.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000062_9f561c8011f73cdee6da8b5d6e331c59166f9f783fd2ee77982163b0e9a9df1f.png)
+**Description**: The image contains two lines of text in a serif font, colored a muted purple. The first line reads "NOTES TO THE" and the second, larger line reads "FINANCIAL STATEMENTS".
+
 
 Year ended 31 December 2022
 
@@ -2714,6 +2872,8 @@ The Group initially  recognises  loans  and  receivables  and  deposits  when  t
 A financial asset or financial liability is initially measured at fair value plus, for an item not at fair value through profit or loss ('FVTPL'), transaction costs that are directly attributable to its acquisition or issue. Transaction costs of financial assets carried at FVTPL are expensed in profit or loss.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000063_260425c8eec02d77dfe38e26919d891310141fbe42bad7c5f9920e55be2adcf7.png)
+**Description**: The image contains text that reads "NOTES TO THE FINANCIAL STATEMENTS" in a serif typeface and a muted purple color, with "FINANCIAL STATEMENTS" appearing below "NOTES TO THE".
+
 
 Year ended 31 December 2022
 
@@ -2789,6 +2949,8 @@ In  assessing whether the contractual cash flows are solely payments of principa
 - l terms that limit the Group's claim to cash flows from specified assets (e.g. non-recourse features).
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000064_2262941485b1333d3596507fc6dd27938d382a901715bae419cc7c3948bc5034.png)
+**Description**: The image displays the words "NOTES TO THE" on top of "FINANCIAL STATEMENTS" with the text in a dark mauve serif font, suggesting a formal or professional document heading, likely associated with financial reporting.
+
 
 Year ended 31 December 2022
 
@@ -2864,6 +3026,8 @@ For  floating-rate  financial  assets,  the  original  effective  interest  rate
 If  such a modification is carried out because of financial difficulties of the borrower, then the gain or loss is presented together with impairment losses. In other cases, it is presented as interest income calculated using the effective interest rate method.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000065_260425c8eec02d77dfe38e26919d891310141fbe42bad7c5f9920e55be2adcf7.png)
+**Description**: The image contains the text "NOTES TO THE FINANCIAL STATEMENTS" in a serif font and a desaturated purple color. The words "FINANCIAL STATEMENTS" are on the bottom line and are larger than "NOTES TO THE."
+
 
 Year ended 31 December 2022
 
@@ -3739,6 +3903,8 @@ Expected credit losses are calculated using three main components
 These components are generally derived from internally developed statistical models using historical, current and forward-looking macro-economic data such as GDP, unemployment and inflation. These factors were updated in the current year, reflecting the actual and expected impact of the uncertain economic environment.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000066_2262941485b1333d3596507fc6dd27938d382a901715bae419cc7c3948bc5034.png)
+**Description**: The image displays the text "NOTES TO THE FINANCIAL STATEMENTS" in a serif font and a dusty rose or mauve color, with "NOTES TO THE" stacked above "FINANCIAL STATEMENTS" and slightly offset to the right.
+
 
 Year ended 31 December 2022
 
@@ -4129,6 +4295,8 @@ At  the  reporting  date,  the  Group  has  FVOCI-debt  instruments  on  Singapo
 The sensitivity analysis is based on management's best estimate of the sensitivity to a reasonable possible change. In practice, the actual results will differ from the sensitivity analysis and the differences could be material.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000067_890d8fb29d310b6505c947356e6ac8193cbd4db54e1db52f760f2effcb6c50c4.png)
+**Description**: The image contains the text "NOTES TO THE FINANCIAL STATEMENTS" in a serif font and a purple/taupe color.  The words "FINANCIAL STATEMENTS" are on the lower line and appear to be in a larger font size than "NOTES TO THE." The background is white.
+
 
 Year ended 31 December 2022
 
@@ -4271,6 +4439,8 @@ The  fair  value  of  deposits  and  savings  accounts  of  customers  which  ma
 The carrying value of the Borrowings from MAS approximates its fair values.
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000068_260425c8eec02d77dfe38e26919d891310141fbe42bad7c5f9920e55be2adcf7.png)
+**Description**: The image displays the phrase "NOTES TO THE FINANCIAL STATEMENTS" in two lines, rendered in a refined serif typeface with a dusky rose-purple hue. The words "NOTES TO THE" occupy the upper line, while "FINANCIAL STATEMENTS" stretches across the bottom, presenting a formal and professional aesthetic.
+
 
 Year ended 31 December 2022
 
@@ -4404,6 +4574,8 @@ Assets and liabilities other than those disclosed below are current.
 |                                             | 109,521 | 123,750 | 109,521   | 123,750   |
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000069_4f7356fb5eaafdce09a594d32d174cf560d5d2dab4443eb3b6feb2abfcc714a8.png)
+**Description**: The image contains the words "NOTES TO THE FINANCIAL STATEMENTS" in a serif typeface, arranged in two lines; "NOTES TO THE" on the top line and "FINANCIAL STATEMENTS" on the bottom line, all displayed in a soft purple or mauve color.
+
 
 Year ended 31 December 2022
 
@@ -4500,6 +4672,8 @@ On the basis of the information available to the Company, approximately 47.63% o
 As at 6 March 2023
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000070_4b858ad443807f3582277eb5f444b0efcdc41ad6c22e39aab45147b4f402d047.png)
+**Description**: The image displays the text "NOTICE OF" on the top line and "ANNUAL GENERAL MEETING" on the bottom line, both in a serif typeface and in a muted, mauve-purple color.
+
 
 NOTICE IS HEREBY GIVEN that  the  Fifty-Third Annual General Meeting of Singapura Finance Ltd (the ' Company ')  will be held at 391A Orchard Road, Tower A, #26-00, Ngee Ann City, Singapore 238873 on Wednesday, 19 April 2023 at 11.00 a.m. to transact the following business as set out below.
 
@@ -4718,6 +4892,9 @@ By submitting an instrument appointing a proxy(ies) and/or representative(s) to 
 | (k)             | Whether he has been the subject of any current or past investigation or disciplinary proceedings, or has been reprimanded or issued any warning, by the Monetary Authority of Singapore or any other regulatory authority, exchange, professional body or government agency, whether in Singapore or elsewhere?                                                                                                                                                                | No                   | No                                         | No                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000071_5a82f9108322338fa3a56e50e1320916734c05fcb76ebf6c53b1fdef0c76b1a3.png)
+**Description**: The image shows a black and white icon of open scissors with a dashed line running vertically through the center, implying a cut line.
+
+
 
 &amp;
 
@@ -4815,6 +4992,9 @@ No of Shares
 1st fold here
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000072_563874462ef6a6e12f60558bfff8c53297f8401242c2c226322517ff87a37d97.png)
+**Description**: The image displays the logo for "Singapura Finance," featuring the name "Singapura" in large, black sans-serif font above the word "FINANCE" in smaller, purple sans-serif font, with corresponding Chinese characters above "FINANCE" also in purple; to the right of the name is a stylized, abstract image of a bird in flight, also in purple, completing the logo.
+
+
 
 ## PROXY FORM FOR AGM
 
@@ -4841,5 +5021,8 @@ The Company shall be entitled to reject the instrument appointing a proxy or pro
 Affix Postage Stamp
 
 ![Image](output_md\Singapura Finance - Annual Report 2022_artifacts\image_000073_c2286a5f1659aa66a571b10f1c4a6caff2be4a52b423404434507dccbbd929c8.png)
+**Description**: The image shows the logo for "Singapura Finance." "Singapura" is written in a dark purple, below which are the Chinese characters "富雅金融" followed by the word "FINANCE" in orange, which matches the stylized orange bird figure resembling a phoenix that is located to the upper right of the word "Singapura."
+
+
 
 SINGAPURA FINANCE LTD 150 Cecil Street #01-00 Singapore 069543 www.singapurafinance.com.sg www.facebook.com/singapurafinanceltd

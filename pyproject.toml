@@ -13,4 +13,10 @@ dependencies = [
     "jupyter>=1.1.1",
     "langchain>=0.3.27",
     "langchain-chroma>=0.2.6",
+    "langchain-community>=0.3.31",
+    "langchain-docling>=1.1.0",
+    "langchain-text-splitters>=0.3.11",
+    "pandas>=2.3.3",
+    "sentence-transformers>=5.1.2",
+    "streamlit>=1.50.0",
 ]

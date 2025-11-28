@@ -5,6 +5,9 @@ REPOSITIONING FOR A
 DIGITAL FUTURE
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000000_95b2602bf0233cb03c206031d93d18724cab36f6b43dc36b00c271d1434ffbc9.png)
+**Description**: The image shows the logo for "Singapura Finance". The word "Singapura" is written in a dark purple, bold font. Below that, there is a line of Chinese characters followed by the word "FINANCE" in orange. To the right of the text is an orange abstract design resembling a bird with outstretched wings, facing to the right. The background is plain white.
+
+
 **Description**: The image displays the logo for Singapura Finance, featuring the word "Singapura" in a dark purple, bold font above the Chinese characters "富雅金融" and the word "FINANCE" in orange. To the upper right of the text is an orange stylized image of a bird in flight, resembling a phoenix, with abstract wing shapes. The overall logo design is clean and modern, suggesting financial stability and growth.
 
 
@@ -46,6 +49,9 @@ Our  Chinese  name, 富雅 ,  stands  for  prosperity and  elegance.  It  links 
 Our  brand  is  built  on  the  characteristics  of ' optimism, inspiration  and  confidence' .  As  an  expression  of  these aspirations, our products and services cater to the everyday man. We equip our customers with product literature and our relationship managers will assist them in making an informed decision. We understand their needs and package practical deals to suit their lifestyle and fulfil their dreams. We will continue to engage our customers' needs in bringing their every vision into reality.
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000001_2425f81e51e894f7f01e9aeae5d81328f1d91049022f7733ba8ee853790ee184.png)
+**Description**: The image displays the text "OUR CORE VALUES" in large, bold, purple font, centered on a slightly blurred background consisting of geometric shapes, primarily squares and rectangles, in shades of white and light blue, creating an abstract and modern feel. A border frames the text and background, transitioning from a dark purple on the left to a vibrant orange on the right.
+
+
 **Description**: The image displays the text "OUR CORE VALUES" in bold, dark purple font centered against a soft, blurred background of geometric shapes with shades of light blue and white, resembling an abstract architectural or crystalline pattern, all framed within a square border that fades from a deep purple to a vibrant orange.
 
 
@@ -71,6 +77,9 @@ We build trust and long-term relationships by being responsive and relevant to o
 We leverage  on  technology  and  process  improvements  for  continual  innovation, capabilities building and enhancement and operational efficiency.
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000002_39810ef344a05abd112e53fb1d4bc542303d6f144b6fa56832fd1227ab89dceb.png)
+**Description**: The image shows the logo for Singapura Finance. The word "Singapura" is prominently displayed in a dark purple color. Below that is the text "富雅金融 FINANCE," with the Chinese characters in a dark shade and the English word "FINANCE" in orange. To the upper right of the word "Singapura" is a stylized orange bird, resembling a phoenix, with its wings outstretched and flying upwards. The overall design is clean and modern.
+
+
 **Description**: The image displays the logo of "Singapura Finance." The word "Singapura" is written in a dark purple color in a stylized font. Below it, there is a line of Chinese characters, followed by the word "FINANCE" in orange. To the upper right of the text, there is an abstract image of a bird in flight, also in orange. The overall design is simple and professional, with a clear emphasis on the brand name and its association with finance.
 
 
@@ -82,6 +91,8 @@ Focus and Efficiency (S.P .I.C.E)
 ## CHAIRMAN'S STATEMENT
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000003_0738fc3d979ffeea4358a5237b37febaa73927bb2e106d205d7b35339c8e7617.png)
+**Description**: The image shows an older Asian man with short, gray hair and glasses, wearing a dark suit, a white shirt, and a diagonally patterned orange tie. He is looking towards the viewer with a slight smile, and his hands are clasped in front of him. The background is mostly white, with a gradient blue and orange graphical element on the right side of the image.
+
 **Description**: An older Asian man with short grey hair and glasses stands in front of a blurred background wearing a dark pinstripe suit, a white collared shirt, and a patterned orange tie. His hands are clasped in front of him.  A geometric shape with an orange stripe at the top is partially visible on the right side.
 
 
@@ -140,6 +151,8 @@ I would like to extend my appreciation to our valued clients and business associ
 Executive Chairman SINGAPORE 19 February 2021
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000004_f6babd7e129b9f2b76fa05e48f68fae6eeed10db49baa044486941cd355aa7ce.png)
+**Description**: The image is a cropped photo of three Asian men identified as a "Board of Directors," each wearing a suit, and posed against a background that transitions from blue to white and includes a faint pattern of circles and intersecting lines. The first man, on the left, wears glasses and a tie with a red pattern, the middle man has black hair and is also wearing glasses with a white dress shirt and black jacket, and the man on the right, who is smiling, wears a pale tie, all against a gradient backdrop from orange to dark pink along the bottom.
+
 **Description**: The image displays a horizontal composition with the title "BOARD OF DIRECTORS" in dark purple at the top left. Below, three men are positioned against a blurred background of blues and whites with a pattern of interconnected dots resembling a network. The leftmost man, wearing glasses and a dark suit with a patterned red tie, looks directly at the viewer. The man in the center wears glasses, a white dress shirt, and a dark blazer. The man on the right wears a dark suit with a light tie and smiles at the viewer. All three men appear to be Asian and are well-groomed, and the bottom edge of the image has a gradient from orange to dark purple.
 
 
@@ -173,6 +186,8 @@ Mr. Phua graduated from the Nanyang University of Singapore with a Bachelor of  
 ## BOARD OF DIRECTORS
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000005_433386837f95f3f9ff84b6b18a2391bc0977e1a421251269d2d10c06282b879f.png)
+**Description**: The image shows three formally dressed individuals, presumably professionals, set against a light blue digital-themed background. On the left, a man with gray hair and glasses is wearing a suit and a red and white bow tie. In the center, another man with brown hair and glasses is wearing a pinstriped suit and a red and white patterned tie. On the right, a woman with short black hair and glasses is wearing a gray suit with a pink blouse and a pearl necklace. The background features a gradient from blue to white with abstract digital patterns and connections, while the bottom edge of the image has a gradient transitioning to a burgundy color.
+
 **Description**: The image shows three older Asian people posing against a blue background with digital-looking patterns, giving off a tech-related vibe. The person on the left is a man with white hair wearing glasses and a red and white bow tie. In the middle, there's another man wearing glasses and a suit with a red, white, and brown patterned tie. On the right is a woman also wearing glasses and a gray suit, along with a pearl necklace and a pink shirt underneath. All three individuals are smiling and appear to be professionally dressed.
 
 
@@ -201,6 +216,8 @@ Mdm Tan was an audit partner of KPMG (now  known  as  KPMG  LLP)  from  1989 to 
 Mdm  Tan  holds  a  Degree  (Honours) in  Accountancy  from  the  University  of Singapore and is also a Fellow Member of the Institute of Singapore Chartered Accountants.
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000006_e4493af957a6c60e1cbec7a3cfc57fc5010c0f6e9278024c254848361e6085b1.png)
+**Description**: The image shows three professionally dressed individuals positioned in a row under the text "BOARD OF DIRECTORS." On the left is a smiling woman in a dark blue suit with a brooch, in the middle is a smiling man in a white shirt and a dark blazer, and on the right is another smiling man in a white shirt, a tie and a dark blazer. The backdrop is a gradient of blues with faint interconnected dots and lines suggesting a technological or networked theme. The bottom of the image has a horizontal band of orange to burgundy gradient.
+
 **Description**: The image is a composition of three headshots of individuals under the title "BOARD OF DIRECTORS," all set against a blurred background of light blue hues with abstract geometric and circular patterns. On the left is a mature woman in a dark blue blazer with a decorative pin, while the other two are men in suits and collared shirts, all looking directly at the viewer with smiles; the presentation is corporate and professional.
 
 
@@ -268,11 +285,17 @@ Mr.  Khoo  holds  a  L.L.B  Law  from  The University of Sheffield.
 The Group aims to maintain a strong capital position to ensure market confidence, to support its on-going business and to meet the expectations of depositors, customers and investors alike. Singapura Finance Ltd is also required to comply with regulatory standards of capital requirements through the maintenance of a minimum capital adequacy ratio at all times, and to transfer a requisite proportion of its annual net profit to the statutory reserve which is not available for distribution to shareholders. Our dividend policy aims to provide shareholders with a predictable and sustainable dividend return over the long term by balancing growth with prudent capital management.
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000007_1bd4bbc07f9c34ba0ad9a60c02df655bd18abbc1a170ccdb63c9d7a45e7e932b.png)
+**Description**: The image is a horizontal bar graph showing profit before tax in S$ million for the years FY2016 to FY2020, with the profit decreasing over the years: FY2016 at 3.3, FY2017 at 5.9, FY2018 at 9.0, FY2019 at 9.0, and FY2020 at 5.6.
+
+
 **Description**: The image presents a horizontal bar chart illustrating the "Profit Before Tax" in S$ million for fiscal years (FY) 2016 through 2020, with FY2020 at 5.6, FY2019 at 9.0, FY2018 at 9.0, FY2017 at 5.9, and FY2016 at 3.3, showing a significant decrease in profit between FY2019/FY2018 and FY2020.
 
 
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000008_dd2dca1264fc6563cb77671a40edbed2712f0af3da60f7dc309bd4e8263bbae3.png)
+**Description**: The image is a bar graph showing the net dividend per share in cents for the fiscal years 2016 to 2020; FY2020 is highlighted and shows 1.5 cents, FY2019 shows 3.5 cents, FY2018 shows 4.0 cents, FY2017 shows 3.0 cents, and FY2016 shows 2.0 cents.
+
+
 **Description**: The image is a horizontal bar graph depicting the "NET DIVIDEND PER SHARE" in cents over the years FY2016 to FY2020, showing a decline from 4.0 cents in FY2018 to 1.5 cents in FY2020; specifically, FY2016 has 2.0, FY2017 has 3.0, FY2019 has 3.5, and FY2020 is highlighted in a dark purple color.
 
 
@@ -286,10 +309,16 @@ The Group aims to maintain a strong capital position to ensure market confidence
 | FY2016                      |                         2   |
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000009_4daf5059452487c7a61312daba4ff9d8b70d4698778dda1173fd6acd230ff77a.png)
+**Description**: The image is a horizontal bar chart illustrating loan amounts in S$ million across several fiscal years (FY). FY2020 is highlighted in a gradient from maroon to orange and has a value of 844.6. The remaining years, FY2019, FY2018, FY2017, and FY2016 are represented with light blue bars and have values of 742.8, 688.8, 760.4, and 851.6 respectively.
+
+
 **Description**: The image shows a bar graph displaying the value of loans in S$ million over five fiscal years from FY2016 to FY2020, with FY2020 having the value of 844.6 and represented by a gradient bar transitioning from dark red to orange, and FY2016 having the value of 851.6. The bars for FY2019 (742.8), FY2018 (688.8) and FY2017 (760.4) are colored in light blue and proportionally sized to their respective values.
 
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000010_df565b09d024e249799482783edb3b28fcd9275666d9a15a764007e5eebc6a11.png)
+**Description**: The image is a horizontal bar chart showing deposit amounts in S$ million for fiscal years (FY) 2016 to 2020, with FY2020 having the highest amount at 907.5, represented by a bar with a gradient from maroon to orange, and the other years, FY2019, FY2016, FY2017 and FY2018 in that order, decreasing in amount from FY2019 to FY2018, displayed with light blue bars of decreasing lengths.
+
+
 **Description**: The image is a horizontal bar chart that shows the deposits in S$ million for different fiscal years (FY). FY2020 has the highest deposits at 907.5, represented by a bar that transitions from burgundy to orange. The bars for FY2019 (845.5), FY2016 (856.9), FY2017 (808.3), and FY2018 (726.5) are progressively shorter and light blue, indicating a lower deposit amount. The chart shows an upward trend in deposits from FY2018 to FY2020, with a slight dip in FY2017.
 
 
@@ -506,6 +535,9 @@ DBS Bank Ltd Oversea-Chinese Banking Corporation Ltd United Overseas Bank Ltd
 Singapura Finance Ltd [Company Registration No. 196900340N] 150 Cecil Street #01-00 Singapore 069543 Tel:  68800633 Fax: 62258310 www.singapurafinance.com.sg www.facebook.com/singapurafinanceltd
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000011_3408ffdda27f5a65bb054759dd10e64d002b374497765a006c1c1e60debd4b11.png)
+**Description**: The image is a vibrant and modern design for "Corporate Sustainability Reporting." It features a close-up of hands gently holding a small plant growing from soil, symbolizing growth and environmental care. Around the plant, five circular icons connected by dotted lines represent key sustainability aspects: recycling, water conservation, new growth, energy-efficient lighting, and a power button symbolizing energy management. The background is a soft, blurred green, suggesting nature. In the lower-left corner, "CORPORATE SUSTAINABILITY REPORTING" is written, with the word "SUSTAINABILITY" in a bold, bright green. The design also includes abstract geometric shapes in white, light blue, and orange to the left, adding a contemporary touch.
+
+
 **Description**: The image is a promotional graphic for "Corporate Sustainability Reporting," featuring a hand holding a small plant growing in soil, set against a blurred green background. Around the plant are five circular green icons, each representing a different aspect of sustainability: recycling, water conservation, seedling growth, energy-efficient lighting, and a power button, all interconnected by a dotted line symbolizing a holistic approach. In the lower left corner is the text "CORPORATE SUSTAINABILITY REPORTING," and geometric shapes in light blue, white, and orange adorn the top left corner of the image.
 
 
@@ -532,6 +564,9 @@ The  Board  would  like  to  thank  all  who  have  been  with  us throughout  o
 The following presents highlights of SFL's sustainability performance in 2020.
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000012_8d756f22991eb7e5bc54516c74d2f54523664fe14a8d6bdda369382cf5143f81.png)
+**Description**: The image presents highlights of SFL's sustainability performance in 2020 across four key areas: economic, environmental, social, and governance. Economically, SFL achieved revenue of $32.3 million, net profit after tax of $4.8 million, a net profit margin of 14.8%, and sourced 98% of its supplies locally. Environmentally, energy consumption decreased by 5.86% but energy intensity increased by 3.1%. Socially, the company invested in employee training, maintained the number of employees on flexible working arrangements, and 39% of employees have worked for SFL for 10 years or more.  In terms of governance, there were no reported non-compliance incidents that resulted in fines or legal actions, and the company focused on marketing and labeling, compliance with laws and regulations, anti-corruption, and customer privacy.
+
+
 **Description**: The image presents an overview of a company's sustainability performance in 2020, highlighting economic performance with a revenue of $32.3 million, a net profit after tax of $4.8 million, a net profit margin of 14.8%, and 98% of supplies sourced locally; environmental performance with a 5.86% decrease in energy consumption but a 3.1% increase in energy intensity; social performance showing investment in employee training, maintenance of employees on flexible working arrangements, and 39% of employees working for the company for 10 years or more; and governance performance indicating no reported non-compliance incidents related to marketing, compliance, anti-corruption, and customer privacy.
 
 
@@ -547,6 +582,9 @@ The scope of this Report focuses on SFL's key business activities in  Singapore 
 A  formal  materiality  assessment  was  conducted  in  2017 to identify ESG  risks and  opportunities that are  most
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000013_9d31abd298fc6dc7cc8d4f2bd14efe167e8c66147f0e8e08d4b001c176860a68.png)
+**Description**: The image is a cartoon-style icon of a money bag, presented on a circular dark teal background. The bag itself is a light yellow or beige color and features a prominent dollar sign ($) symbol on its front. It is tied at the top with a ribbon of a similar color, creating a slightly cinched closure. A drop shadow extends from the bag, giving it a subtle 3D effect.
+
+
 **Description**: The image is a circular icon with a dark teal background. In the center is a filled yellow money bag, tied with a brown ribbon. On the front of the bag is a golden yellow dollar sign. The bag casts a long shadow to the right.
 
 
@@ -632,6 +670,9 @@ SFL plays our role in supporting the Sustainable Development Goal  ('SDG')  of  
 We indirectly drive and contribute to the local economy and labour force by providing employment opportunities as well as sourcing from local suppliers. The following depicts SFL's supply chain expenditure from 2017 to 2020.
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000014_bbbe28db9a71e7e38799d263770898bb4f60c30fef6bee58b328ef917ad26ac4.png)
+**Description**: A close-up image shows a pair of hands gently cupping a small mound of dark soil from which a young green plant with several vibrant leaves is growing, all set against a blurred, soft-focus background of green foliage, suggesting a focus on nature, growth, and environmental stewardship.
+
+
 **Description**: A pair of hands gently cradles a small mound of dark soil from which a young, vibrant green plant with broad leaves is growing, set against a blurred background of lush green foliage, symbolizing growth, nature, and environmental stewardship.
 
 
@@ -682,6 +723,9 @@ The following charts present SFL's annual energy consumption (kWh) and energy in
 Chart 1a: Annual energy consumption and year-on-year percentage reduction of energy consumption
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000015_0bee0911f6c71fd6d54043fa40df2df35394c4127007948158596a8d11bdb286.png)
+**Description**: The chart displays the annual energy consumption in kilowatt-hours (kWh) from 2017 to 2020, showing a decreasing trend represented by a dotted blue line, with values of 321,804 kWh in 2017, 315,588 kWh in 2018, 308,075 kWh in 2019, and 290,018 kWh in 2020, alongside percentage decreases between consecutive years, starting at -1.93% between 2017 and 2018, -2.38% between 2018 and 2019, and -5.86% between 2019 and 2020, demonstrated by dark purple vertical bars indicating the consumption for each year.
+
+
 **Description**: The bar chart depicts the annual energy consumption in kWh from 2017 to 2020, showing a decreasing trend over the years; in 2017, the consumption was 321,804 kWh, which decreased to 315,588 kWh in 2018, 308,075 kWh in 2019, and finally 290,018 kWh in 2020, also detailing the percentage of change year over year represented by negative percentages that go from -1.93% to -5.86% from the first to the last year.
 
 
@@ -691,6 +735,8 @@ Chart 1b: Annual  energy  intensity and  year-on-year percentage reduction of en
 Energy intensity by number of employees (kWh per employee)
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000016_c2856325734edb102541233be10edb3863ff41a102abdc61b8d12e27dae4ebac.png)
+**Description**: The image is a bar chart showing data from 2017 to 2020. The values for each year are represented by purple bars, with 2017 having a value of 3,094, followed by 2,768 in 2018, 2,679 in 2019, and 2,762 in 2020.  A dotted blue line overlaid on the bars shows the percentage change between each year, indicating a decrease of 10.54% from 2017 to 2018, a further decrease of 3.22% from 2018 to 2019, and then an increase of 3.10% from 2019 to 2020.
+
 **Description**: The image shows a bar and line chart representing data from 2017 to 2020; the bar chart displays values of 3,094 in 2017, which decreased to 2,768 in 2018, further decreased to 2,679 in 2019, and then increased to 2,762 in 2020, while the line chart displays the percentage change, showing a decrease of 10.54% from 2017 to 2018, a further decrease of 3.22% from 2018 to 2019, and finally an increase of 3.10% from 2019 to 2020.
 
 
@@ -753,6 +799,8 @@ Despite  the  COVID-19  impacts  on  the  workforce,  we continue  to  embrace  
 SFL  recruits  potential  employees  through  a  vast  range of channels such as collaborating with professional recruitment consultants, leveraging on internet recruitment platforms  and  encouraging  staff  referrals.  In  addition, we have started reaching out to tertiary institutions as a channel of recruitment. Due to the COVID-19 situation, we are conducting recruitment interviews online.
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000017_6f8d552c1e471dcffa27d7a4a5206e355104adfee72a7b8a75bb379b8b838bc9.png)
+**Description**: The image shows a person wearing a suit and typing on a laptop, overlaid with transparent financial charts and data, creating a visual representation of business, finance, and technology. The graphs have both line and bar formats, and the image has a bright, airy feel.
+
 **Description**: The image shows a person in a suit typing on a laptop, with an overlay of financial graphs and charts, including bar graphs, line graphs, and numerical data, suggesting a focus on business, finance, or stock market analysis. The person's hands are the primary focus, and the overlay creates a sense of dynamism and the complex data being processed. The image has a soft, somewhat blurred quality, and the overall tone is professional and indicative of analytical work.
 
 
@@ -768,6 +816,8 @@ Percentage of individuals within the Board of Directors by gender in FY2020
 Chart 2b. Percentage of individuals within the Board of Directors by age group
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000018_f099a082f56115daa311d9e626c6a5011c05cd5261b2bbf94a652f054d546d88.png)
+**Description**: The image is a pie chart that displays a gender distribution, with "Male" represented by 78% in orange and "Female" represented by 22% in dark blue, indicating a significantly higher proportion of males compared to females.
+
 **Description**: The image is a pie chart displaying the gender distribution within a group, with the majority, 78%, identified as male, represented by an orange section, and a smaller portion, 22%, identified as female, represented by a blue section.
 
 
@@ -775,6 +825,9 @@ Chart 2b. Percentage of individuals within the Board of Directors by age group
 Percentage of individuals within the Board of Directors by age group in FY2020
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000019_5b5c7a3a0bdcb6f77a9bcfeacdbfb9d8827826ebf27678bce5b036d38125fae1.png)
+**Description**: The image is a pie chart showing the age distribution of a population, with the categories "30-50 years old" representing 33% of the population and colored blue, and "> 50 years old" representing 67% of the population and colored orange.
+
+
 **Description**: The image is a pie chart that displays the age distribution of a group, dividing it into two categories: 30-50 years old and over 50 years old; the 30-50 age group accounts for 33% of the total, represented by a blue section, while the group over 50 years old makes up the larger portion at 67%, indicated by an orange section.
 
 
@@ -784,6 +837,9 @@ Chart  2c.  Total  number  of  employees  by  employment contract and gender
 Total number of Permanent Employees by Gender in FY2020
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000020_b2fb24de3bbaddf53418f303c754f2486485568b1a35913030a88902d6e13934.png)
+**Description**: The image is a pie chart illustrating the distribution of gender, showing that 71% are female (represented by an orange sector) and 29% are male (represented by a dark blue sector).
+
+
 **Description**: The image is a pie chart illustrating a gender breakdown, showing that 71% are female, represented by a large orange section, and 29% are male, represented by a smaller blue section. The percentages are clearly labeled within each section of the pie chart.
 
 
@@ -864,6 +920,8 @@ We  collect  ad-hoc  feedback  from  our  employees  and conduct benchmarking an
 FY2020  Percentage in relation to total number  of employees (%)
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000021_3f83d330643e22b9036fa5761ed7e5a9be174ae54c8b296f3824f6c3437c388c.png)
+**Description**: The pie chart shows the "Number of years with SFL". The categories are, "9 and less"(61%), "10 to 14"(15%), "15 to 19"(9%), "20 to 24"(7%), "25 to 29"(1%), and "30 or more"(7%). Most of the data falls in "9 and less" category.
+
 **Description**: The image is a pie chart illustrating the "Number of years with SFL," divided into six categories: "9 and less" (61), "10 to 14" (15), "15 to 19" (9), "20 to 24" (7), "25 to 29" (1), and "30 or more" (7), where the "9 and less" category makes up the majority of the chart.
 
 
@@ -887,6 +945,9 @@ Due to COVID-19 restrictions, employees attend these training sessions online. I
 Moving forward, we will continue to identify and offer relevant trainings to employees to enhance their career and professional development and ensure they continue to meet 100% attendance for all mandatory training requirements for their roles. Furthermore, we aim to continue to develop more online trainings to ease employees' access to trainings.
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000022_48ab9d558c9bbd2830958c534169e1970bbaf415c6ea17a0bac23add4d551243.png)
+**Description**: The image shows a group of people with their hands stacked on top of each other in a display of teamwork, unity, or support, with warm, filtered sunlight adding a sense of positivity and collaboration.
+
+
 **Description**: A close-up shot depicts a group of people with different skin tones and clothing styles, including a white shirt, a pink/red shirt, and a dark blazer, piling their hands together in a gesture of unity, teamwork, or celebration, with a warm, bright light enhancing the image's positive and collaborative feel.
 
 
@@ -1144,6 +1205,9 @@ Following  the  changing  nature  and  development  of  the COVID-19  pandemic, 
 ## OUR SERVICES
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000023_3f2bff73b6299d106702937e1b5354434533ca700ec0ba84ef536343bd6a06df.png)
+**Description**: The image shows a stylized, white outline drawing of a money bag with a dollar sign on it, set against a lime green circular background. There is also a partial white circular outline surrounding the green circle, and a larger, blurry, light gray background.
+
+
 **Description**: The image shows a stylized illustration of a money bag with a dollar sign on it, depicted with a thin white outline. The bag is centered within a solid green circle, which itself is partially surrounded by a blurred white or light gray background, giving it a somewhat icon-like or illustrative appearance.
 
 
@@ -1157,6 +1221,9 @@ Following  the  changing  nature  and  development  of  the COVID-19  pandemic, 
 - Singapura Blue Sky Fixed Deposit
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000024_1bb57a01b1b459fb89d608fa645293255681f01dda8356d6b8051b28201a29b5.png)
+**Description**: The image shows a circular, pale green icon with a thin white outline. Inside the circle, also in white outline, is a piggy bank with a smiling face and a coin with a dollar sign on it being inserted into its back. The background surrounding the circle appears to be a light shade of purple.
+
+
 **Description**: The image features a cartoon-style piggy bank icon, outlined in white, set against a solid green circular background.  A white outlined coin with a dollar sign ($) is depicted being dropped into the piggy bank's slot. The background is a blurry mix of light colors, possibly whites and faint greens.
 
 
@@ -1167,6 +1234,9 @@ Following  the  changing  nature  and  development  of  the COVID-19  pandemic, 
 - Business Account (Current Account)
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000025_6d76d6ada0ee39903ed76dc6385ee2ece79462efd04288943b0081fb8f5dd093.png)
+**Description**: The image shows a round, blue icon containing a white, outlined calculator with a dollar sign ($) superimposed over the top right corner. The calculator has a display screen at the top and a keypad of numerous buttons below, all rendered in a simple, line-drawing style. The background includes some soft, blurred white elements that suggest depth or layering.
+
+
 **Description**: The image shows a light blue circular icon containing a white outline of a calculator with a dollar sign superimposed on its upper right corner, suggesting concepts like accounting, finance, cost calculation, or budgeting. The background surrounding the circle appears to be a gradient of white and light blue, with a curved white design element partially visible on the right side of the circle.
 
 
@@ -1203,6 +1273,9 @@ Tel: 6467 1918
 ## CORPORATE LOAN
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000026_ead965d79c30723a1c161d007be649216c0660e931eb49c02523a3da5fbfcbf5.png)
+**Description**: The image shows a white outline of a classical-style bank building, complete with columns and a pediment, centered within a circular lavender-colored background. A dollar sign is prominently displayed within the pediment of the bank building. Part of a white arc shape is visible on the upper-right side of the circular background, partially obscured.
+
+
 **Description**: The image shows a stylized white outline of a classical bank building with four columns and a triangular pediment, on which a dollar sign is centered. The building is depicted within a solid, light purple circle, and the right side of the circle appears to be partially obscured by a larger, curved white element.
 
 
@@ -1217,6 +1290,9 @@ Tel: 6467 1918
 - Business Loan/Business Overdraft/Unsecured Business Loan
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000027_cf7c9f5dd04d8e261887cde38a20b6d8b67af82bcf1f8c567cd498e35ad57c2c.png)
+**Description**: The image is a circular teal icon featuring a white outline drawing of a stack of two paper bills. The icon has a white border element that follows its contour, highlighting it from the background. The money illustration signifies finance, payment, or currency.
+
+
 **Description**: The image depicts a circular teal-colored icon containing a white outline of stacked paper money or bills. The white outlines suggest the depiction of currency, with a distinct central circle visible on the top bill. The teal circle is slightly blurred and is accented by two curved white lines to the upper left and right.
 
 
@@ -4399,6 +4475,9 @@ No
 | No   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | No                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | No                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000028_dee661cb45125ee6d47a6dbf7eff0212ffa4132aeacfb8611a1920eebf770ffb.png)
+**Description**: The image shows a black and white icon representing a pair of open scissors, positioned above a vertical dashed line. This is a common symbol used to indicate a place where something should be cut.
+
+
 **Description**: The image shows a simple, black and white icon of a pair of open scissors positioned next to a vertical dashed line, suggesting a "cut along the dotted line" instruction or a feature for trimming or cropping.
 
 
@@ -4488,6 +4567,9 @@ In view of the current Covid-19 situation and the related safe distancing measur
 1st fold here
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000029_7633ea4d31a04e1674d702f4016f826901296b9ab3f7897310040bd06e0609b2.png)
+**Description**: The image showcases the logo for "Singapura Finance," with the word "Singapura" in large, black, sans-serif font above "富雅金融 FINANCE," where the Chinese characters "富雅金融" are followed by the word "FINANCE" in smaller, purple, sans-serif font; a stylized purple bird, reminiscent of a phoenix, is positioned to the upper right of the word "Singapura," adding a symbolic element to the overall design.
+
+
 **Description**: The image shows the logo for "Singapura Finance," with the word "Singapura" in bold black letters above the Chinese characters "富雅金融" and the English word "FINANCE" in a smaller, plum-colored font; a stylized plum-colored bird icon resembling a phoenix is positioned to the upper right of the name.
 
 
@@ -4513,6 +4595,9 @@ Affix Postage Stamp
 II
 
 ![Image](output_md\Singapura Finance - Annual Report 2020_artifacts\image_000030_bf6535103d997f66e63eeb172d0c838e46deb279c1c482265cbacd07656bb657.png)
+**Description**: The image displays the logo for "Singapura Finance" against a dark purple background. The word "Singapura" is presented in a large, bold white font, positioned above the words "FINANCE," which is written in orange and preceded by Chinese characters (富雅金融) also in the same orange hue. To the upper right of the text is an abstract orange bird or flame-like design, completing the logo.
+
+
 **Description**: The image displays the logo of "Singapura Finance" against a deep purple background. The word "Singapura" is written in a large, modern, sans-serif font in white. Below it, "Finance" is written in a smaller, sans-serif font, also in white, next to Chinese characters. To the right of the text is an orange stylized image of a phoenix-like bird with its wings spread, suggesting growth and prosperity.
 
 

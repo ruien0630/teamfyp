@@ -1,14 +1,14 @@
 ## ANNUAL REPORT 2021
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000000_c12dc85ca2e0ecded876d69d3a60772499c7b51564dc8984123314bb36616e83.png)
-**Description**: The image features the logo for "Singapura Finance" with the name "Singapura" in a dark purple, stylized font above the words "富雅金融 FINANCE". The Chinese characters are also in dark purple, while "FINANCE" is in orange.  To the upper right of the text is an orange stylized bird, perhaps a phoenix, with its wings partially open, facing to the right.
+**Description**: The image shows the logo for "Singapura Finance," with the word "Singapura" in a dark purplish-brown serif font stacked above the words "富雅金融 FINANCE." The first two characters are in Chinese, and "FINANCE" is in a lighter orange sans-serif font. To the right of the words is an abstract orange graphic of a bird in flight, appearing as a stylized phoenix or similar mythical creature.
 
 
 
 Digital Capabilities
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000001_1de0b8cd80c5efbd173f22f8f9fe7151b2f328f5784ed65f7dae38f21cd6bd08.png)
-**Description**: The image showcases a modern financial technology concept, featuring a smartphone displaying a banking app interface with the tagline "Building Greater Digital Capabilities for a Smarter Future." The app screen shows a smiling family, presumably representing the user base, and options for signing in and accessing balance information. A vividly colored Singapora VIVID Mastercard is displayed next to the phone, symbolizing digital payment solutions. In the background, there's a stylized illustration with floating icons and a stack of coins with overlaid graphs, hinting at financial growth and prosperity, along with a scenic view of the Marina Bay Sands in Singapore, possibly representing the app's country of origin or target market.
+**Description**: The image is a composite advertisement for a financial application, featuring a smartphone displaying the app's interface with the tagline "Building Greater Digital Capabilities for a Smarter Future," a couple shown on the login screen, and a "Singapura VIVID" Mastercard. Surrounding the phone are visual elements including the Marina Bay Sands in Singapore, coin stacks overlaid with graphs representing financial growth, the Matchmove logo, and stylized bird icons in orange and purple circles. The composition promotes the app as a modern, secure, and convenient financial tool for managing money.
 
 
 
@@ -38,12 +38,12 @@ Digital Capabilities
 | PROXY FORM                                              |     |
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000002_214d0c736cf9a83307f3d6398cc61bc0af7d3d2617f9ccf79c27665089b42cdb.png)
-**Description**: The image shows a simple gray circle outline with a white interior, creating a ring or hoop shape against a solid white background.
+**Description**: The image shows a simple, clean graphic of a gray circle with a thick outline or border, creating a ring or circular frame with a white center.
 
 
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000003_7c345c7a15f62b3691713a3c84cef7eda8f44b2b6c3b9a1dc6e564540a142751.png)
-**Description**: The image displays the logo for "Singapura Finance," featuring the word "Singapura" in a dark purplish-brown font above the words "Finance" in orange and smaller Chinese characters in a similar purplish-brown; to the right, a stylized orange bird with upward-reaching wings is shown, conveying a sense of growth or aspiration.
+**Description**: The image showcases the logo for Singapura Finance, featuring the word "Singapura" in a dark plum color above the Chinese characters "富雅金融" and the word "FINANCE" in orange. To the upper right of the text is a stylized orange bird, resembling a phoenix, facing right with its wings partially outstretched. The overall design is clean and modern, with a focus on conveying a sense of financial stability and growth through the choice of colors and the symbolic representation of the phoenix.
 
 
 
@@ -56,7 +56,8 @@ Our  vibrant  colours  of PURPLE and ORANGE the  infusion  of  new  life  and  v
 Our  Chinese  name, ,  stands  for  prosperity  and elegance. endeavors we have.
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000004_c1a633c9ceaf3d7c91a6871364721fc1df4c8a63a0b8db594428d7c5524ac2a3.png)
-**Description**: The image shows a gray cartoon-style laptop with the words "OUR CORE VALUES" in orange letters on the screen, centered within the laptop's display area.
+**Description**: The image depicts a stylized, simplified laptop with rounded edges, rendered in a light gray color, displaying the words "OUR CORE VALUES" in large, bold, orange text against a white screen background. The laptop features minimal details, including a small circular element above the screen, suggesting a camera, and a simplified keyboard area with three dots and a horizontal line representing keys or buttons.
+
 
 
 At Singapura Finance, we believe that our values are  our  'guiding  beacon'  for  organizational development and growth. At Singapura Finance, our core values are: Shareholder Value, People Development,  Integrity,  Customer  Focus  and ( )
@@ -66,7 +67,7 @@ At Singapura Finance, we believe that our values are  our  'guiding  beacon'  fo
 Our brand is built on the characteristics of ' optimism, . As an expression of these aspirations,  our  products  and  services  cater  to  the everyday man. We equip our customers with product literature  and  our  relationship  managers  will  assist them in making an informed decision. We understand their  needs  and  package  practical  deals  to  suit  their
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000005_62b1470b0b160c3c5c045704f2d177b7a14d3d96e21cb8abe5f1640ed07c6ce3.png)
-**Description**: The image shows a white, slightly blurred letter "S" centered within a gray circle. The overall effect is simple, clean, and potentially indicative of a logo or symbol.
+**Description**: The image features a stylized letter "S" in bold white font, centered within a solid grey circular shape. The overall effect is simple and clean, resembling a logo or a badge. The image has a slightly blurred appearance.
 
 
 
@@ -75,7 +76,7 @@ We  enhance  our  shareholder  value  by  consistently delivering sustainable ea
 ## S HAREHOLDER VALUE
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000006_226dc253d4b5feef922b83c121904a818e46aa783f2fabf77e364b24e3cde998.png)
-**Description**: The image shows a circular badge or icon with a vibrant orange background and a large, bold white letter "P" prominently displayed in the center. The letter is stylized and fills a significant portion of the circle, creating a clear and easily recognizable symbol. The overall impression is simple, clean, and visually striking due to the contrast between the orange and white.
+**Description**: The image shows a circular logo or icon. The background of the circle is a vibrant orange color, and prominently displayed in the center is a large, bold, white capital letter "P." The letter is simple and sans-serif in style.
 
 
 
@@ -84,13 +85,13 @@ We value and develop our people and trust each other in delivering their best,  
 ## P EOPLE DEVELOPMENT
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000007_3af2383073fb5de4afb23eb32045936b980b5f52581c883213f91773cf48340e.png)
-**Description**: The image displays the word "INTEGRITY" in orange, with a gray circle containing a white "I" to the left of the word.
+**Description**: The image shows the word "INTEGRITY" in a bold, orange sans-serif font, preceded by a gray circle containing a white capital letter "I." The "I" in the circle is aligned to the left of the word "INTEGRITY" and appears to be a logo or branding element.
 
 
 We are open and fair in our dealings while maintaining highest integrity at all times. We strive for excellence and professionalism in what we do.
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000008_1726abe5a04eff1db782d0d20b89e5f13d70d7faef9b3ad48f32d61a545f293e.png)
-**Description**: The image shows a stylized letter "C" in white, positioned inside an orange circle. The letter appears to be slightly blurred, giving it a soft appearance.
+**Description**: The image shows the letter "C" in white, centered inside a bright orange circle.
 
 
 
@@ -99,7 +100,7 @@ We  build  trust  and  long-term  relationships  by  being responsive and releva
 ## C USTOMER FOCUS
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000009_e68d6f24625a1ce4f46a7e791978cc39be9b664198b5e7a43d63cef68082bdbc.png)
-**Description**: The image shows a logo for "EFFICIENCY", where the first "E" is white and encased in a gray circle, and the rest of the word "FFICIENCY" is in orange, slightly larger and to the right of the circle.
+**Description**: The image shows the word "EFFICIENCY". The letter "E" is white and inside of a gray circle, and the remainder of the word "FFICIENCY" is in orange and directly to the right of the "E" inside the circle.
 
 
 We leverage on technology and process improvements for continual innovation, capabilities building  and
@@ -107,7 +108,7 @@ We leverage on technology and process improvements for continual innovation, cap
 ## CHAIRMAN'S STATEMENT
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000010_fd72d65fc8ed74d60738867e11cdfe0dacea752c9bbcf07b5dc5844320b13149.png)
-**Description**: The image features a portrait of a man, identified as "TEO CHIANG LONG" with the title "Executive Chairman" below his name, set against a light-colored backdrop that includes a stylized skyline of modern city buildings. The man is dressed in a dark suit with a patterned orange tie, and he is wearing glasses; he looks directly at the viewer with a calm expression. The overall composition has a professional and corporate feel, likely used for business or promotional purposes.
+**Description**: The image shows a portrait of a professionally dressed Asian man, likely in his 60s or 70s, wearing a dark pin-striped suit, a white shirt, and a patterned orange tie, standing against a backdrop of a cityscape rendered in a muted, almost ghostly white and grey palette; to the right of the man, the text "TEO CHIANG LONG Executive Chairman" is displayed in a burgundy font, suggesting the man's name and official title.
 
 
 On  behalf  of  the  Board  of  Directors, I  am  pleased  to  present  the  Annual Report  and  Financial  Statements  of the  Group  and  the  Company  for  the 2021 ('FY2021').
@@ -141,7 +142,7 @@ Subject  to  approval  of  shareholders at  the  forthcoming  Annual  General Me
 environment is undergoing drastic changes due to the protracted pandemic situation and the rapid digital transformation. The Group customers  and  business  associates safe  by  instituting  all  the  applicable restrictions and safe management measures recommended by the various authorities. The Company had
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000011_6f3c0c0f5e1303ae5c283ac51e53bb73cca39b875d8e213bfa841e0671d466ee.png)
-**Description**: The image features a pair of large, orange, comma-shaped quotation marks, slightly blurred around the edges, set against a light gray background, suggesting they are meant to indicate the beginning of a quoted passage.
+**Description**: The image features two orange quotation marks, or commas, oriented like the beginning of a quote, against a light gray background with faint white gradients suggesting depth or lighting. The marks are stylized with rounded, slightly blurred edges, giving them a soft and modern appearance.
 
 
 
@@ -160,7 +161,7 @@ Environmental risk issues, in particular climate change have become a major glob
 The Singapore economy grew by 6.1% a  year-on-year basis in the fourth quarter of 2021, moderating from the 7.5% growth in the previous quarter. On  a  quarter-on-quarter  seasonallyadjusted basis, the economy expanded
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000012_c7059bc01ac6c7872f5d596c8635ac5502ff3000edda59aa34fff4f1ffa4ce41.png)
-**Description**: The image displays two orange, stylized quotation marks, resembling curved commas or apostrophes, positioned side-by-side on a light gray or white background, with a slightly blurry or soft focus effect.
+**Description**: The image shows two blurry, orange quotation marks against a light gray background. The quotation marks are right-facing and appear to be stylistically rendered, rather than being sharply defined text.
 
 
 
@@ -193,7 +194,7 @@ Singapore
 ## BOARD OF DIRECTORS
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000013_149cc32f1296dad503e77dc9ca12af48ef5ac43beb91d462bdac5608761ebb8b.png)
-**Description**: The image shows a head and shoulders portrait of an older Asian man with graying hair, wearing glasses, a dark suit jacket, a white shirt, and a patterned red tie. He has a warm and gentle expression on his face. The background is plain white, drawing focus entirely to the subject.
+**Description**: The image shows a medium shot of an Asian man, likely in his late 60s or early 70s, wearing glasses, a black suit, a white shirt, and an orange patterned tie; he has short, graying hair and is looking directly at the camera with a slight smile against a solid white background.
 
 
 
@@ -202,14 +203,14 @@ TEO CHIANG LONG Executive Chairman
 JAMIE TEO MIANG YEOW and Executive Director
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000014_4c09f8a4d3c8fbca03216f38c9496f90ac776c2f67bf3506a2ce3f88d8bb2dc4.png)
-**Description**: The image features a headshot of an Asian man with short, dark hair styled upwards and wearing rectangular-framed glasses. He is dressed in a black blazer over a light blue collared shirt. The background is plain white, putting the focus solely on the man's face and upper torso. He appears to be looking directly at the camera with a neutral or slightly pleasant expression.
+**Description**: The image shows an Asian man with short, dark hair, wearing glasses with a thin, rectangular frame, a light blue collared shirt, and a dark blazer. He is looking directly at the camera with a slight smile. The background is plain white.
 
 
 
 YU-FOO YEE SHOON Lead Independent Non-Executive Director Deputy Board Chairman
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000015_15b91509658743554936197d8b0bb9e432087d30d4ae4ed8cf4cb7c23f6206c9.png)
-**Description**: The image shows a portrait of a smiling woman with short, dark hair and fair skin, wearing a dark blue blazer with a matching square-necked top underneath. She is positioned against a plain white background and has a green brooch pinned on the lapel of her blazer. Her makeup is subtle, consisting of lipstick and what appears to be blush.
+**Description**: The image shows a professionally posed, upper-body portrait of an Asian woman with short, dark hair. She is smiling warmly and wearing a dark blue blazer or suit jacket over a darker top. A green and silver brooch is pinned to the lapel of her jacket. The background is a plain, clean white.
 
 
 
@@ -236,7 +237,7 @@ Mrs.  Yu-Foo  chairs  the  Publicity  and Outreach Committee for the Lee Kuan Ye
 Mrs.  Yu-Foo  graduated  from  Nanyang University with a Bachelor of Commerce and from Nanyang Technological University with a Master's Degree in Business and was awarded the Honorary  Doctorate  of  Education  by Wheelock College of Boston, the United States of America in 2008.
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000016_9942cdb94c5a90d38ff642977fe4e0c63dad60e3908a5d83acb1ba68118fe0ae.png)
-**Description**: The image shows a medium shot of an older Asian man with white hair, wearing glasses, a white shirt, and a black suit jacket. He is also wearing a red and white striped bow tie. He has a slight smile and is looking directly at the camera.
+**Description**: A head-and-shoulders shot presents an older Asian man with neatly combed white hair, wearing glasses and a dark suit. He sports a white dress shirt accented by a red and white striped bow tie, projecting a formal and professional appearance.
 
 
 
@@ -245,14 +246,14 @@ TEOH ENG HONG Independent Non-Executive Director
 TAN HUI KENG, MARTHA Independent Non-Executive Director
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000017_44769804525ada74f70b8fc8aa84cf556118188eb440070d06a249d6df7e771b.png)
-**Description**: The image shows a headshot of an Asian woman with short, dark hair and glasses, wearing a gray blazer over a light pink shirt, and a pearl necklace. She is smiling slightly and appears to be in her late 50s or early 60s. A small floral brooch adorns the lapel of her blazer. The background is plain white.
+**Description**: A medium shot depicts a smiling Asian woman with short, dark hair wearing glasses, a pearl necklace, a pink collared shirt, and a grey suit jacket adorned with a silver pin on the lapel, all set against a plain white background.
 
 
 
 ADAM TAN CHIN HAN Independent Non-Executive Director
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000018_022556a01c188a4ac4985c7a0f3ba40db081aaa4c0e2ae47e4bb1a08d6d403d8.png)
-**Description**: The image shows a portrait of an Asian man in a business suit, consisting of a white collared shirt and a black blazer. He has short, dark hair with a touch of gray at the sides, and he is looking directly at the camera with a slight smile. The background is plain white.
+**Description**: The image shows a headshot of an Asian man with short, dark hair that is slightly receding at the front. He is wearing a white collared shirt and a dark suit jacket. He has a warm smile and appears to be in his late 30s or early 40s. The background is plain white.
 
 
 
@@ -283,14 +284,14 @@ Mr. Tan holds a Bachelor of Accountancy (Hons) from Nanyang Technological Univer
 WILLIAM HO AH SENG Independent Non-Executive Director
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000019_bea3e3eb8c31ebf1b6e6c6d842045f9d72877611482f44ac4d067ae8440b8b9d.png)
-**Description**: The image features a formal headshot of an older Asian man with short, neatly styled brown hair and glasses, wearing a dark suit jacket over a white shirt and a red and black patterned tie; he is smiling warmly at the camera against a plain white background.
+**Description**: The image shows a formal portrait of an older Asian man with short, neatly combed hair, wearing glasses, a dark suit, and a red and white patterned tie, smiling warmly at the camera. The background is plain white, isolating the subject and focusing attention on his facial expression and attire.
 
 
 
 TERENCE KHOO CHI SIANG Independent Non-Executive Director
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000020_24ab28d1b3aec3dbc5ee915b5b608256e4463085783b99b5bb82ddbf8bd70867.png)
-**Description**: The image features a headshot of a middle-aged Asian man with short, dark hair styled slightly to the side. He's wearing a dark suit jacket over a white shirt and a light purple patterned tie. He's smiling, and his expression is friendly and approachable. The background is a plain white.
+**Description**: The image shows a headshot of a smiling Asian man with short, dark hair and a light complexion. He is wearing a dark suit jacket over a white shirt and a light pink patterned tie. The background is plain white.
 
 
 
@@ -334,21 +335,21 @@ Mr. Khoo holds a L.L.B Law from The
 to  meet  the  expectations  of  depositors,  customers  and  investors  alike.  The  Company  is  also  required  to  comply  with regulatory standards of capital requirements through the maintenance of a minimum capital adequacy ratio at all times, to shareholders. Our dividend policy aims to provide shareholders with sustainable dividend return over the long term by
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000021_9c2fc3e06c2faabfebfcbc0929873e6bcb11e558dd49d9cf58ce699f713248d5.png)
-**Description**: The image is a bar graph displaying the increasing amount of loans in S$ million from 2017 to 2021. The bars are gradient-colored, starting with lighter orange-pink and shifting to a darker red-orange as the years progress. The specific loan amounts for each year are displayed above the corresponding bar: 760.4 (2017), 688.8 (2018), 742.8 (2019), 844.6 (2020), and 901.6 (2021). The "LOANS" title is in orange, while "S$ million" is in a lighter shade.
+**Description**: The image is a bar graph showing an upward trend in loans, measured in S$ million, from 2017 to 2021; specifically, the loan amounts are as follows: 760.4 million in 2017, 688.8 million in 2018, 742.8 million in 2019, 844.6 million in 2020, and 901.6 million in 2021. The bars are shaded in gradients from lighter to darker colors and are labeled with the respective years, with the 2021 label highlighted in orange to match the "LOANS" title.
+
 
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000022_e408373f766fba781cd10e2fe93ea625081c57af736b977a33f9fd9f6c5ad655.png)
-**Description**: The image is a bar graph displaying deposits in S$ million from 2017 to 2021, showing a generally increasing trend with the values being 808.3, 726.5, 845.5, 907.5, and 908.0 respectively; the year 2021 is highlighted in orange.
-
+**Description**: The image is a bar graph showing the trend of deposits in S$ million from 2017 to 2021. The deposits increase gradually from 808.3 in 2017 to 726.5 in 2018, then 845.5 in 2019, then 907.5 in 2020, and reaching 908.0 in 2021. The bars are colored with an ombre effect, starting from a light orange at the top and transitioning to a darker purple at the bottom and only the year 2021 has text with orange color.
 
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000023_cf21a196323d26d23d8d04776a1f35d813fcf55c5d863498503ef5cc4c1b600e.png)
-**Description**: The image is a bar graph showing the profit before tax in S$ million from 2017 to 2021, with the x-axis representing the years and the y-axis representing the profit. The profit was S$5.9 million in 2017, rose to S$9.0 million in both 2018 and 2019, dropped to S$5.6 million in 2020, and then significantly increased to S$11.5 million in 2021, represented by a color gradient on the bars, with the year 2021 presented in an orange color.
+**Description**: The image is a vertical bar chart showing the "Profit Before Tax" in S$ million from 2017 to 2021, with the bars displaying an upward trend from 5.9 in 2017 to 9.0 in 2018 and 2019, then decreasing to 5.6 in 2020, before significantly increasing to 11.5 in 2021; the 2021 bar and label are colored in orange to emphasize the increase, while the other bars are shaded from violet to light orange.
 
 
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000024_5af77cfa20373ea8e752cc20270cd09c94b8ff583dc91a8c1fbd4516c7456acd.png)
-**Description**: The image is a bar graph that illustrates the "NET DIVIDEND PER SHARE" in cents from 2017 to 2021; in 2017, the net dividend per share was 3.0 cents, in 2018 it was 4.0 cents, in 2019 it was 3.5 cents, in 2020 it was 1.5 cents, and in 2021 it returned to 4.0 cents.
+**Description**: The image is a bar graph showing the net dividend per share in cents from 2017 to 2021. The dividends were 3.0 cents in 2017, rose to 4.0 cents in 2018, then decreased to 3.5 cents in 2019 and 1.5 cents in 2020, before rising back up to 4.0 cents in 2021; the 2021 label is rendered in a bright orange. The bars are gradient-filled, ranging from light purple/peach to darker orange/red.
 
 
 
@@ -487,7 +488,7 @@ Stocks and equity investments that are designated as Fair Value through Other Co
 ## CORPORATE DIRECTORY
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000025_d6e67d8f195d4c13b4bca3d1ec64cc22ea0ef42162e41bee33a388b125a5c593.png)
-**Description**: The image is a diagram outlining the "Board of Directors" with two categories: "Executive" and "Independent Non-Executive," each presented within a colored circle (purple and orange respectively) and connected by an orange curved line. Under "Executive," it lists Teo Chiang Long (Executive Chairman) and Jamie Teo Miang Yeow (Chief Executive Officer), while "Independent Non-Executive" includes Yu-Foo Yee Shoon (Deputy Board Chairman & Lead Independent Director), Teoh Eng Hong, William Ho Ah Seng, Tan Hui Keng, Martha, Adam Tan Chin Han, and Terence Khoo Chi Siang. The words "Board of Directors" are prominently displayed on the left.
+**Description**: The image is a graphic representing the Board of Directors of a company, segmented into "Executive" and "Independent Non-Executive" members, with the title "Board of Directors" appearing prominently on the left; an orange graphic arc connects the text to two circles, a purple circle listing the Executive members Teo Chiang Long (Executive Chairman) and Jamie Teo Miang Yeow (Chief Executive Officer), and an orange circle listing the Independent Non-Executive members Yu-Foo Yee Shoon (Deputy Board Chairman & Lead Independent Director), Teoh Eng Hong, William Ho Ah Seng, Tan Hui Keng, Martha, Adam Tan Chin Han, and Terence Khoo Chi Siang.
 
 
 ## AUDITCOMMITTEE
@@ -531,7 +532,7 @@ KPMG LLP Singapore Hong Leong Building Singapore 048581 Audit Partner: Tan Chun 
 Singapura Finance Ltd [Company Registration No. 196900340N] 150 Cecil Street #01-00 Singapore 069543 Tel:  68800633 Fax: 62258310 www.singapurafinance.com.sg www.facebook.com/singapurafinanceltd
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000026_5d6037f1faa50f0fcef5654bddb33b7aa4edb219811d61d4b6b912c2c7c9d64e.png)
-**Description**: The image is a promotional graphic for "Corporate Sustainability Reporting." A semi-transparent globe dominates the center, with the landmasses faintly visible. Surrounding the globe are various icons related to sustainability, business, and reporting, including a balance scale under a magnifying glass, a shopping basket with a dollar sign, hands cradling a plant, a speech bubble, a stock market graph, a smartphone, a megaphone, and papers. The background is a soft green gradient, suggesting an environmentally friendly theme.
+**Description**: The image is a conceptual graphic promoting "Corporate Sustainability Reporting," with the text in the upper left corner in brown and green. The background is a soft, blurred green, suggesting nature. At the center is a semi-transparent globe with landmasses visible, overlaid with various icons: a megaphone and paper, scales, a shopping bag with a dollar sign, hands cradling a seedling, a speech bubble, and a graph showing upward trends. These icons encircle the globe, representing different aspects of sustainability.
 
 
 ## BOARD STATEMENT
@@ -567,8 +568,7 @@ The Board of Directors ('the Board') incorporates sustainability issues as part 
 SFL's  SSC  consists  of  senior  management  team  members.  The  SSC  manages  and  monitors  the  overall  sustainability performance of SFL and is supported by the Sustainability Task Force ('STF') to drive sustainability programme across the organisation. SFL's STF includes representatives across functions and divisions.
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000027_583f4cb75b3a3e6f875ef06216f3f130b151a103ca566df49ef631f91f1430c3.png)
-**Description**: The image presents a hierarchical structure for implementing sustainability initiatives within a company, depicted as a tiered diagram. At the top, the Board is responsible for incorporating sustainability into the company's strategy and overseeing ESG factors. Below, the Sustainability Steering Committee (SSC), composed of senior management, develops and manages sustainability objectives, reporting to the Board. The Sustainability Task Force (STF), comprised of representatives from across the organization, drives the sustainability program.  Finally, All Staff is at the bottom of the hierarchy, implying a widespread engagement across the organization in supporting the sustainability efforts.
-
+**Description**: The image is a tiered organizational chart illustrating sustainability responsibilities within a company. At the top, a purple cylinder labeled "BOARD" is responsible for incorporating sustainability into strategic formulation and monitoring ESG factors. The next level down, a peach cylinder represents the "SUSTAINABILITY STEERING COMMITTEE (SSC)," tasked with developing sustainability objectives and strategies, managing performance, and reporting to the Board. Below that, a green cylinder indicates the "SUSTAINABILITY TASK FORCE (STF)," which drives the sustainability program across the organization, incorporating representatives from various functions and divisions. At the base, a gray cylinder represents "ALL STAFF," implying their involvement in the overall sustainability effort.
 
 
 ## CORPORATE SUSTAINABILITY REPORTING
@@ -598,22 +598,22 @@ This  Report  and  additional  corporate  information  are  available  on  our  
 and  stakeholders.  The  Company's  material  and  additional  ESG  factors  and  references  for  the  detailed  information  are summarised below.
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000028_87bc03b74be402e7247592e6e48042559e3b552474b349bfcf3da9c14966d2d9.png)
-**Description**: The image shows a circular icon with a brown background depicting an upward-trending economic graph; the graph is represented by a white line, which crosses yellow horizontal lines, with the y-axis marked in orange. At the bottom of the graph's line is a red circle, and at the top is a green circle, indicating low and high points, respectively. To the right of the icon is the word "Economic" in a gray sans-serif font.
+**Description**: The image shows a circular icon against a white background with the word "Economic" next to it. The icon itself has a brown background and depicts a rising economic graph; the graph is represented by a white line that moves upwards, indicating growth. The graph is set against horizontal yellow lines and an orange axis, culminating in a green circle at its peak and a red circle at its lowest dip, visually marking the highest and lowest points on the chart.
 
 
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000029_53ba5c1b0f4b711be7ccbf7c2882466744fd8999cd338b2fc889ab738557f765.png)
-**Description**: The image shows a graphic depicting the environment, with a teal circle containing an illustration of two hands cupped together holding soil from which a small green plant with two leaves is growing; the hands and soil cast a long, dark shadow, and to the right of the circle is the word "Environment" in a bold, dark gray font.
+**Description**: The image shows a graphic representing the concept of "Environment." On the left, within a turquoise circle with a long shadow, are cartoon hands gently holding a small mound of brown soil from which a young plant with two green leaves sprouts. To the right of the graphic, the word "Environment" is written in a bold, dark grey sans-serif font.
 
 
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000030_1a8769d132363fbcc579fb3411ada596ebedb86f2f1ed59d8e4a50fb22dd7df0.png)
-**Description**: The image features a circular icon with a green background, containing two overlapping speech bubbles, one yellow and one red, with the red bubble having three white dots inside indicating a loading or thinking status; a shadow extends from the icon diagonally downwards, and the word "Social" is written in a simple, sans-serif font to the right of the icon.
+**Description**: The image features a flat, circular icon with a green background, containing two overlapping speech bubbles: a yellow one shadowed in dark green, and a red one on top, displaying three white dots suggestive of a message in progress; next to the icon, the word "Social" is written in a sans-serif font, all placed against a white background.
 
 
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000031_2ea96e83a5acf04b609b7b49f8acab8f6b8797b9ac01633a877473d7a425225e.png)
-**Description**: The image is a circular icon featuring a cartoon-style depiction of the scales of justice viewed through a magnifying glass. The scales are rendered in shades of brown, orange, and green, while the magnifying glass has a white lens and a black handle. The background is a dark blue circle, and the image has a drop shadow effect suggesting the icon is slightly raised from the surface.
+**Description**: The image is a circular icon with a dark blue background, featuring a stylized orange and brown scale of justice with green bowls and a white magnifying glass partially obscuring it. The scale is positioned to the left of the magnifying glass and casts a shadow toward the lower right. The composition suggests a close examination or investigation related to justice or legal matters.
 
 
 
@@ -714,7 +714,8 @@ Electricity usage is our main source of energy consumption. In FY2021, we achiev
 Chart 1a: Annual energy consumption and year-on-year percentage reduction of energy consumption
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000032_1f988a7099d13bd5fe7c7dc1fad6617836d750b346d685f0c7aa7527eaffc3f1.png)
-**Description**: The graph displays the annual energy consumption in kilowatt-hours (kWh) from FY2017 to FY2021. It presents data as bars and a line, with the bars showing the absolute energy consumption for each fiscal year and the line indicating the percentage change year over year; the energy consumption decreases from 321,804 kWh in FY2017 to 290,018 kWh in FY2020 before slightly increasing to 294,680 kWh in FY2021, representing a percentage increase of 1.61% following decreases of -1.93%, -2.38% and -5.86% for the prior periods.
+**Description**: The image is a bar and line chart depicting annual energy consumption in KWh from FY2017 to FY2021. The bars represent the consumption amount for each year, with FY2017 at 321,804, FY2018 at 315,588, FY2019 at 308,075, FY2020 at 290,018, and FY2021 at 294,680. The line shows the percentage change from year to year, illustrating a decline from FY2017 to FY2020, followed by a slight increase in FY2021; FY2021 is highlighted in orange, while the other years are grey.
+
 
 
 12. Percentage change from base year 2020
@@ -724,7 +725,7 @@ Chart 1a: Annual energy consumption and year-on-year percentage reduction of ene
 14. The GHG emission intensity has increased by a higher percentage compared to the increase in overall GHG emission due to a 1.6% increase in energy consumption and a reduction in the total number of employees in 2021.
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000033_15ff00cccb367100b2f783c20f9525957bebcdf3c4cb7dd8ad120fe3494f9519.png)
-**Description**: The bar graph depicts annual energy intensity by the number of employees (KWh/Employee) from FY2017 to FY2021, with the values shown above each bar: FY2017 at 3,094, FY2018 at 2,768, FY2019 at 2,679, FY2020 at 2,762, and FY2021 at 2,861; the trendline above the bars shows a decrease from FY2017 to FY2019 by -10.54% and -3.22% respectively, then an increase by 3.10% to FY2020, and finally an increase of 3.58% in FY2021.
+**Description**: The image is a bar graph illustrating the annual energy intensity by the number of employees (KWh/employee) from FY2017 to FY2021.  The energy intensity starts at 3,094 in FY2017, decreases to 2,768 in FY2018 and 2,679 in FY2019, then increases to 2,762 in FY2020 and 2,861 in FY2021. A line graph overlays the bars, showing the percentage change year-over-year, starting with -10.54%, -3.22%, 3.10% and ending with 3.58%.  The bars are grey until FY2021, which is colored with a gradient from orange to purple.
 
 
 The  following  table  depicts  our  annual  GHG  emission  and GHG emission intensity by number of employees. All GHG emissions are Scope 2 emissions which are generated as a result of acquired electricity.
@@ -753,7 +754,7 @@ The following charts present SFL's annual water consumption (m³) and water cons
 Chart 2a: Annual water consumption and year-on-year percentage reduction of water consumption (m³)
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000034_92c5077a8671e99945c6eae85f304f24323c7c9ca08da24249b555a8a3055987.png)
-**Description**: The image displays a bar graph illustrating the decrease in annual water consumption (m³) from Fiscal Year 2020 to Fiscal Year 2021. In FY2020, the water consumption was 1,205.2 m³, represented by a gray bar, while in FY2021, it significantly decreased to 568.9 m³, shown with an orange-red gradient bar. A downward-sloping purple line connects the tops of the two bars, indicating a 52.8% reduction in annual water consumption.
+**Description**: The image shows a bar chart illustrating annual water consumption, measured in cubic meters, for Fiscal Years 2020 and 2021; the water consumption in FY2020 was 1,205.2 cubic meters, while in FY2021 it decreased significantly to 568.9 cubic meters, representing a 52.8% reduction from the previous year.
 
 
 
@@ -762,7 +763,7 @@ During  the  current  COVID-19  situation,  we  continue  to support the reducti
 Chart  2b:  Annual  water  intensity  and  year-on-year percentage reduction of water intensity
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000035_aeb797c53e231c4314b1f48b8a14bcbbd56d5fe720e7d6f56a985c873033543f.png)
-**Description**: The image is a bar graph showing the annual water consumption intensity (M³/Employee) for two fiscal years, FY2020 and FY2021. In FY2020, the water consumption intensity was 11.5, represented by a grey bar. In FY2021, the water consumption intensity decreased to 5.5, represented by an orange-to-purple gradient bar. A purple line indicates the change in water consumption intensity from FY2020 to FY2021, with a label stating a decrease of -51.9%.
+**Description**: The image is a bar graph illustrating the annual water consumption intensity in cubic meters per employee. The graph compares data from FY2020, which had a value of 11.5, to FY2021, which shows a significant decrease to 5.5. A descending line overlaid on the graph indicates a 51.9% reduction in water consumption intensity between the two fiscal years.
 
 
 
@@ -779,8 +780,7 @@ Despite  the  COVID-19  impacts  on  the  workforce,  we continue  to  embrace  
 SFL  recruits  potential  employees  through  a  vast  range of channels such as collaborating with professional recruitment consultants, leveraging on internet Due  to the  COVID-19 situation,  we are conducting recruitment interviews online. The below charts represent the percentage of new employee hires by gender and age group.
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000036_de717f4ff3dc6ad6a4d2ee949e5b663bbf3348c36ebbf5d4ba2d637e2957a1a7.png)
-**Description**: The image shows a close-up of a person washing their hands under a modern, chrome faucet in a white porcelain sink, with water cascading over their cupped hands and swirling down the drain.
-
+**Description**: The image shows two light-skinned hands being washed under a stream of water flowing from a modern chrome faucet into a white porcelain sink. The water cascades over the cupped hands, creating splashes and droplets, and drains toward a dark-colored drain at the bottom of the sink. A small, round overflow drain is visible to the right of the hands.
 
 
 ## CORPORATE SUSTAINABILITY REPORTING
@@ -788,14 +788,13 @@ SFL  recruits  potential  employees  through  a  vast  range of channels such as
 Chart 3a: Percentage of new employee hires by gender
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000037_2a7ae0b81fc351b8b485a1eee279fdfa3c149ab9d53cf90b69e56c9828c4717b.png)
-**Description**: The image is a pie chart titled "PERCENTAGE OF NEW EMPLOYEE HIRES BY GENDER (FY2021)". The pie chart is divided into two sections representing female and male hires. The female section, colored in a mauve shade, comprises 58% of the pie, while the male section, colored in gray, makes up 42%.
+**Description**: The image is a pie chart titled "Percentage of New Employee Hires by Gender (FY2021)", and it shows that 58% of new hires were female and 42% were male. The female portion of the pie is a dark shade of purple, while the male portion is gray.
 
 
 Chart  3b:  Percentage of new employee  hires by age group
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000038_463a07fb89f4e2217117b9e345f9c23d2bac7da1c60a90b12288bed96d8f78ac.png)
-**Description**: The image is a pie chart illustrating the percentage of new employee hires by age group for Fiscal Year 2021; the chart shows that 50% of new hires are in the 30-50 years old age group, 33% are under 30 years old, and 17% are over 50 years old.
-
+**Description**: The image is a pie chart showing the percentage of new employee hires by age group for FY2021, with 50% of new hires being between 30-50 years old, 33% under 30 years old, and 17% over 50 years old.
 
 
 ## (ii)  Employment Practices
@@ -835,14 +834,14 @@ We  collect  ad-hoc  feedback  from  our  employees  and conduct benchmarking an
 ## Chart 3c: Percentage of employee turnover by age group
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000039_15cba756bfa9c066081c62365adc6821dee527581e9f38003bebf8f31b94be09.png)
-**Description**: The image is a pie chart illustrating the percentage of employee turnover by age group for the fiscal year 2021. It shows that 58% of employee turnover is in the 30-50 years old age group, 30% is in the under 30 years old age group, and 12% is in the over 50 years old age group. The pie chart uses different shades of purple and gray to represent the different age groups.
+**Description**: The image shows a pie chart illustrating the percentage of employee turnover by age group for FY2021, where 58% of employee turnover comes from those aged 30-50 years old, 30% from those under 30 years old, and 12% from those over 50 years old.
+
 
 
 Chart 3d: Percentage of employee turnover by gender
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000040_9b27bbd58b1985ecf80479d550904fba6c23dc60e6d18149a6d395dc1b85e59e.png)
-**Description**: The image is a pie chart illustrating the percentage of employee turnover by gender for the fiscal year 2021.  It shows that 73% of employee turnover was attributed to females, while 27% was attributed to males.
-
+**Description**: The image is a pie chart that shows the percentage of employee turnover by gender for FY2021.  The chart is divided into two sections: one representing females, with 73% of the turnover, and one representing males, with 27% of the turnover.  The female section is colored a shade of purple, while the male section is grey.
 
 
 For  talent  retention,  the  HODs  engage  our  employees actively,  and  conduct  annual  performance  appraisals. who  may  require  corrective  actions.    HODs  are  also to assess their capability and competencies. Rewards in the  form  of  performance  bonus  and  merit  increment/ talents. To motivate our employees, SFL's recreation club distributes goodies with a message from CEO to encourage our employees and to promote their well-being.
@@ -938,7 +937,7 @@ In  2021,  all  new  referral  agents  were  screened  for  their responsible  p
 17.   For more information, please visit https://vividcard.sg/
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000041_3e07b1d0e9038bb4f3ec68cf57e5cec51027d84f9e9ff1867d83428b9b97c1b3.png)
-**Description**: The image shows a notepad lying on a gray surface with "Customer Care" printed in black at the bottom, while the top portion of the open page features a teal background with a white circle containing a black question mark; a teal eraser is placed next to the notepad, and a hand is seen holding a teal pencil near the edge of the notepad as if ready to write.
+**Description**: The image shows a notepad titled "Customer Care" with a teal page that features a large white circle enclosing a black question mark, suggesting uncertainty or inquiry; next to it, on a grey surface, lies a teal eraser, and a hand is holding a teal pencil, as if about to write or address the customer care concerns noted on the pad.
 
 
 
@@ -1022,7 +1021,7 @@ In  2021,  we  have  achieved  our  goal  of  zero  incidents  of corruption, fr
 We  plan  to  maintain  the  100%  attendance  rate  in  anticorruption  related  trainings  for  eligible  employees  as  well as  creating  awareness  on  the  repercussions  of  corruption through  our  regular  review  and  enhancement  of  anticorruption policies
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000042_ec8965fb548a0a135aaa24d9185aa45d755f5deaf43f42a0a7366beb7795a22f.png)
-**Description**: The image shows a person, seemingly a doctor wearing a white coat and a stethoscope, holding their hand up in a "stop" gesture to a blurred stack of money being offered to them, suggesting they are rejecting a bribe or refusing to be involved in unethical behavior.
+**Description**: The image shows a person wearing a white coat and a green stethoscope, possibly a doctor or medical professional, holding up their hand in a "stop" gesture towards a blurred stack of money being offered to them, suggesting a rejection of bribery or unethical financial incentives.
 
 
 
@@ -1166,16 +1165,17 @@ communications
 - Purchase of Pleasure Craft
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000043_02a8082939a107e6765457c55a4eb14254dc882414e35e43ab489422a6317929.png)
-**Description**: The image is a circular graphic representing "Personal Savings." It has a thick green outer ring with a light gray section on the upper right. Inside the green ring is a white circle. At the top center of the white circle is a purple icon of a hand holding a coin with a dollar sign on it. Below the icon is the text "PERSONAL SAVINGS*" in orange, bold font.
+**Description**: The image features a circular icon with a green border and a white interior. Inside the circle, there is a purple hand reaching upward, holding a purple coin with a dollar sign on it. Below the hand and coin, the text "PERSONAL SAVINGS*" is written in orange, completing the design.
 
 
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000044_3522017d28488a260f246e9e7a778c8e25d5026954033039b0165cfdc1c33ef5.png)
-**Description**: The image shows a circular badge or icon, with a thick orange border surrounding a white inner circle. Inside the white circle is the text "CORPORATE DEPOSIT*" in orange, stacked vertically. Above the text is a purple icon resembling a graph with an upward-pointing arrow or line, suggesting growth or increase. The badge likely represents a financial product or service related to corporate deposits, and the asterisk may indicate a footnote or further information.
+**Description**: The image shows a circular icon with a white interior and a thick orange border. Inside the circle, at the top, is a purple icon resembling a stock chart moving upwards. Below that icon, in orange text, are the words "CORPORATE DEPOSIT*". The asterisk appears small and slightly to the right of the word "DEPOSIT."
+
 
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000045_ae212fbb6089309da2b71361fd296f6e3f179e38a5ed509fd4770f16946d90c8.png)
-**Description**: The image features a circular logo for "CONSUMER LOAN." The logo consists of a white circle with the words "CONSUMER LOAN" written in orange text, below a purple target symbol with an arrow hitting the center. The white circle is surrounded by a larger orange circle that creates a visual drop shadow effect. The background behind the logo appears to be a blurry, neutral tone, potentially suggesting a webpage or document.
+**Description**: The image features a circular graphic with a thick coral-red border encompassing a white inner circle. Inside the white circle, the words "CONSUMER LOAN" are written in orange, below a stylized target symbol colored in purple, where an arrow is depicted hitting the center. The graphic suggests the concept of consumer loans and a targeted approach to financial solutions.
 
 
 
@@ -1202,12 +1202,12 @@ Blk 202 Bedok North Street 1 #01-471 Singapore 460202 Tel: 6445 8011
 Blk 711 Ang Mo Kio Ave 8 #01-3501D Singapore 560711 Tel: 6458 4222
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000046_1ed8b8c0289af6648f34bc50936eba27fc542f38fc6d341d43d329b2c86b42bf.png)
-**Description**: The image shows a circular graphic for "CORPORATE LOAN." It consists of a white circle with the words "CORPORATE LOAN" in orange text. Above the text, there is a purple dollar sign inside a circle in front of a partially visible purple gear. The white circle is surrounded by a thicker purple circle. The background is light grey.
+**Description**: The image shows a circular icon with a purple border and a white interior. In the upper center, there's a purple dollar sign coin partially obscuring a cogwheel of the same color. Below the graphic, the words "CORPORATE LOAN" are written in orange capital letters. The icon seems to be designed to represent or promote a corporate loan service or product.
 
 
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000047_bdbb1fc5e1cfb4265d4df0f735b64e5cf12778f45abf8a4dc3769cbb80cd6979.png)
-**Description**: The image features a circular icon with a white center and a teal blue border. Inside the white circle, there's a dark purple lightbulb icon with an exclamation point within it, symbolizing an idea or insight. Below the lightbulb, the word "OTHERS" is prominently displayed in orange, suggesting this category represents items or concepts that do not fit into other, more specific groupings.
+**Description**: The image shows a circular icon with a teal outer ring. Inside the teal ring is a white circle that contains a purple lightbulb icon with an exclamation point inside it. Below the lightbulb, the word "OTHERS" is written in orange, alluding to a category or grouping represented by the icon. The background appears to be a blurred out image, potentially part of a larger interface or design.
 
 
 
@@ -1747,7 +1747,8 @@ Director
 Director
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000048_ebd01b802f7dc125a31bb93cde848d9b16ae77fb5b848aa4fe25f634a6b60648.png)
-**Description**: The image features the text "DIRECTORS' STATEMENT" displayed in two lines, with "DIRECTORS'" on the top line and "STATEMENT" on the bottom, both rendered in a sans-serif font with a muted reddish-purple color.
+**Description**: The image displays the words "DIRECTORS'" on the top line and "STATEMENT" on the bottom line, both written in a muted purple sans-serif font and stacked vertically.
+
 
 
 ## INDEPENDENT AUDITORS' REPORT
@@ -2094,7 +2095,7 @@ Depreciation methods, useful lives and residual values are reviewed at the end o
 The Group initially  recognises  loans  and  receivables  and  deposits  when  they  are  originated.    All  other contractual provisions of the instrument.
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000049_c2166784fb054c4a6ba0efa5d88cab3904dbf9c428c7ce790d0d4c383a4ee612.png)
-**Description**: The image displays the words "NOTES TO THE FINANCIAL STATEMENTS" stacked in two lines, with "NOTES TO THE" on the top line and "FINANCIAL STATEMENTS" on the bottom line, all written in a muted, dark pink or purple color.
+**Description**: The image shows the text "NOTES TO THE FINANCIAL STATEMENTS" in a purple sans-serif font. The words "FINANCIAL STATEMENTS" are on the bottom line and the words "NOTES TO THE" are stacked on top of them on the right side.
 
 
 Year ended 31 December 2021
@@ -2143,7 +2144,7 @@ associated with the principal amount outstanding during a particular period of t
 ## (Continued)
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000050_152e1f6ffb90954b1273929906068173a49ddcd403227923bdebba3311e3ac99.png)
-**Description**: The image displays the text "NOTES TO THE FINANCIAL STATEMENTS" in a simple, sans-serif font. The color of the text is a muted purple or mauve hue, and the words are arranged on two lines, with "NOTES TO THE" above "FINANCIAL STATEMENTS."
+**Description**: The image displays the text "NOTES TO THE FINANCIAL STATEMENTS" in a dark rose-colored font. The words "NOTES TO THE" are stacked on top of "FINANCIAL STATEMENTS," creating a two-line heading effect. The text is set against a white background.
 
 
 Year ended 31 December 2021
@@ -3235,7 +3236,7 @@ Year ended 31 December 2021
 *  Excludes prepayments
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000051_5eb7e760eaee4fa9561cbd59d0d9081c0c7cbf367f43b1306b94ebeb5fee9c59.png)
-**Description**: The image features the words "NOTES TO THE" stacked above "FINANCIAL STATEMENTS" in a uniform, sans-serif font of a color resembling muted purple or dark rose. The top line, "NOTES TO THE," appears slightly smaller and aligned towards the right compared to the bottom line, "FINANCIAL STATEMENTS," which is bolder and spreads further across the horizontal space.
+**Description**: The image displays the phrase "NOTES TO THE FINANCIAL STATEMENTS" in a purple, sans-serif font, with "NOTES TO THE" on the first line and "FINANCIAL STATEMENTS" on the second line, slightly lower, indicating a hierarchical title structure.
 
 
 Year ended 31 December 2021
@@ -3415,8 +3416,7 @@ One Vote per Share
 | 20  | ESTATE OF LEONG SENG FATT, DECEASED               |              | 0.28    |
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000052_ba8b1fbfb56aec8750fc94e8ba15efb5829522eb5c940e39ae16914252223f3f.png)
-**Description**: The image displays text that reads "ANALYSIS OF SHAREHOLDINGS" in a slightly dark purple font, with "As at 7 March 2022" written in a smaller, dark gray font underneath. The title suggests a report or document regarding the breakdown of share ownership as of the specified date.
-
+**Description**: The image contains the text "ANALYSIS OF" in a slightly smaller font above "SHAREHOLDINGS" in a larger font, both in a dark purple color, with the phrase "As at 7 March 2022" appearing below in a smaller, darker font and black color.
 
 
 ## ANALYSIS OF SHAREHOLDINGS
@@ -3686,7 +3686,7 @@ No
 No
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000053_a2823ea98776927752fe08a9b23fd539a61782fe6d543dbfce1f58a3fe3ab7b3.png)
-**Description**: The image shows a black scissors icon positioned over a dashed line, suggesting a "cut here" instruction. The scissors are open with blades pointing upwards, and the dashed line extends vertically through the center of the scissors. The background is white.
+**Description**: The image depicts a pair of black scissors positioned vertically, oriented such that their blades are spread apart, seemingly ready to cut. A dashed line runs vertically behind the scissors, suggesting a cutting line or a place where something should be cut, creating a symbol representing instructions for cutting.
 
 
 
@@ -3743,7 +3743,7 @@ proxy forms by post, members are strongly encouraged to submit completed proxy f
 1st fold here
 
 ![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000054_17e2cb0e347b1dee685af47507643b040bb22bb5891727b3801c6e8faf28a364.png)
-**Description**: The image features the logo for "Singapura Finance." The word "Singapura" is displayed prominently in a large, bold, dark grey font. Below it, in a smaller, plum-colored font, is the phrase "富雅金融 FINANCE," which translates to "Fú yǎ jīnróng FINANCE" in Mandarin. To the right of the text is a plum-colored stylized logo of a bird with its wings partly spread, giving the impression of flight or growth.
+**Description**: The image shows a logo for "Singapura Finance." The word "Singapura" is prominently displayed in a dark gray font, above the words "富雅金融 FINANCE" stacked on top of each other, in purple. To the right of the word Singapura, is a stylized logo of a bird with its wings spread, also in purple, and oriented toward the right.
 
 
 
@@ -3759,6 +3759,6 @@ c/o Singapura Finance Ltd
 
 Postage Stamp
 
-![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000055_ef602ae143605f70a685e7fdecd9195779807fd6b7bfebe51efb680e0cf5aaeb.png)**Description**: The image displays the logo for "Singapura Finance". The word "Singapura" is written in a maroon, serif font, positioned above the Chinese characters "富雅金融" and the word "FINANCE" in orange. To the right of the text, there's a stylized graphic of a bird, likely a phoenix, in a bright orange color.
+![Image](output_md\Singapura Finance - Annual Report 2021_artifacts\image_000055_ef602ae143605f70a685e7fdecd9195779807fd6b7bfebe51efb680e0cf5aaeb.png)**Description**: The image features the logo for "Singapura Finance." "Singapura" is written in a deep purple, sans-serif font, situated above the words "FINANCE" in orange and a set of Chinese characters in grey that likely represent the name in Chinese. To the upper right of the text, there's a stylized, orange illustration of a phoenix with its wings spread.
 
 

@@ -1,8 +1,6 @@
 from langchain_chroma import Chroma
-from langchain.chains import RetrievalQA
-from langchain_core.prompts import PromptTemplate
-from langchain_ibm import WatsonxLLM
 from langchain_community.embeddings import HuggingFaceEmbeddings
+import google.generativeai as genai
 from dotenv import load_dotenv
 
 import os
@@ -14,7 +12,7 @@ def setup_qa_chain(
     local_vector_store_path=None,
     vector_object=None,
     use_local_path=True,
-    model_id="ibm/granite-3-8b-instruct",
+    model_id="gemini-2.0-flash",
     embbedings_model_name="sentence-transformers/all-MiniLM-L6-v2"
 ):
     """
@@ -28,8 +26,9 @@ def setup_qa_chain(
         use_local_path (bool): If True, the function will load the vector store from
                                the local path. If False, it will use the provided
                                vector_object.
-        model_id (str): The ID of the language model to use. Currently, only
-                        'ibm/granite-3.1-8b-instruct' is supported.
+        model_id (str): The ID of the language model to use. Supported models:
+                        'gemini-1.5-flash' (default, higher quota), 'gemini-1.5-pro', 
+                        or 'gemini-2.0-flash-exp'.
 
     Returns:
         RetrievalQA: The configured RetrievalQA chain.
@@ -39,36 +38,27 @@ def setup_qa_chain(
                     parameters are missing for the chosen retrieval method.
     """
     # Handle exceptions for unsupported models
-    if model_id == "ibm/granite-3-8b-instruct":
-        # Step 1: Configure IBM Granite model
-        llm = WatsonxLLM(
-            url="https://us-south.ml.cloud.ibm.com",
-            apikey=os.environ.get("WATSONX_APIKEY"),
-            project_id=os.environ.get("WATSONX_PROJECT_ID"),
-            model_id=model_id,
-            params={
-                "temperature": 0.1,
-                "max_new_tokens": 512,
-                "repetition_penalty": 1.1
-            }
-        )
+    if model_id in ["gemini-2.0-flash-exp", "gemini-2.0-flash", "gemini-1.5-pro", "gemini-1.5-flash"]:
+        # Step 1: Configure Google Gemini model
+        api_key = os.environ.get("GOOGLE_API_KEY")
+        if not api_key:
+            raise ValueError("GOOGLE_API_KEY not found in environment variables")
+        genai.configure(api_key=api_key)
+        llm = genai.GenerativeModel(model_id)
+    elif model_id == "ibm/granite-3-8b-instruct":
+        # Fallback to IBM Watson (requires langchain-ibm)
+        raise ValueError("IBM Watson integration requires langchain-ibm which has dependency conflicts. Please use 'gemini-2.0-flash' instead.")
     else:
-        raise ValueError("Only 'ibm/granite-3-8b-instruct' is currently supported.")
+        raise ValueError("Only Gemini models (gemini-2.0-flash, gemini-1.5-pro, gemini-1.5-flash, gemini-2.0-flash-exp) are currently supported.")
 
     # Step 2: Create custom prompt template
-    prompt_template = """
-    Use the following context to answer the question. If you cannot find the answer in the context, say "I cannot find this information in the provided documents."
+    prompt_template = """Use the following context to answer the question. If you cannot find the answer in the context, say "I cannot find this information in the provided documents."
 
-    Context: {context}
+Context: {context}
 
-    Question: {question}
+Question: {question}
 
-    Answer: """
-    
-    PROMPT = PromptTemplate(
-        template=prompt_template,
-        input_variables=["context", "question"]
-    )
+Answer:"""
     
     # Step 3: Set up retrieval chain based on the chosen method
     if use_local_path:
@@ -84,34 +74,50 @@ def setup_qa_chain(
         print("Using provided vector store object.")
         retriever_source = vector_object
 
-    # Step 4: Add error handling for the RetrievalQA chain creation
+    # Step 4: Create a custom QA chain object
     try:
-        qa_chain = RetrievalQA.from_chain_type(
-            llm=llm,
-            chain_type="stuff",
-            retriever=retriever_source.as_retriever(search_kwargs={"k": 4}),
-            chain_type_kwargs={"prompt": PROMPT},
-            return_source_documents=True
-        )
+        retriever = retriever_source.as_retriever(search_kwargs={"k": 4})
+        
+        # Create a simple class to wrap the retriever and model
+        class SimpleQAChain:
+            def __init__(self, llm, retriever, prompt_template):
+                self.llm = llm
+                self.retriever = retriever
+                self.prompt_template = prompt_template
+            
+            def invoke(self, question):
+                # Get relevant documents
+                docs = self.retriever.invoke(question)
+                context = "\n\n".join(doc.page_content for doc in docs)
+                
+                # Format prompt
+                prompt = self.prompt_template.format(context=context, question=question)
+                
+                # Generate response
+                response = self.llm.generate_content(prompt)
+                return {
+                    "answer": response.text,
+                    "source_documents": docs
+                }
+        
+        qa_chain = SimpleQAChain(llm, retriever, prompt_template)
         return qa_chain
     except Exception as e:
-        raise Exception(f"Failed to create the RetrievalQA chain. Check your vector store and LLM configurations. Details: {e}")
+        raise Exception(f"Failed to create the QA chain. Check your vector store and LLM configurations. Details: {e}")
 
 # Example query function
 def ask_question(qa_chain, question):
     """
     Query the system and return answer with sources
     """
-    result = qa_chain({"query": question})
-    
-    answer = result["result"]
-    sources = result["source_documents"]
+    # Get the answer from the chain
+    result = qa_chain.invoke(question)
     
     # Format response with citations
     response = {
-        "answer": answer,
-        "sources": [doc.metadata.get("source", "Unknown") for doc in sources],
-        "confidence": len(sources)  # Simple confidence metric
+        "answer": result["answer"],
+        "sources": [doc.metadata.get("source", "Unknown") for doc in result["source_documents"]],
+        "confidence": len(result["source_documents"])  # Simple confidence metric
     }
     
     return response
