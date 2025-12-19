@@ -81,9 +81,14 @@ def process_documents_to_md(doc_dir: str, ai_service_provider: str = "google"):
     # Define supported formats and their processors
     SUPPORTED_FORMATS = {
         '.pdf': convert_pdf_with_image_annotation,
-        # Add more formats and their processors here
-        # '.docx': convert_docx_with_annotation,
-        # '.txt': convert_txt_with_annotation,
+        '.docx': convert_pdf_with_image_annotation,
+        '.pptx': convert_pdf_with_image_annotation,
+        '.xlsx': convert_pdf_with_image_annotation,
+        '.jpg': convert_pdf_with_image_annotation,
+        '.jpeg': convert_pdf_with_image_annotation,
+        '.png': convert_pdf_with_image_annotation,
+        '.tiff': convert_pdf_with_image_annotation,
+        '.bmp': convert_pdf_with_image_annotation,
     }
 
     # Get all files with supported extensions
@@ -125,6 +130,47 @@ def process_documents_to_md(doc_dir: str, ai_service_provider: str = "google"):
         except Exception as e:
             print(f"\n✗ Error processing {file_path.name}: {str(e)}")
     return processed_files
+
+def process_single_document_to_md(file_path: str, ai_service_provider: str = "google"):
+    """
+    Process a single document file to markdown.
+    
+    Args:
+        file_path (str): Path to the document file
+        ai_service_provider (str): AI service to use for image annotation
+        
+    Returns:
+        str: Path to the generated markdown file
+    """
+    output_dir = Path("output_md")
+    output_dir.mkdir(exist_ok=True)
+    
+    file_path = Path(file_path)
+    
+    # Check if file has supported extension
+    SUPPORTED_FORMATS = ['.pdf', '.docx', '.pptx', '.xlsx', '.jpg', '.jpeg', '.png', '.tiff', '.bmp']
+    if file_path.suffix.lower() not in SUPPORTED_FORMATS:
+        raise ValueError(f"Unsupported file format: {file_path.suffix}")
+    
+    print(f"\nProcessing: {file_path.name}")
+    
+    try:
+        # Process the file
+        result = convert_pdf_with_image_annotation(str(file_path), ai_service_provider)
+        
+        # Save output
+        md_filename = output_dir / f"{file_path.stem}.md"
+        result.document.save_as_markdown(
+            md_filename,
+            image_mode=ImageRefMode.REFERENCED,
+            include_annotations=True
+        )
+        print(f"✓ Processed: {file_path.name} -> {md_filename}")
+        return str(md_filename)
+        
+    except Exception as e:
+        print(f"✗ Error processing {file_path.name}: {str(e)}")
+        raise
 
 def process_markdown_folder(folder_path):
     """
@@ -279,6 +325,116 @@ def create_chroma_vectordb(
     except Exception as e:
         print(f"An error occurred during document processing: {e}")
         return None
+
+def add_document_to_chroma(
+    file_path: str,
+    chroma_db_folder: str = "./chroma_db",
+    text_splitter_choice: str = "CharacterTextSplitter",
+    splitter_para: dict = {},
+    model_name: str = "sentence-transformers/all-MiniLM-L6-v2"
+):
+    """
+    Add a single document to existing ChromaDB.
+    
+    Args:
+        file_path (str): Path to the document to add
+        chroma_db_folder (str): ChromaDB directory
+        text_splitter_choice (str): Type of text splitter
+        splitter_para (dict): Splitter parameters
+        model_name (str): Embedding model name
+        
+    Returns:
+        bool: True if successful, False otherwise
+    """
+    try:
+        # Load the document
+        converter = DocumentConverter()
+        loader = DoclingLoader([file_path], converter=converter)
+        documents = loader.load()
+        
+        # Configure text splitter
+        chunk_size = splitter_para.get('chunk_size', 1000)
+        chunk_overlap = splitter_para.get('chunk_overlap', 200)
+        
+        if text_splitter_choice == "CharacterTextSplitter":
+            text_splitter = CharacterTextSplitter(
+                chunk_size=chunk_size,
+                chunk_overlap=chunk_overlap,
+                length_function=len
+            )
+        elif text_splitter_choice == "TokenTextSplitter":
+            text_splitter = TokenTextSplitter(
+                chunk_size=chunk_size,
+                chunk_overlap=chunk_overlap
+            )
+        else:
+            raise ValueError(f"Unsupported text splitter: {text_splitter_choice}")
+        
+        chunks = text_splitter.split_documents(documents)
+        embeddings = HuggingFaceEmbeddings(model_name=model_name)
+        
+        # Load existing vectorstore and add new documents
+        vectorstore = Chroma(
+            persist_directory=chroma_db_folder,
+            embedding_function=embeddings
+        )
+        vectorstore.add_documents(filter_complex_metadata(chunks))
+        
+        print(f"✓ Added {file_path} to ChromaDB")
+        return True
+        
+    except Exception as e:
+        print(f"✗ Error adding document to ChromaDB: {e}")
+        return False
+
+def delete_document_from_chroma(
+    file_name: str,
+    chroma_db_folder: str = "./chroma_db",
+    model_name: str = "sentence-transformers/all-MiniLM-L6-v2"
+):
+    """
+    Delete a document from ChromaDB by filename.
+    
+    Args:
+        file_name (str): Name of the file to delete (e.g., "report.pdf")
+        chroma_db_folder (str): ChromaDB directory
+        model_name (str): Embedding model name
+        
+    Returns:
+        bool: True if successful, False otherwise
+    """
+    try:
+        embeddings = HuggingFaceEmbeddings(model_name=model_name)
+        vectorstore = Chroma(
+            persist_directory=chroma_db_folder,
+            embedding_function=embeddings
+        )
+        
+        # Get all documents and filter by source
+        # ChromaDB stores source path in metadata
+        collection = vectorstore._collection
+        all_docs = collection.get()
+        
+        # Find IDs of documents with matching source
+        ids_to_delete = []
+        for i, metadata in enumerate(all_docs['metadatas']):
+            if metadata and 'source' in metadata:
+                source = metadata['source']
+                # Check if filename matches (handle both full paths and just filenames)
+                if file_name in source or source.endswith(file_name):
+                    ids_to_delete.append(all_docs['ids'][i])
+        
+        if ids_to_delete:
+            collection.delete(ids=ids_to_delete)
+            print(f"✓ Deleted {len(ids_to_delete)} chunks of {file_name} from ChromaDB")
+            return True
+        else:
+            print(f"⚠ No documents found matching {file_name} in ChromaDB")
+            return False
+            
+    except Exception as e:
+        print(f"✗ Error deleting document from ChromaDB: {e}")
+        return False
     
 def main():
     """Example usage of the convert_pdf_with_image_annotation function"""

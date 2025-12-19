@@ -2,11 +2,16 @@ from langchain_chroma import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 import google.generativeai as genai
 from dotenv import load_dotenv
+import time
 
 import os
 
 # Load environment variables from .env file
 load_dotenv(override=True)
+
+# Rate limiting tracker
+_last_api_call_time = 0
+_min_delay_between_calls = 2.0  # 2 seconds between calls
 
 def setup_qa_chain(
     local_vector_store_path=None,
@@ -86,6 +91,15 @@ Answer:"""
                 self.prompt_template = prompt_template
             
             def invoke(self, question):
+                global _last_api_call_time
+                
+                # Rate limiting: ensure minimum delay between API calls
+                current_time = time.time()
+                time_since_last_call = current_time - _last_api_call_time
+                if time_since_last_call < _min_delay_between_calls:
+                    sleep_time = _min_delay_between_calls - time_since_last_call
+                    time.sleep(sleep_time)
+                
                 # Get relevant documents
                 docs = self.retriever.invoke(question)
                 context = "\n\n".join(doc.page_content for doc in docs)
@@ -93,12 +107,26 @@ Answer:"""
                 # Format prompt
                 prompt = self.prompt_template.format(context=context, question=question)
                 
-                # Generate response
-                response = self.llm.generate_content(prompt)
-                return {
-                    "answer": response.text,
-                    "source_documents": docs
-                }
+                # Generate response with retry logic
+                max_retries = 3
+                for attempt in range(max_retries):
+                    try:
+                        response = self.llm.generate_content(prompt)
+                        _last_api_call_time = time.time()
+                        return {
+                            "answer": response.text,
+                            "source_documents": docs
+                        }
+                    except Exception as e:
+                        if "429" in str(e) or "quota" in str(e).lower():
+                            if attempt < max_retries - 1:
+                                wait_time = (attempt + 1) * 10  # 10s, 20s, 30s
+                                print(f"⚠️ Rate limit hit. Waiting {wait_time}s before retry {attempt + 2}/{max_retries}...")
+                                time.sleep(wait_time)
+                            else:
+                                raise Exception("Rate limit exceeded. Please wait a few minutes and try again.")
+                        else:
+                            raise
         
         qa_chain = SimpleQAChain(llm, retriever, prompt_template)
         return qa_chain

@@ -1,0 +1,74 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! I'm here to help you analyze files. Upload a file using the sidebar and I can help you understand its contents! "
+  },
+  {
+    "role": "user",
+    "content": "are you happy?"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm ready to help! Upload a file using the sidebar, and I can analyze it for you when you're ready. "
+  },
+  {
+    "role": "user",
+    "content": "analyze"
+  },
+  {
+    "role": "assistant",
+    "content": "**Great Eastern - Annual Report 2024.pdf** has been processed: - Converted to markdown format - Words: 118,037 - Characters: 1,030,225 - Location: output_md/Great Eastern - Annual Report 2024.md Ask me to 'show content' or 'display' to see the text! "
+  },
+  {
+    "role": "user",
+    "content": "show"
+  },
+  {
+    "role": "assistant",
+    "content": "**Great Eastern - Annual Report 2024.pdf** (processed to markdown): ![Image](output_md\\Great Eastern - Annual Report 2024_artifacts\\image_000000_873b682d34004e6aecea7912428e31af19f0a38b4b81116ed866f4d18b12e4f1.png) **Description**: The image is the logo for Great Eastern, set against a red background. The logo features a white lion standing in profile, facing right, adjacent to the words \"Great Eastern\" stacked on two lines, also in white. Below the company name is the text \"A member of the OCBC Group\" in a smaller white font. ## GREAT is Our Journey Together GREAT EASTERN HOLDINGS LIMITED Annual Report 2024 At Great Eastern, we believe in everyone's potential to achieve what is meaningful, and we take pride to protect, preserve and grow what matters to our customers. From our humble origins to becoming a trusted brand that serves generations of customers, we have, over the last 116 years, provided insurance and financial solutions that enable our customers to live life to the fullest. As we journey together, we will continue to elevate our business to deliver value to our customers, partners, financial representatives and employees. We believe that Great is for everyone. And we achieve this by protecting our stakeholders against life's uncertainties and empowering their financial freedom, so that they can pursue their goals, thrive without fear, and be the greatest version of themselves. Together, we will Reach for Great. ## GREAT is Our Journey Together ## CONTENTS - 3 Key Figures ... (showing first 10 lines) "
+  },
+  {
+    "role": "user",
+    "content": "next 10 lines"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm ready to help! Upload a file using the sidebar, and I can analyze it for you when you're ready. "
+  },
+  {
+    "role": "user",
+    "content": "aalyze"
+  },
+  {
+    "role": "assistant",
+    "content": "I see you have 1 file(s) uploaded. I can analyze them whenever you're ready! Just let me know what you'd like to know about them. "
+  },
+  {
+    "role": "user",
+    "content": "summarize"
+  },
+  {
+    "role": "assistant",
+    "content": "I see you have 1 file(s) uploaded. I can analyze them whenever you're ready! Just let me know what you'd like to know about them. "
+  },
+  {
+    "role": "user",
+    "content": "show"
+  },
+  {
+    "role": "assistant",
+    "content": "**Great Eastern - Annual Report 2024.pdf** (processed to markdown): ![Image](output_md\\Great Eastern - Annual Report 2024_artifacts\\image_000000_873b682d34004e6aecea7912428e31af19f0a38b4b81116ed866f4d18b12e4f1.png) **Description**: The image is the logo for Great Eastern, featuring a white lion standing to the left of the text \"Great Eastern\" in white, all against a solid red background, with the text \"A member of the OCBC Group\" in white below the company name. ## GREAT is Our Journey Together GREAT EASTERN HOLDINGS LIMITED Annual Report 2024 At Great Eastern, we believe in everyone's potential to achieve what is meaningful, and we take pride to protect, preserve and grow what matters to our customers. From our humble origins to becoming a trusted brand that serves generations of customers, we have, over the last 116 years, provided insurance and financial solutions that enable our customers to live life to the fullest. As we journey together, we will continue to elevate our business to deliver value to our customers, partners, financial representatives and employees. We believe that Great is for everyone. And we achieve this by protecting our stakeholders against life's uncertainties and empowering their financial freedom, so that they can pursue their goals, thrive without fear, and be the greatest version of themselves. Together, we will Reach for Great. ## GREAT is Our Journey Together ## CONTENTS - 3 Key Figures ... (showing first 10 lines) "
+  },
+  {
+    "role": "user",
+    "content": "show"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm ready to help! Upload a file using the sidebar, and I can analyze it for you when you're ready. "
+  }
+]
