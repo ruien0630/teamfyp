@@ -1,0 +1,684 @@
+Loading vector store from local path: C:\FYP\IBM FYP RAG\chroma_db
+
+📝 Q1: Who is the CEO/Managing Director of the company?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   Mr Kevin Koo
+Executive Chairman and CEO (See Board of Directors)
+Mr William Lim Executive Director (See Board of Directors)...
+   --- [Chunk 2] ---
+   Chairman and Chief Executive Officer
+Mr  Kevin  Koo  is  the  Executive  Chairman  and  CEO  of  the  Company.  As  Executive  Chairman,  he  (a)  leads  the  Board to ensure its effectiveness on all aspects of its role; (b) sets the agenda and ensure that adequate time is available for discussion o...
+   --- [Chunk 3] ---
+   BOARD OF DIRECTORS
+Mr Kevin Koo Executive Chairman and CEO
+Mr William Lim Executive Director
+Mr Chua Kee Lock Lead Independent Director
+Mr Low Seow Juan Independent Director
+Mr Tan Hup Foi Independent Director...
+   --- [Chunk 4] ---
+   Chairman and Chief Executive Officer
+Since  the  roles  of  Chairman  and  CEO  are  combined,  the  division  of  responsibilities  has  not  been  set  in  writing.  All major decisions made by the Executive Chairman and CEO are reviewed by the Board and his remuneration package is  reviewed perio...
+💡 AI Answer (ibm/granite-4-h-small):  The CEO/Managing Director of the company is Mr Kevin Koo.
+
+📝 Q2: What is the company’s primary business activity?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   OPERATIONS REVIEW
+![Image](output_md\CBA - Annual Report 2022_artifacts\image_000018_b5df54087be80e2ee903da44aa0f403711e14efed777aa0ae9b6fb5a137804e8.png)
+services for customers' various purposes including financial health checks, sales and marketing solutions,  leads  generation,  monitoring  servi...
+   --- [Chunk 2] ---
+   CORPORATE PROFILE
+For its Non-FI Data Business, the Group has more than 6,000 enterprise customers, ranging from multinational  corporations  to  small  and  mediumsized enterprises. CBA's Non-FI Data Business operates in Singapore and Malaysia, where enterprise  customers  can  access  a  wide  ran...
+   --- [Chunk 3] ---
+   OPERATIONS REVIEW
+![Image](output_md\CBA - Annual Report 2022_artifacts\image_000020_d737bf0548cb1a87b45b320e5292de52d9d0c472f7b630fcada167d3c89e9d0e.png)
+insights  and  other  services,  using  data  sourced from a variety of publicly accessible registries and the D&B Worldwide Network as well as i...
+   --- [Chunk 4] ---
+   Revenue from major products and services
+The Group's revenue from its major products and services are disclosed in Note 22....
+💡 AI Answer (ibm/granite-4-h-small):  Based on the context provided, the company's primary business activity appears to be providing business information and risk management services, sales and marketing solutions, and commercial insights to enterprise customers. This includes accessing a wide range of business information from publicly available registries, Dun & Bradstreet's international network, and information contributed by subscribing businesses.
+
+📝 Q3: In which year was the company incorporated?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   1 GENERAL
+The Company (Registration No. 201909251G) is incorporated in Singapore with its registered office and principal place of business at 6 Shenton Way, #17-10 OUE Downtown 2, Singapore 068809. The Company converted into a public company limited by shares on 13 November 2020, and was listed on ...
+   --- [Chunk 2] ---
+   2005
+- A second joint venture was established with Keppel Land (China) Pte Ltd (now known as APAC Bizinfo Pte Ltd) ('ABI'), an entity which at the time was jointly held by Keppel Communications Pte. Ltd. and Equifax APAC Holdings Limited ('Investment Asia') pursuant to which Infocredit Holdings Pte....
+   --- [Chunk 3] ---
+   MAJOR MILESTONES
+- 2009 · Between 2001 and 2009, Investment Asia and Dun & Bradstreet undertook a number of restructuring transactions which adjusted their respective shareholdings within the Group. This included D&B APAC selling its entire shareholding in DBIC to ICVPL, followed by the amalgamation...
+   --- [Chunk 4] ---
+   MAJOR MILESTONES
+- 1995 · The  Group  Executive  Chairman  &  CEO  Mr  Kevin  Koo  established  a  credit  information  business  in Singapore through Infocredit International Pte Ltd ('IIPL') to collect and distribute credit information in relation to Singapore-based and foreign commercial enterpri...
+💡 AI Answer (ibm/granite-4-h-small): 1995
+
+📝 Q4: Describe markets or regions does the company operate in?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   Geographical information
+The Group operates in 4 principal geographical areas - Singapore (country of domicile), Malaysia, Cambodia and Myanmar.
+In  presenting  information  on  the  basis  of  geographical  areas,  segment  revenue,  profit  (loss)  before  tax  and non-current assets are based on ...
+   --- [Chunk 2] ---
+   REGIONAL PLANS
+Apart from driving organic growth within our existing markets, we are also actively exploring opportunities to expand to other territories in the ASEAN region and beyond, whether organically, or through acquisitions,  joint  ventures  or  partnerships.  We  are in active communication...
+   --- [Chunk 3] ---
+   CORPORATE GOVERNANCE
+Chua Kee Lock, Position = Lead Independent Director. Chua Kee Lock, Present directorship in other listed companies = l Yongmao Holdings Ltd l Venture Corporation Ltd l Vertex Technology Acquisition Corporation Ltd. Chua Kee Lock, Present principal commitments = l Vertex Venture ...
+   --- [Chunk 4] ---
+   Non-Financial Institution Data Business ('Non-FI Data Business')
+In  Singapore  and  Malaysia,  we  have  established joint  venture  partnerships  with  Dun  &  Bradstreet and operate through our subsidiaries Dun & Bradstreet (Singapore) Pte Ltd ('D&B Singapore') and  Dun  &  Bradstreet  (D&B)  Mal...
+💡 AI Answer (ibm/granite-4-h-small):  Based on the given context, the company operates in four principal geographical areas:
+
+1. Singapore (the country of domicile)
+2. Malaysia 
+3. Cambodia
+4. Myanmar
+
+📝 Q5: What are the company’s three main business segments?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   OPERATIONS REVIEW
+![Image](output_md\CBA - Annual Report 2022_artifacts\image_000018_b5df54087be80e2ee903da44aa0f403711e14efed777aa0ae9b6fb5a137804e8.png)
+services for customers' various purposes including financial health checks, sales and marketing solutions,  leads  generation,  monitoring  servi...
+   --- [Chunk 2] ---
+   CORPORATE PROFILE
+For its Non-FI Data Business, the Group has more than 6,000 enterprise customers, ranging from multinational  corporations  to  small  and  mediumsized enterprises. CBA's Non-FI Data Business operates in Singapore and Malaysia, where enterprise  customers  can  access  a  wide  ran...
+   --- [Chunk 3] ---
+   Products and services from which reportable segments derive their revenues
+Information  reported  to  the  Group's  chief  operating  decision  maker  ('CODM')  for  the  purposes  of  resource allocation and assessment of segment performance focuses on the source of information from which the Group...
+   --- [Chunk 4] ---
+   Segment revenues and results
+The following is an analysis of the Group's revenue and results by reportable segment:...
+💡 AI Answer (ibm/granite-4-h-small):  According to the context provided, the company's two reportable segments are:
+
+1. Non-financial institution data 
+2. Financial institution data
+
+📝 Q6: Who is the Chairman of the Board?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   Chairman and Chief Executive Officer
+Mr  Kevin  Koo  is  the  Executive  Chairman  and  CEO  of  the  Company.  As  Executive  Chairman,  he  (a)  leads  the  Board to ensure its effectiveness on all aspects of its role; (b) sets the agenda and ensure that adequate time is available for discussion o...
+   --- [Chunk 2] ---
+   CORPORATE GOVERNANCE
+In  addition,  to  ensure  that  the  Board  is  able  to  fulfill  its  responsibilities  and  to  make  informed  decisions  in  a  timely manner, Management regularly provides the Board with annual financial plans, monthly management accounts and reports when requested, and o...
+   --- [Chunk 3] ---
+   Chairman and Chief Executive Officer
+Principle 3:  There  is  a  clear  division  of  responsibilities  between  the  leadership  of  the  Board  and  Management,  and  no  one individual has unfettered powers of decision-making.
+The Board recognises the Code's recommendation that the Chairman and t...
+   --- [Chunk 4] ---
+   Board Composition and Guidance
+Principle 2: The board has an appropriate level of independence and diversity of thought and background in its composition to enable it to make decisions in the best interest of the Company.
+The current Chairman is not an Independent Director. As at the date of this An...
+💡 AI Answer (ibm/granite-4-h-small):  According to the context provided, Mr. Kevin Koo is the Chairman and Chief Executive Officer of the company.
+
+📝 Q7: What is the company’s mission or vision statement?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   CORPORATE PROFILE
+For its Non-FI Data Business, the Group has more than 6,000 enterprise customers, ranging from multinational  corporations  to  small  and  mediumsized enterprises. CBA's Non-FI Data Business operates in Singapore and Malaysia, where enterprise  customers  can  access  a  wide  ran...
+   --- [Chunk 2] ---
+   Vision
+We aspire to be the leading credit and risk information solutions provider in the regions we operate in....
+   --- [Chunk 3] ---
+   OPERATIONS REVIEW
+![Image](output_md\CBA - Annual Report 2022_artifacts\image_000018_b5df54087be80e2ee903da44aa0f403711e14efed777aa0ae9b6fb5a137804e8.png)
+services for customers' various purposes including financial health checks, sales and marketing solutions,  leads  generation,  monitoring  servi...
+   --- [Chunk 4] ---
+   Mission
+To be the key enabler between lenders and borrowers, promoting lending and borrowing, with higher levels of information transparency, greater credit responsibility, and better data security and protection....
+💡 AI Answer (ibm/granite-4-h-small):  The company's vision statement is "We aspire to be the leading credit and risk information solutions provider in the regions we operate in."
+
+📝 Q8: What were the key highlights mentioned in the Chairman’s statement?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   TABLE OF CONTENTS
+- 1 Corporate  Profile
+2 Chairman's Message
+- 6 Board of Directors
+8
+4 Our Regional Footprint
+Key Management
+- 12 Operations Review
+- 9 Group Structure
+- 14 Corporate Information
+5 Financial Highlights
+- 10 Major Milestones
+- 15 Sustainability Report
+- 49 Directors' Statement
+25 Co...
+   --- [Chunk 2] ---
+   Board Composition and Guidance
+Principle 2: The board has an appropriate level of independence and diversity of thought and background in its composition to enable it to make decisions in the best interest of the Company.
+The current Chairman is not an Independent Director. As at the date of this An...
+   --- [Chunk 3] ---
+   CORPORATE GOVERNANCE
+The performance criteria do not change from year to year. Directors can also provide input on issues which do not fall  under  these  categories,  for  instance,  addressing  specific  areas  where  improvements can be made. Feedback and comments received from the Directors are ...
+   --- [Chunk 4] ---
+   Chairman and Chief Executive Officer
+Principle 3:  There  is  a  clear  division  of  responsibilities  between  the  leadership  of  the  Board  and  Management,  and  no  one individual has unfettered powers of decision-making.
+The Board recognises the Code's recommendation that the Chairman and t...
+💡 AI Answer (ibm/granite-4-h-small):  I cannot find this information in the provided documents.
+
+📝 Q9: Who are the Broad Members and describe their responsibilities
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   Board Composition and Guidance
+The NC is responsible for examining the size and composition of the Board and Board Committees. The composition of the Board and Board Committees are also reviewed on an annual basis by the NC and the Board to ensure that their size is  appropriate so as to facilitate ...
+   --- [Chunk 2] ---
+   Access to complete, adequate and timely information
+The Directors have separate and independent access to Management and the Company Secretary. The agenda for the meetings of the Board and Board Committees, together with the appropriate supporting documents, are circulated to the Board and Board Com...
+   --- [Chunk 3] ---
+   The Board's Conduct of Affairs
+Principle 1: The Company is headed by an effective Board which is collectively responsible and works with management for the long-term success of the Company.
+The Board is involved in the supervision of the management of the Group's operations. It reviews strategies, p...
+   --- [Chunk 4] ---
+   CORPORATE GOVERNANCE
+In  addition,  to  ensure  that  the  Board  is  able  to  fulfill  its  responsibilities  and  to  make  informed  decisions  in  a  timely manner, Management regularly provides the Board with annual financial plans, monthly management accounts and reports when requested, and o...
+💡 AI Answer (ibm/granite-4-h-small):  Based on the provided context, the Board members are not explicitly named. However, it states that the Board consists of directors who are expected to act in good faith and make objective decisions in the best interests of the company. Their responsibilities include supervising the group's operations, reviewing strategies, policies and financial performance, assessing key risks, and ensuring the adequacy of internal controls and risk management systems. They delegate day-to-day management to executive directors and management.
+
+📝 Q10: What major strategic priority was announced for the upcoming financial year?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   5.  ECONOMIC PERFORMANCE
+Economic performance is a key and paramount material  factor  for  the  Company.  As  a  publicly listed  company  on  SGX-ST,  driving  growth  and profitability  is  the  first  and  foremost  step  to guaranteeing the sustainability of the Company's business.
+The  Company...
+   --- [Chunk 2] ---
+   3.  ABOUT THIS REPORT
+This report summarizes the Company's policies, approaches, efforts and performance data for our material economic, environment, social and governance ('EESG') factors that are related and fundamental to our business and stakeholders, covering the financial year ended 31 Decembe...
+   --- [Chunk 3] ---
+   NOTES TO FINANCIAL STATEMENTS
+31 DECEMBER 2022...
+   --- [Chunk 4] ---
+   NOTES TO FINANCIAL STATEMENTS
+31 DECEMBER 2022...
+💡 AI Answer (ibm/granite-4-h-small):  I do not have enough information to determine what major strategic priority was announced for the upcoming financial year based on the provided context.
+
+📝 Q11: What is the total revenue for FY2023?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   MANOEUVRING THE RECOVERY
+On the back of strong performance from both our financial institution data business ('FI Data Business') and  non-financial  institution  data  business  ('NonFI Data Business'), the Group has achieved S$48.6 million in revenue for FY2022, which was an increase of 7% from FY...
+   --- [Chunk 2] ---
+   22 REVENUE
+,  = . , Group = 2022. , Group = 2021. ,  = . , Group = $. , Group = $. ,  = Type of services. , Group = . , Group = . ,  = Sales of reports. , Group = 42,952,333. , Group = 40,143,218. ,  = Others. , Group = 5,663,893. , Group = 5,235,629. ,  = . , Group = 48,616,226. , Group = 45,378,84...
+   --- [Chunk 3] ---
+   YEAR ENDED 31 DECEMBER 2022
+2022, Total = 39,529,248
+See accompanying notes to financial statements....
+   --- [Chunk 4] ---
+   Revenue from major products and services
+The Group's revenue from its major products and services are disclosed in Note 22....
+💡 AI Answer (ibm/granite-4-h-small):  I cannot find this information in the provided documents.
+
+📝 Q12: What is the net profit after tax for FY2023?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   25 PROFIT BEFORE TAX
+Profit before tax has been arrived at after charging (crediting):...
+   --- [Chunk 2] ---
+   25 PROFIT BEFORE TAX
+Group = 380,452. Short term and low value lease expenses, Group = 416,068...
+   --- [Chunk 3] ---
+   26 INCOME TAX EXPENSE
+Domestic income tax is calculated at 17% (2021: 17%) of the estimated assessable profit for the financial year....
+   --- [Chunk 4] ---
+   26 INCOME TAX EXPENSE (cont'd)
+The total charge for the year can be reconciled to the accounting profit as follows:...
+💡 AI Answer (ibm/granite-4-h-small):  I cannot find this information in the provided documents.
+
+📝 Q13: What is the Earnings Per Share (EPS) for FY2023?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   27 EARNINGS PER SHARE
+Earnings per share for the year ended 31 December 2022 have been calculated based on profit attributable to owners of  the  Company  of  $8,404,483  and  the  weighted  average  number  of  ordinary  shares  outstanding  of 230,390,000 shares.
+Earnings per share for the year en...
+   --- [Chunk 2] ---
+   YEAR ENDED 31 DECEMBER 2022
+Company, Share capital = . Company, Retained earnings = . Company, Total = . Balance as at 1 January 2021, Share capital = 35,051,183. Balance as at 1 January 2021, Retained earnings = 949,061. Balance as at 1 January 2021, Total = 36,000,244. Profit for the year, represe...
+   --- [Chunk 3] ---
+   YEAR ENDED 31 DECEMBER 2022
+35,051,183. Balance as at 31 December 2021, Retained earnings = 4,599,200. Balance as at 31 December 2021, Total = 39,650,383. Profit for the year, representing total, Share capital = . Profit for the year, representing total, Retained earnings = . Profit for the year, re...
+   --- [Chunk 4] ---
+   CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+= 27. Basic and diluted earnings per share (cents), Group = 3.65. Basic and diluted earnings per share (cents), Group = 3.40
+See accompanying notes to financial statements....
+💡 AI Answer (ibm/granite-4-h-small): 3.65 cents
+
+📝 Q14: What is the Total Assets value for FY2023?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   16 TRADE AND OTHER PAYABLES
+Included in the trade and other payables are amounts relating to the acquisition of property, plant and equipment of $8,530 (2021: $34,239) and the acquisition of intangible assets of $11,066 (2021: $Nil) as at 31 December 2022....
+   --- [Chunk 2] ---
+   STATEMENTS OF CHANGES IN EQUITY YEAR ENDED 31 DECEMBER 2022
+= . Translation, capital (Note A) (Note B) reserves earnings the Company interests Total $ $ $ $ $ $ $ $ Balance as at 1 January 2022 35,051,183 (442,221) (1,871,361) (352,999) 14,897,925 47,282,527 16,009,685 63,292,212 comprehensive incom...
+   --- [Chunk 3] ---
+   11 RIGHT-OF-USE ASSETS
+Depreciation (1), Office and data centre premises = 1,342,883. Depreciation (1), Equipment = 975,316. Depreciation (1), Total = 2,318,199. At 31 December 2022, Office and data centre premises = 6,032,447. At 31 December 2022, Equipment = 3,517,432. At 31 December 2022, Total =...
+   --- [Chunk 4] ---
+   (v) Fair value of financial assets and financial liabilities
+, Group and Company = . , Group and Company = 2022. , Group and Company = . , Group and Company = 2021. , Group and Company = 2021. , Group and Company = 2021. , Group and Company = Fair value level. , Group and Company = Carrying amount. ...
+💡 AI Answer (ibm/granite-4-h-small):  I cannot find this information in the provided documents.
+
+📝 Q15: What is the Total Equity attributable to shareholders?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   STATEMENTS OF FINANCIAL POSITION AS AT 31 DECEMBER 2022
+= . Equity attributable to owners of the Company, Group = 47,537,652. Equity attributable to owners of the Company, Group = 47,282,527. Equity attributable to owners of the Company, Company = 39,529,248. Equity attributable to owners of the Com...
+   --- [Chunk 2] ---
+   STATEMENTS OF CHANGES IN EQUITY YEAR ENDED 31 DECEMBER 2022
+= . Non- controlling interests, 9,245 = 1. Non- controlling interests, (13,085,900) = (9,169,270). Non- controlling interests, (13,076,655) = (9,169,269). Non- controlling interests, 63,292,212 = 16,009,685. attributable to owners of the Co...
+   --- [Chunk 3] ---
+   STATEMENTS OF CHANGES IN EQUITY YEAR ENDED 31 DECEMBER 2022
+= . attributable to owners of the Company, 9,245 = 9,244. attributable to owners of the Company, (13,085,900) = (3,916,630). attributable to owners of the Company, (13,076,655) = (3,907,386). attributable to owners of the Company, 63,292,21...
+   --- [Chunk 4] ---
+   STATEMENTS OF FINANCIAL POSITION AS AT 31 DECEMBER 2022
+= . Merger reserves, Group = (442,221). Merger reserves, Group = (442,221). Merger reserves, Company = -. Merger reserves, Company = -. Other reserves,  = . Other reserves, Group = (1,871,361). Other reserves, Group = (1,871,361). Other reserve...
+💡 AI Answer (ibm/granite-4-h-small): 63,988,421
+
+📝 Q16: What is the Net Asset Value (NAV) per share?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   15 INVESTMENTS IN JOINT VENTURES (cont'd)
+2022 = 1,938,505. Net assets, 2021 = 2,765,850. Proportion of the Group's ownership, 2022 = 40%. Proportion of the Group's ownership, 2021 = 40%. Group's share of net assets, 2022 = 775,402. Group's share of net assets, 2021 = 1,106,340...
+   --- [Chunk 2] ---
+   YEAR ENDED 31 DECEMBER 2022
+35,051,183. Balance as at 31 December 2021, Retained earnings = 4,599,200. Balance as at 31 December 2021, Total = 39,650,383. Profit for the year, representing total, Share capital = . Profit for the year, representing total, Retained earnings = . Profit for the year, re...
+   --- [Chunk 3] ---
+   15 INVESTMENTS IN JOINT VENTURES (cont'd)
+, 2022 = $. , 2021 = $. Net assets, 2022 = 10,655,097. Net assets, 2021 = 9,431,171. Proportion of the Group's ownership, 2022 = 49%. Proportion of the Group's ownership, 2021 = 49%. Group's share of net assets, 2022 = 5,220,998. Group's share of net assets,...
+   --- [Chunk 4] ---
+   21 SHARE CAPITAL
+, Group and Company = 2022. , Group and Company = 2021. , Group and Company = 2022. , Group and Company = 2021. , Group and Company = Number of ordinary shares. , Group and Company = Number of ordinary shares. , Group and Company = $. , Group and Company = $. Issued and paid up:, Gr...
+💡 AI Answer (ibm/granite-4-h-small): 0.19
+
+📝 Q17: What is the debt-to-equity ratio listed in the Key Financial Ratios table?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   STATEMENTS OF FINANCIAL POSITION AS AT 31 DECEMBER 2022
+= . Equity attributable to owners of the Company, Group = 47,537,652. Equity attributable to owners of the Company, Group = 47,282,527. Equity attributable to owners of the Company, Company = 39,529,248. Equity attributable to owners of the Com...
+   --- [Chunk 2] ---
+   Classification as debt or equity
+Financial liabilities and equity instruments issued by the Group are classified according to the substance of the contractual arrangements entered into and the definitions of a financial liability and an equity instrument....
+   --- [Chunk 3] ---
+   STATEMENTS OF CHANGES IN EQUITY YEAR ENDED 31 DECEMBER 2022
+= Other reserves. , (7,833,260) (10,433,615) (18,266,875) (10,433,615) (18,266,875) = . , 16,450,769 63,988,421 = . , the entities acquired from common = 31. , Credit Bureau Holdings Pte. Ltd., = . , to non-controlling interest pertains = t...
+   --- [Chunk 4] ---
+   STATEMENTS OF CHANGES IN EQUITY YEAR ENDED 31 DECEMBER 2022
+= . Share, capital (Note A) (Note B) reserves earnings the Company interests Total $ $ $ $ $ $ $ $ Balance as at 1 January 2022 35,051,183 (442,221) (1,871,361) (352,999) 14,897,925 47,282,527 16,009,685 63,292,212 comprehensive income for ...
+💡 AI Answer (ibm/granite-4-h-small): 0.62
+
+📝 Q18: Which business segment contributed the highest revenue?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   Segment revenues and results
+The following is an analysis of the Group's revenue and results by reportable segment:...
+   --- [Chunk 2] ---
+   22 REVENUE
+,  = . , Group = 2022. , Group = 2021. ,  = . , Group = $. , Group = $. ,  = Type of services. , Group = . , Group = . ,  = Sales of reports. , Group = 42,952,333. , Group = 40,143,218. ,  = Others. , Group = 5,663,893. , Group = 5,235,629. ,  = . , Group = 48,616,226. , Group = 45,378,84...
+   --- [Chunk 3] ---
+   Segment revenues and results
+= (198,530). Share of result of joint ventures, Non-financial institution data = -. Share of result of joint ventures, Financial institution data = 1,472,229. Share of result of joint ventures, Total = 1,472,229. Profit before tax, Non-financial institution data = 11,030...
+   --- [Chunk 4] ---
+   Revenue from major products and services
+The Group's revenue from its major products and services are disclosed in Note 22....
+💡 AI Answer (ibm/granite-4-h-small):  The financial institution data segment contributed the highest revenue with $11,821,771.
+
+📝 Q19: What is the percentage increase/decrease in revenue compared to FY2022?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   MANOEUVRING THE RECOVERY
+On the back of strong performance from both our financial institution data business ('FI Data Business') and  non-financial  institution  data  business  ('NonFI Data Business'), the Group has achieved S$48.6 million in revenue for FY2022, which was an increase of 7% from FY...
+   --- [Chunk 2] ---
+   5.  ECONOMIC PERFORMANCE
+Economic performance is a key and paramount material  factor  for  the  Company.  As  a  publicly listed  company  on  SGX-ST,  driving  growth  and profitability  is  the  first  and  foremost  step  to guaranteeing the sustainability of the Company's business.
+The  Company...
+   --- [Chunk 3] ---
+   22 REVENUE
+,  = . , Group = 2022. , Group = 2021. ,  = . , Group = $. , Group = $. ,  = Type of services. , Group = . , Group = . ,  = Sales of reports. , Group = 42,952,333. , Group = 40,143,218. ,  = Others. , Group = 5,663,893. , Group = 5,235,629. ,  = . , Group = 48,616,226. , Group = 45,378,84...
+   --- [Chunk 4] ---
+   Revenue from major products and services
+The Group's revenue from its major products and services are disclosed in Note 22....
+💡 AI Answer (ibm/granite-4-h-small): 7%
+
+📝 Q20: What is the total dividend declared for the reporting year?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   29 DIVIDENDS
+On 3 June 2022, a final dividend of 1.7 cents per share (total dividend $3,916,630) for the year ended 31 December 2021 was paid to shareholders. On 2 September 2022, an interim dividend of 1.7 cents per share (total dividend $3,916,630) for the year ended 31 December 2022 was paid to s...
+   --- [Chunk 2] ---
+   STATEMENTS OF CHANGES IN EQUITY YEAR ENDED 31 DECEMBER 2022
+= . Share, capital (Note A) (Note B) reserves earnings the Company interests Total $ $ $ $ $ $ $ $ Balance as at 1 January 2022 35,051,183 (442,221) (1,871,361) (352,999) 14,897,925 47,282,527 16,009,685 63,292,212 comprehensive income for ...
+   --- [Chunk 3] ---
+   YEAR ENDED 31 DECEMBER 2022
+Company, Share capital = . Company, Retained earnings = . Company, Total = . Balance as at 1 January 2021, Share capital = 35,051,183. Balance as at 1 January 2021, Retained earnings = 949,061. Balance as at 1 January 2021, Total = 36,000,244. Profit for the year, represe...
+   --- [Chunk 4] ---
+   STATEMENTS OF CHANGES IN EQUITY YEAR ENDED 31 DECEMBER 2022
+= . , capital (Note A) (Note B) reserves earnings the Company interests Total $ $ $ $ $ $ $ $ Balance as at 1 January 2022 35,051,183 (442,221) (1,871,361) (352,999) 14,897,925 47,282,527 16,009,685 63,292,212 comprehensive income for the y...
+💡 AI Answer (ibm/granite-4-h-small): 3,916,630
+
+📝 Q21: According to the revenue trend chart, which year recorded the highest revenue?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   22 REVENUE
+,  = . , Group = 2022. , Group = 2021. ,  = . , Group = $. , Group = $. ,  = Type of services. , Group = . , Group = . ,  = Sales of reports. , Group = 42,952,333. , Group = 40,143,218. ,  = Others. , Group = 5,663,893. , Group = 5,235,629. ,  = . , Group = 48,616,226. , Group = 45,378,84...
+   --- [Chunk 2] ---
+   Segment revenues and results
+The following is an analysis of the Group's revenue and results by reportable segment:...
+   --- [Chunk 3] ---
+   Segment revenues and results
+31 December 2022, Non-financial institution data = . 31 December 2022, Financial institution data = . 31 December 2022, Total = . Segment results, Non-financial institution data = . Segment results, Financial institution data = . Segment results, Total = . Revenue, Non-f...
+   --- [Chunk 4] ---
+   Segment revenues and results
+= (198,530). Share of result of joint ventures, Non-financial institution data = -. Share of result of joint ventures, Financial institution data = 1,472,229. Share of result of joint ventures, Total = 1,472,229. Profit before tax, Non-financial institution data = 11,030...
+💡 AI Answer (ibm/granite-4-h-small): 2022
+
+📝 Q22: Based on the profit margin chart, what is the approximate net profit margin for FY2023?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   28 SEGMENT INFORMATION (cont'd)
+(127,461). Finance costs, Total = (150,441). Share of result of joint ventures, Non-financial institution data = -. Share of result of joint ventures, Financial institution data = 1,182,705. Share of result of joint ventures, Total = 1,182,705. Profit before tax, Non-...
+   --- [Chunk 2] ---
+   Segment revenues and results
+= (198,530). Share of result of joint ventures, Non-financial institution data = -. Share of result of joint ventures, Financial institution data = 1,472,229. Share of result of joint ventures, Total = 1,472,229. Profit before tax, Non-financial institution data = 11,030...
+   --- [Chunk 3] ---
+   25 PROFIT BEFORE TAX
+Group = 380,452. Short term and low value lease expenses, Group = 416,068...
+   --- [Chunk 4] ---
+   CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+= . Depreciation and amortisation expense, Group = (4,234,106). Depreciation and amortisation expense, Group = (4,289,016). Other operating expenses,  = . Other operating expenses, Group = (11,105,394). Other operating expenses,...
+💡 AI Answer (ibm/granite-4-h-small): 8%
+
+📝 Q23: From the segment revenue bar chart, which segment experienced the largest year-on-year growth?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   Segment revenues and results
+The following is an analysis of the Group's revenue and results by reportable segment:...
+   --- [Chunk 2] ---
+   22 REVENUE
+,  = . , Group = 2022. , Group = 2021. ,  = . , Group = $. , Group = $. ,  = Type of services. , Group = . , Group = . ,  = Sales of reports. , Group = 42,952,333. , Group = 40,143,218. ,  = Others. , Group = 5,663,893. , Group = 5,235,629. ,  = . , Group = 48,616,226. , Group = 45,378,84...
+   --- [Chunk 3] ---
+   Segment revenues and results
+31 December 2022, Non-financial institution data = . 31 December 2022, Financial institution data = . 31 December 2022, Total = . Segment results, Non-financial institution data = . Segment results, Financial institution data = . Segment results, Total = . Revenue, Non-f...
+   --- [Chunk 4] ---
+   Segment revenues and results
+= (198,530). Share of result of joint ventures, Non-financial institution data = -. Share of result of joint ventures, Financial institution data = 1,472,229. Share of result of joint ventures, Total = 1,472,229. Profit before tax, Non-financial institution data = 11,030...
+💡 AI Answer (ibm/granite-4-h-small):  The financial institution segment experienced the largest year-on-year growth based on the segment revenue figures provided.
+
+    In 2021, the financial institution segment had revenue of $20,039,631 while in 2022 it increased to $22,912,702. This represents an increase of approximately $2.87 million or about 14.3% year-over-year growth for that segment.
+
+    For comparison, the non-financial institution segment went from $20,103,587 in 2021 to $20,664,631 in 2022 - an increase of only around $561k or 2.8% growth.
+
+    Therefore, looking at the two segments side-by-side, the financial institution portion shows much more substantial top-line expansion between the two years compared to the other business area.
+
+📝 Q24: According to the geographical sales pie chart, which region contributes the largest share?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   Geographical information
+The Group operates in 4 principal geographical areas - Singapore (country of domicile), Malaysia, Cambodia and Myanmar.
+In  presenting  information  on  the  basis  of  geographical  areas,  segment  revenue,  profit  (loss)  before  tax  and non-current assets are based on ...
+   --- [Chunk 2] ---
+   14 INVESTMENTS IN SUBSIDIARIES (cont'd)
+, Country of incorporation (or residence) = . , Proportion of effective ownership interest = 2022. , Proportion of effective ownership interest = 2021. , Proportion of voting power held = 2022. , Proportion of voting power held = 2021. , Principal activity = ....
+   --- [Chunk 3] ---
+   14 INVESTMENTS IN SUBSIDIARIES (cont'd)
+Ltd.:. Held by NSP Asia Investment Holding Pte. Ltd.:, Proportion of effective ownership interest = Held by NSP Asia Investment Holding Pte. Ltd.:. Held by NSP Asia Investment Holding Pte. Ltd.:, Proportion of effective ownership interest = Held by NSP Asia In...
+   --- [Chunk 4] ---
+   Segment revenues and results
+The following is an analysis of the Group's revenue and results by reportable segment:...
+💡 AI Answer (ibm/granite-4-h-small):  I do not have enough information from the given context to determine which geographic region contributes the largest share according to a sales pie chart. The context only provides high-level information about the group operating in Singapore, Malaysia, Cambodia and Myanmar, but does not include any specific details or data about sales broken down by those regions that would allow me to identify the top contributing market from a pie chart visualization.
+
+📝 Q25: Based on the cost breakdown chart, which cost category increased the most year-on-year?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   a) Categories of financial instruments
+The following table sets out the financial instruments as at the end of the year:...
+   --- [Chunk 2] ---
+   22 REVENUE
+,  = . , Group = 2022. , Group = 2021. ,  = . , Group = $. , Group = $. ,  = Type of services. , Group = . , Group = . ,  = Sales of reports. , Group = 42,952,333. , Group = 40,143,218. ,  = Others. , Group = 5,663,893. , Group = 5,235,629. ,  = . , Group = 48,616,226. , Group = 45,378,84...
+   --- [Chunk 3] ---
+   NOTES TO FINANCIAL STATEMENTS
+13,575,197. ,
+= 6,923,350. , (365) (518) = 6,651,847 13,575,197 11,999,714. , (883) = (54,907). , (1,408) = 10,395,843 15,050,999. , - = (10,235,347). , - (1,408) = 105,589
+31 DECEMBER 2022...
+   --- [Chunk 4] ---
+   11 RIGHT-OF-USE ASSETS
+Group, Office and data centre premises = . Group, Equipment = . Group, Total = . Cost:, Office and data centre premises = . Cost:, Equipment = . Cost:, Total = . At 1 January 2021, Office and data centre premises = 5,340,618. At 1 January 2021, Equipment = 2,856,004. At 1 Janu...
+💡 AI Answer (ibm/granite-4-h-small):  The equipment cost category increased the most year-on-year based on the cost breakdown chart.
+
+📝 Q26: Summarise the main points from the CEO’s message in three sentences.
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   Chairman and Chief Executive Officer
+Principle 3:  There  is  a  clear  division  of  responsibilities  between  the  leadership  of  the  Board  and  Management,  and  no  one individual has unfettered powers of decision-making.
+The Board recognises the Code's recommendation that the Chairman and t...
+   --- [Chunk 2] ---
+   Chairman and Chief Executive Officer
+Mr  Kevin  Koo  is  the  Executive  Chairman  and  CEO  of  the  Company.  As  Executive  Chairman,  he  (a)  leads  the  Board to ensure its effectiveness on all aspects of its role; (b) sets the agenda and ensure that adequate time is available for discussion o...
+   --- [Chunk 3] ---
+   TABLE OF CONTENTS
+- 1 Corporate  Profile
+2 Chairman's Message
+- 6 Board of Directors
+8
+4 Our Regional Footprint
+Key Management
+- 12 Operations Review
+- 9 Group Structure
+- 14 Corporate Information
+5 Financial Highlights
+- 10 Major Milestones
+- 15 Sustainability Report
+- 49 Directors' Statement
+25 Co...
+   --- [Chunk 4] ---
+   ACKNOWLEDGEMENT AND APPRECIATION
+On  behalf  of  our  Board,  I  would  like  to  offer  our sincere  thanks  to  the  management  team  for  their leadership.  I would also like to express my gratitude to  my  fellow  directors  on  the  Board  for  their  wise counsel  and  guidance.  I  would  li...
+💡 AI Answer (ibm/granite-4-h-small): 1. The CEO expresses gratitude towards the management team for their leadership and guidance. 
+2. He appreciates the board members for providing wise counsel and direction.
+3. The CEO extends his thanks to business partners, associates, customers, shareholders, and employees for their support, confidence, and hard work which have contributed to the company's growth and success.
+
+📝 Q27: Summarise the company’s sustainability/ESG commitments for the reporting year.
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   3.  ABOUT THIS REPORT
+This report summarizes the Company's policies, approaches, efforts and performance data for our material economic, environment, social and governance ('EESG') factors that are related and fundamental to our business and stakeholders, covering the financial year ended 31 Decembe...
+   --- [Chunk 2] ---
+   Climate and Environment
+The Company has consulted SGX on its climaterelated disclosures requirement. Due  to the Company  operating  in  a  'green  environment', SGX has no objection to the Company's view that it  is  not required to provide mandatory climaterelated disclosures commencing 1 January ...
+   --- [Chunk 3] ---
+   1.  BOARD STATEMENT
+The  Board  of  Directors  ('the  Board'  or  'We') of  Credit  Bureau  Asia  Limited  ('CBA'  or  'the Company')  is  pleased  to  present  our  FY2022 Sustainability Report ('SR').
+We are committed to striking a balance between revenue growth, profitability, corporate governanc...
+   --- [Chunk 4] ---
+   6.  EMPLOYMENT
+Review:, Results from the materiality assessment will be validated by the Board. = The validated sustainability matters will undergo yearly monitoring, review and update, taking into account the feedback received from engagement with stakeholders.. The following table of material EESG...
+💡 AI Answer (ibm/granite-4-h-small):  Based on the provided context, here is a summary of the company's sustainability/ESG commitments for the reporting year:
+
+- The company aims to strike a balance between revenue growth, profitability, corporate governance, employee development, and community well-being to achieve long-term success. 
+- Sustainability is seen as the cornerstone to realizing the company's long-term vision.
+- Economic, environmental, social, and governance (EESG) factors are considered and incorporated into how the company operates, grows its business, motivates employees, and serves communities.
+- A Sustainability Steering Committee consisting of management oversees identifying and determining the material EESG factors relevant to the company. These key EESG matters are monitored closely.
+- The company conducts a materiality assessment to validate sustainability matters with the board. Validated sustainability issues undergo yearly monitoring, review, and updates based on stakeholder feedback.
+- For FY2022, none of the identified material EESG factors relate to the environment. However, the company states it will continue to monitor, review, and implement measures to further reduce its environmental impact going forward.
+
+📝 Q28: What key risks are highlighted in the Risk Management section?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   b) Financial risk management policies and objectives
+The Group's overall financial risk management programme seeks to minimise potential adverse effects of financial performance of the Group. Management reviews the overall financial risk management on specific areas, such as market risk (including f...
+   --- [Chunk 2] ---
+   (iii) Credit risk management
+The Group develops and maintains its credit risk gradings to categorise exposures according to their degree of risk of default. The Group uses its own trading records to rate its major customers and other debtors.
+The Group's current credit risk grading framework compris...
+   --- [Chunk 3] ---
+   Risk Management and Internal Controls
+Principle 9: The Board is responsible for the governance of risk and ensures that Management maintains a sound system of risk management and internal controls, to safeguard the interests of the company and its shareholders.
+The Board has ultimate responsibility ...
+   --- [Chunk 4] ---
+   4 FINANCIAL INSTRUMENTS, FINANCIAL RISKS AND CAPITAL MANAGEMENT (cont'd)
+- b) Financial risk management policies and objectives (cont'd)...
+💡 AI Answer (ibm/granite-4-h-small): 1. Market risk - includes foreign exchange risk and interest rate risk
+
+2. Credit risk 
+
+3. Liquidity risk
+
+📝 Q29: Summarise the business strategy outlined for the next 2–3 years.
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   5.  ECONOMIC PERFORMANCE
+Economic performance is a key and paramount material  factor  for  the  Company.  As  a  publicly listed  company  on  SGX-ST,  driving  growth  and profitability  is  the  first  and  foremost  step  to guaranteeing the sustainability of the Company's business.
+The  Company...
+   --- [Chunk 2] ---
+   CORPORATE PROFILE
+For its Non-FI Data Business, the Group has more than 6,000 enterprise customers, ranging from multinational  corporations  to  small  and  mediumsized enterprises. CBA's Non-FI Data Business operates in Singapore and Malaysia, where enterprise  customers  can  access  a  wide  ran...
+   --- [Chunk 3] ---
+   OPERATIONS REVIEW
+![Image](output_md\CBA - Annual Report 2022_artifacts\image_000018_b5df54087be80e2ee903da44aa0f403711e14efed777aa0ae9b6fb5a137804e8.png)
+services for customers' various purposes including financial health checks, sales and marketing solutions,  leads  generation,  monitoring  servi...
+   --- [Chunk 4] ---
+   The Board's Conduct of Affairs
+- l to review and advise on the Group's policies and procedures;
+- l to review and approve financial results and announcements;
+- l to review and approve significant acquisitions and disposals;
+- l to approve material borrowings and fund-raising exercises;
+- l to estab...
+💡 AI Answer (ibm/granite-4-h-small):  I do not have enough information in the given context to summarize the specific business strategy planned for the next 2-3 years. The passage mentions that the company aims to drive growth and profitability while maintaining a resilient business model that is relatively immune to economic cycles and events like the COVID-19 pandemic. It also discusses having over 6,000 enterprise customers across Singapore and Malaysia who use their non-financial data business services. However, no detailed strategic initiatives or priorities are called out for the upcoming few years based on the excerpt provided.
+
+📝 Q30: What operational achievements are described in the Operations Review section?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   OPERATIONS REVIEW
+![Image](output_md\CBA - Annual Report 2022_artifacts\image_000018_b5df54087be80e2ee903da44aa0f403711e14efed777aa0ae9b6fb5a137804e8.png)
+services for customers' various purposes including financial health checks, sales and marketing solutions,  leads  generation,  monitoring  servi...
+   --- [Chunk 2] ---
+   OPERATIONS REVIEW
+The  Group  assists  its  customers  to  make  betterinformed, timely decisions by enhancing their riskassessment  and  decision-making  processes  with the help of its products and services which include credit  and  risk  information  reports,  credit  scores, monitoring services...
+   --- [Chunk 3] ---
+   11. GRI CONTENT INDEX
+'Shareholding Statistics'. 102-6, Disclosure Title = Markets served. 102-6, Page Number and Reasons for Omission, if applicable = Refer to 'Operations Review'. 102-7, Disclosure Title = Scale of organization. 102-7, Page Number and Reasons for Omission, if applicable = Refer to...
+   --- [Chunk 4] ---
+   TABLE OF CONTENTS
+- 1 Corporate  Profile
+2 Chairman's Message
+- 6 Board of Directors
+8
+4 Our Regional Footprint
+Key Management
+- 12 Operations Review
+- 9 Group Structure
+- 14 Corporate Information
+5 Financial Highlights
+- 10 Major Milestones
+- 15 Sustainability Report
+- 49 Directors' Statement
+25 Co...
+💡 AI Answer (ibm/granite-4-h-small):  I do not have enough information from the given context to determine what specific operational achievements were described in the Operations Review section of the annual report.
+
+📝 Q31:  What are the primary responsibilities of the Audit Committee regarding the Group’s internal controls and risk management?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   Internal Audit
+The Internal Audit is an independent function that reports directly to the Chairman of the AC on audit matters and to the CEO and CFO on administrative matters. The Internal Audit has unrestricted access to all of the Group's document and records, as well as to the AC. The AC approves...
+   --- [Chunk 2] ---
+   Risk Management and Internal Controls
+Principle 9: The Board is responsible for the governance of risk and ensures that Management maintains a sound system of risk management and internal controls, to safeguard the interests of the company and its shareholders.
+The Board has ultimate responsibility ...
+   --- [Chunk 3] ---
+   Auditor's Responsibilities for the Audit of the Financial Statements
+- (a) Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient an...
+   --- [Chunk 4] ---
+   Auditor's Responsibilities for the Audit of the Financial Statements (cont'd)
+- (e) Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that ...
+💡 AI Answer (ibm/granite-4-h-small):  According to the context provided:
+
+1. **Oversight of Risk Governance**: The Audit Committee (AC) assists the Board in overseeing the governance of risk. While the Board holds ultimate responsibility for risk governance, it relies on the AC to exercise oversight over material risk matters affecting the Group's business【6†source】.
+
+2. **Review of Internal Controls**: The AC is tasked with reviewing the adequacy and effectiveness of the Company's internal controls on an annual basis. This includes evaluating financial, operational, compliance, and information technology controls, as well as risk management policies and systems established by Management【7†source】.
+
+3. **Evaluation of Control Policies and Procedures**: Management regularly reviews and refines the Company's business and operational activities to identify significant business risks and appropriate measures to control and mitigate these risks. They highlight all material matters to the Directors and the AC, who then review these aspects to ensure they meet necessary standards【7†source】.
+
+These responsibilities underscore the AC's critical role in ensuring that the Group maintains robust internal controls and effective risk management practices, aligning with the overarching goal of safeguarding shareholder interests and protecting the Group's assets.
+
+📝 Q32: What was the total value of "Computers equipment" additions made by the Group in FY2022?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   10 PROPERTY, PLANT AND EQUIPMENT (cont'd)
+Company, Computer equipment = . Cost:, Computer equipment = . At 1 January 2022, Computer equipment = -. Addition and at 31 December 2022, Computer equipment = 1,050. Accumulated depreciation:, Computer equipment = . At 1 January 2022, Computer equipment = -...
+   --- [Chunk 2] ---
+   10 PROPERTY, PLANT AND EQUIPMENT
+amount:, Construction- in-progress = . Carrying amount:, Total = . At 31 December 2022, Leasehold improvements = 184,280. At 31 December 2022, Furniture and fittings = 142,399. At 31 December 2022, Computer equipment = 2,261,607. At 31 December 2022, Construction- in...
+   --- [Chunk 3] ---
+   10 PROPERTY, PLANT AND EQUIPMENT
+Group, Leasehold improvements = . Group, Furniture and fittings = . Group, Computer equipment = . Group, Construction- in-progress = . Group, Total = . Cost:, Leasehold improvements = . Cost:, Furniture and fittings = . Cost:, Computer equipment = . Cost:, Constructi...
+   --- [Chunk 4] ---
+   a) Litigation database and computer software
+amount:, Computer software = . Carrying amount:, Contruction-in- progress = . Carrying amount:, Total = . At 31 December 2022, Litigation database = 592,165. At 31 December 2022, Computer software = 2,134,010. At 31 December 2022, Contruction-in- progress...
+💡 AI Answer (ibm/granite-4-h-small): 1,043,801
+
+📝 Q33: Which geographical region outside of Singapore contributed the most revenue in FY2022, and how much did it contribute?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   Geographical information
+(Loss) before tax = . 31 December 2021, Non-current assets = . Singapore, Revenue = 44,158,058. Singapore, Profit (Loss) before tax = 21,227,814. Singapore, Non-current assets = 23,646,308. Malaysia, Revenue = 1,220,789. Malaysia, Profit (Loss) before tax = (781,204). Malays...
+   --- [Chunk 2] ---
+   Geographical information
+, Revenue = $. , Profit (Loss) before tax = $. , Non-current assets = $. 31 December 2022, Revenue = . 31 December 2022, Profit (Loss) before tax = . 31 December 2022, Non-current assets = . Singapore, Revenue = 47,019,979. Singapore, Profit (Loss) before tax = 21,304,894. S...
+   --- [Chunk 3] ---
+   NOTES TO FINANCIAL STATEMENTS
+31 DECEMBER 2022
+Singapore, Ltd. = Credit Bureau. Singapore, 2021 $ = 2022 $. Singapore, 99,117 - - - = 7,118,197 1,437,752 (7,758,946) (91,556). Singapore, (40,945) (58,172) = (291,420) (414,027). Singapore, - (883) = 10,991,009 4,853,483. Singapore, - (883) = (897,153...
+   --- [Chunk 4] ---
+   14 INVESTMENTS IN SUBSIDIARIES (cont'd)
+Pte. Ltd. (1)(5), Country of incorporation (or residence) = Singapore. Dun & Bradstreet (Singapore) Pte. Ltd. (1)(5), Proportion of effective ownership interest = 41.31. Dun & Bradstreet (Singapore) Pte. Ltd. (1)(5), Proportion of effective ownership interest ...
+💡 AI Answer (ibm/granite-4-h-small):  Based on the financial data for FY2022:
+
+- Singapore generated $47,019,979 in revenue.
+- Malaysia generated $1,596,247 in revenue.
+
+Therefore, Singapore was the only geographical region that contributed significant revenue in FY2022, with a total of $47,019,979. No other regions listed (Malaysia, Cambodia, Myanmar) had any reported revenue figures for FY2022 according to the provided context.
+
+📝 Q34: Summarise the distribution of shareholdings by size of shareholding, including the total number of shareholders and the most common bracket of shares held.
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   DISTRIBUTION OF SHAREHOLDINGS
+0.79. 1,000,001 AND ABOVE, NO. OF SHARES = 214,727,400. 1,000,001 AND ABOVE, % = 93.2. TOTAL, NO. OF SHAREHOLDERS = 1,400. TOTAL, % = 100. TOTAL, NO. OF SHARES = 230,390,000. TOTAL, % = 100...
+   --- [Chunk 2] ---
+   DISTRIBUTION OF SHAREHOLDINGS
+1 - 99, NO. OF SHAREHOLDERS = 0. 1 - 99, % = 0. 1 - 99, NO. OF SHARES = 0. 1 - 99, % = 0. 100 - 1,000, NO. OF SHAREHOLDERS = 339. 100 - 1,000, % = 24.21. 100 - 1,000, NO. OF SHARES = 303,500. 100 - 1,000, % = 0.13. 1,001 - 10,000, NO. OF SHAREHOLDERS = 838. 1,001 - 10,0...
+   --- [Chunk 3] ---
+   33 EVENTS AFTER THE REPORTING PERIOD
+Class of share, : = :. Class of share, 230,390,000 = Ordinary shares fully paid. Voting rights, : = :. Voting rights, 230,390,000 = One vote for each ordinary share. Number and percentage of treasury shares and subsidiary holdings held, : = :. Number and percenta...
+   --- [Chunk 4] ---
+   21 SHARE CAPITAL
+, Group and Company = 2022. , Group and Company = 2021. , Group and Company = 2022. , Group and Company = 2021. , Group and Company = Number of ordinary shares. , Group and Company = Number of ordinary shares. , Group and Company = $. , Group and Company = $. Issued and paid up:, Gr...
+💡 AI Answer (ibm/granite-4-h-small):  The document provides a breakdown of the distribution of shareholdings by size of shareholding:
+
+- There are 1,400 total shareholders.
+- The largest group is those holding between 1,001 and 10,000 shares, comprising 838 shareholders (59.86%).
+- This is followed by those holding between 10,001 and 1,000,000 shares, with 212 shareholders (15.14%).
+- Shareholders holding over 1,000,001 shares make up the smallest group at just 11 individuals (less than 1%).
+
+So in summary, the majority of shareholders hold between 1,001 and 10,000 shares, which accounts for nearly 60% of all shareholders.
+
+📝 Q35: According to the "Revenue (Non-FI Data Business)" bar chart, what was the revenue trend from FY2019 to FY2022?
+🔍 Found 4 relevant context chunks in ChromaDB:
+   --- [Chunk 1] ---
+   MANOEUVRING THE RECOVERY
+On the back of strong performance from both our financial institution data business ('FI Data Business') and  non-financial  institution  data  business  ('NonFI Data Business'), the Group has achieved S$48.6 million in revenue for FY2022, which was an increase of 7% from FY...
+   --- [Chunk 2] ---
+   22 REVENUE
+,  = . , Group = 2022. , Group = 2021. ,  = . , Group = $. , Group = $. ,  = Type of services. , Group = . , Group = . ,  = Sales of reports. , Group = 42,952,333. , Group = 40,143,218. ,  = Others. , Group = 5,663,893. , Group = 5,235,629. ,  = . , Group = 48,616,226. , Group = 45,378,84...
+   --- [Chunk 3] ---
+   Segment revenues and results
+31 December 2022, Non-financial institution data = . 31 December 2022, Financial institution data = . 31 December 2022, Total = . Segment results, Non-financial institution data = . Segment results, Financial institution data = . Segment results, Total = . Revenue, Non-f...
+   --- [Chunk 4] ---
+   28 SEGMENT INFORMATION (cont'd)
+31 December 2021, Non-financial institution data = . 31 December 2021, Financial institution data = . 31 December 2021, Total = . Segment results, Non-financial institution data = . Segment results, Financial institution data = . Segment results, Total = . Revenue, No...
+💡 AI Answer (ibm/granite-4-h-small):  I do not have enough information to determine the revenue trend for the Non-FI Data Business from FY2019 to FY2022 based on the given context. The context only provides revenue figures for FY2021 and FY2022, but does not include any historical data going back to FY2019 that would allow me to identify the overall trend over that longer timeframe.
+ Testing model: ibm/granite-13b-instruct-v2
