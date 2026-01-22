@@ -12,9 +12,9 @@ from tqdm import tqdm
 import gemini_vision
 import re
 
-from langchain.vectorstores import Chroma
+from langchain_chroma import Chroma
 from langchain_docling import DoclingLoader
-from langchain_text_splitters import CharacterTextSplitter, TokenTextSplitter
+from langchain_text_splitters import CharacterTextSplitter, TokenTextSplitter, RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores.utils import filter_complex_metadata
 
@@ -253,10 +253,17 @@ def create_chroma_vectordb(
                 chunk_size=chunk_size,
                 chunk_overlap=chunk_overlap
             )
+        elif text_splitter_choice == "RecursiveCharacterTextSplitter":
+            text_splitter = RecursiveCharacterTextSplitter(
+                chunk_size=chunk_size,
+                chunk_overlap=chunk_overlap,
+                length_function=len,
+                is_separator_regex=False,
+            )
         else:
             raise ValueError(
                 f"Unsupported text splitter choice: {text_splitter_choice}. "
-                "Supported splitters are 'CharacterTextSplitter' and 'TokenTextSplitter'."
+                "Supported splitters are 'CharacterTextSplitter', 'TokenTextSplitter', and 'RecursiveCharacterTextSplitter'."
             )        
         
         chunks = text_splitter.split_documents(documents)
