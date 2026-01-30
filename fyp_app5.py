@@ -214,14 +214,8 @@ div[data-testid="stChatInput"] {
 # ------------------------------
 # LLM & Embeddings
 # ------------------------------
-llm = WatsonxLLM(
-    url="https://au-syd.ml.cloud.ibm.com",
-    api_key=os.getenv("WATSONX_APIKEY"),
-    project_id=os.getenv("WATSONX_PROJECT_ID"),
-    model_id=os.getenv("WATSONX_MODEL_ID", "ibm/granite-3-8b-instruct"),
-    params={"temperature": 0.1, "max_new_tokens": 512, "repetition_penalty": 1.1}
-)
-embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+
+embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-mpnet-base-v2")
 
 CHROMA_PERSIST_DIR = "chroma_db"
 
@@ -604,4 +598,5 @@ def main():
         st.session_state.similarity_threshold = similarity_threshold
 
 if __name__ == "__main__":
+
     main()
