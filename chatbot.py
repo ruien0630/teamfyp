@@ -12,7 +12,7 @@ from datetime import datetime
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # Import local utilities
-from docling_util_Final import create_chroma_vectordb
+from App.docling_util_Final import create_chroma_vectordb
 from query_util_FCexp1 import setup_qa_chain, ask_question
 from langchain_chroma import Chroma
 from langchain_docling import DoclingLoader
@@ -27,7 +27,7 @@ load_dotenv()
 # Constants
 UPLOAD_DIR = "./uploaded_documents"
 CHROMA_DB_DIR = "./chroma_db"
-CHAT_HISTORY_FILE = "./chat_history.json"
+CHAT_HISTORY_FILE = "./chat_sessions/chat_history.json"
 SESSION_UPLOAD_DIR = None
 
 def ensure_directories():
@@ -272,6 +272,9 @@ def initialize_session_state():
     
     if "ratings" not in st.session_state:
         st.session_state.ratings = {}
+    
+    if "checkbox_version" not in st.session_state:
+        st.session_state.checkbox_version = 0
 
 def load_qa_chain(filter_dict=None):
     """Load the QA chain from saved vector database"""
@@ -400,28 +403,38 @@ def main():
             # Select/Deselect all buttons
             col_select1, col_select2 = st.columns(2)
             with col_select1:
-                if st.button("✓ Select All", use_container_width=True):
+                if st.button("✓ Select All", use_container_width=True, key="select_all_btn"):
                     st.session_state.selected_files = set(uploaded_files)
+                    # Increment version to force checkbox recreation
+                    st.session_state.checkbox_version += 1
                     st.rerun()
             with col_select2:
-                if st.button("✗ Deselect All", use_container_width=True):
+                if st.button("✗ Deselect All", use_container_width=True, key="deselect_all_btn"):
                     st.session_state.selected_files = set()
+                    # Increment version to force checkbox recreation
+                    st.session_state.checkbox_version += 1
                     st.rerun()
             
             st.caption("Select files to use as sources for chat:")
             
+            # Track if any checkbox state needs to be synced
             for filename in uploaded_files:
                 col1, col2, col3 = st.columns([0.5, 2.5, 1])
                 with col1:
-                    is_selected = st.checkbox(
+                    # Checkbox value is always derived from session state
+                    is_checked = filename in st.session_state.selected_files
+                    # Use version in key to force recreation when Select/Deselect All is clicked
+                    checkbox_state = st.checkbox(
                         "",
-                        value=filename in st.session_state.selected_files,
-                        key=f"select_{filename}",
+                        value=is_checked,
+                        key=f"select_{filename}_v{st.session_state.checkbox_version}",
                         label_visibility="collapsed"
                     )
-                    if is_selected:
+                    
+                    # Update session state based on checkbox
+                    if checkbox_state and filename not in st.session_state.selected_files:
                         st.session_state.selected_files.add(filename)
-                    else:
+                    elif not checkbox_state and filename in st.session_state.selected_files:
                         st.session_state.selected_files.discard(filename)
                 
                 with col2:
