@@ -1,13 +1,9 @@
-My contribution focused on the frontend user interface and file management module of the Financial RAG Chatbot.
+Individual Contribution, Experimentation & Evaluation
 
-This included implementing drag-and-drop file uploads, file selection and unselection controls, session state management, 
-and input-folder integration to support document ingestion.
-I also did for the whole interface as backup which was not used in the end due to time constraints called chatbot3.py. 
-related files: query_util_integrated.py, docling_util_integrated.py
+My primary contribution focused on the frontend user interface and file management module of the Financial RAG Chatbot. This included implementing drag-and-drop file uploads, file selection and unselection controls, Streamlit session state management, and input-folder integration to support document ingestion into the backend processing pipeline. I also developed a complete backup interface (chatbot3.py) to ensure system continuity under tight project timelines, although this version was not used in the final demonstration. Supporting integration files include query_util_integrated.py and docling_util_integrated.py.
 
-I also conducted experiments on different agent models and prompt configurations to evaluate response quality and system behaviour. 
-These development and experimentation files are retained in this repository to demonstrate the design process, technical exploration, 
-and individual contribution for assessment purposes.
+In addition to frontend development, I conducted experimentation on different agent models and prompt configurations to evaluate response quality, consistency, and system behaviour within a Retrieval-Augmented Generation (RAG) setup. These experiments explored how different LLM choices and prompt strategies affected answer grounding, hallucination tendencies, and overall usability. All experimentation and development files have been retained in this repository to document the design process, technical exploration, and individual contribution for assessment purposes.
 
-The final demonstrated chatbot integrates my frontend UI logic with Cheng Nuo’s chatbot interface and team's backend processing pipeline.
-However, since his chatbot was not able to integrate our parts, Rachelle and Rui made a new chatbot integrating everyone's part including retriever, LLM, Chunking, embedding model
+I also attempted to evaluate the RAG system using RAGAS (Retrieval-Augmented Generation Assessment) to measure aspects such as answer relevance, context precision, and faithfulness. However, due to a combination of limited time, a steep learning curve for RAGAS metrics, and IBM token constraints, I was unable to fully complete a formal RAGAS evaluation pipeline. Despite this, the experimentation process informed design decisions and improved my understanding of RAG evaluation methodologies, limitations, and practical trade-offs in real-world projects.
+
+The final demonstrated chatbot integrates my frontend UI logic with Cheng Nuo’s chatbot interface and the team’s backend processing pipeline. When integration challenges arose, Rachelle and Rui implemented a consolidated chatbot that successfully combined all team components, including the retriever, LLM, chunking strategy, and embedding model. This collaborative integration ensured that all individual contributions were represented in the final system.
