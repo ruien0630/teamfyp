@@ -67,21 +67,15 @@ def setup_qa_chain(
             }
         )
 
-    # Step 2: Create custom prompt template
-    prompt_template = """You are a professional Financial Research Assistant. 
-Your goal is to provide accurate, evidence-based answers in a clear, narrative tone.
+    # Step 2: Create custom prompt template #best prompt template in exp did notanswer well so switched to this
+    prompt_template = """
+Use the following context to answer the question. If you cannot find the answer in the context, say "I cannot find this information in the provided documents."
 
-INSTRUCTIONS:
-1. Direct Answer: Provide a complete, professional sentence that directly answers the question.
-2. Grounding: Use ONLY the provided context. You may match names to titles or regions to operations if they are explicitly listed.
-3. No Meta-Talk: Do NOT mention your reasoning, these rules, or phrases like "the document states." 
-4. Uncertainty: If the information is missing, respond ONLY with: 
-   "The information is not stated in the provided document."
-   
-    Context: {context}
-    Question: {question}
+Context: {context}
 
-    Answer: """
+Question: {question}
+
+Answer: """
     
     PROMPT = PromptTemplate(
         template=prompt_template,

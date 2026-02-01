@@ -417,38 +417,9 @@ with st.sidebar:
             else:
                 st.info("No files match your search.")
     
-    # View Markdown Files section
-    st.divider()
-    with st.expander("📄 View Markdown Files", expanded=False):
-        md_dir = "./output_md"
-        if os.path.exists(md_dir):
-            md_files = [f for f in os.listdir(md_dir) if f.endswith(".md")]
-            if md_files:
-                selected_md = st.selectbox("Select markdown file to view:", sorted(md_files), key="md_selector")
-                if selected_md:
-                    md_path = os.path.join(md_dir, selected_md)
-                    try:
-                        with open(md_path, "r", encoding="utf-8") as f:
-                            md_content = f.read()
-                        st.markdown(md_content, unsafe_allow_html=True)
-                        
-                        # Download button
-                        st.download_button(
-                            label=f"⬇️ Download {selected_md}",
-                            data=md_content,
-                            file_name=selected_md,
-                            mime="text/markdown"
-                        )
-                    except Exception as e:
-                        st.error(f"Could not read file: {e}")
-            else:
-                st.info("No markdown files generated yet. Upload a document to create one.")
-        else:
-            st.info("Markdown folder not found.")
+
     
   
-    
-
 #Using CN chat interface   
 # --- MAIN CHAT INTERFACE ---
 with st.container(border=True):
