@@ -9,4 +9,5 @@ I also attempted to evaluate the RAG system using RAGAS (Retrieval-Augmented Gen
 The final demonstrated chatbot integrates my frontend UI logic with Cheng Nuo’s chatbot interface and the team’s backend processing pipeline. When integration challenges arose, Rachelle and Rui implemented a consolidated chatbot that successfully combined all team components, including the retriever, LLM, chunking strategy, and embedding model. This collaborative integration ensured that all individual contributions were represented in the final system.
 
 Note
-The ask_question utility was extended to return retrieved text chunks alongside source metadata to improve transparency, debugging, and interpretability during experimentation. This change does not alter the retrieval or generation behaviour of the system.
+The ask_question utility was extended to return retrieved text chunks alongside source metadata in query_util_integrated.py and query_util_exp5.py to improve transparency, debugging, and interpretability during experimentation. This change does not alter the retrieval or generation behaviour of the system.
+
