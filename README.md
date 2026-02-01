@@ -7,3 +7,6 @@ In addition to frontend development, I conducted experimentation on different ag
 I also attempted to evaluate the RAG system using RAGAS (Retrieval-Augmented Generation Assessment) to measure aspects such as answer relevance, context precision, and faithfulness. However, due to a combination of limited time, a steep learning curve for RAGAS metrics, and IBM token constraints, I was unable to fully complete a formal RAGAS evaluation pipeline. Despite this, the experimentation process informed design decisions and improved my understanding of RAG evaluation methodologies, limitations, and practical trade-offs in real-world projects.
 
 The final demonstrated chatbot integrates my frontend UI logic with Cheng Nuo’s chatbot interface and the team’s backend processing pipeline. When integration challenges arose, Rachelle and Rui implemented a consolidated chatbot that successfully combined all team components, including the retriever, LLM, chunking strategy, and embedding model. This collaborative integration ensured that all individual contributions were represented in the final system.
+
+Note
+The ask_question utility was extended to return retrieved text chunks alongside source metadata to improve transparency, debugging, and interpretability during experimentation. This change does not alter the retrieval or generation behaviour of the system.
